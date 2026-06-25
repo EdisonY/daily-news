@@ -252,6 +252,8 @@ def extract_keywords(text: str, topk: int = 5) -> List[str]:
 
 # --- 翻译模块 ---
 _translator = None
+_translate_fail_count = 0
+_TRANSLATE_FAIL_LIMIT = 5  # 连续失败超过此数后跳过翻译
 
 def _get_translator():
     global _translator
@@ -266,6 +268,10 @@ def translate_to_zh(text: str) -> str:
     将英文文本翻译为中文（免费 MyMemory API）
     如果已经是中文或为空，直接返回
     """
+    global _translate_fail_count
+    if _translate_fail_count >= _TRANSLATE_FAIL_LIMIT:
+        return text
+
     if not text or not text.strip():
         return text
 
@@ -276,10 +282,13 @@ def translate_to_zh(text: str) -> str:
 
     try:
         translator = _get_translator()
-        result = translator.translate(text[:500])  # MyMemory 有长度限制
-        return result if result else text
-    except Exception as e:
-        print(f"  翻译失败: {e}")
+        result = translator.translate(text[:400])
+        if result:
+            _translate_fail_count = 0
+            return result
+        return text
+    except Exception:
+        _translate_fail_count += 1
         return text
 
 

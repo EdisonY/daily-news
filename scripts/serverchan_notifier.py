@@ -75,6 +75,7 @@ class ServerChanNotifier:
         startup_news: List[Dict[str, Any]],
         opportunities_news: List[Dict[str, Any]],
         game_news: List[Dict[str, Any]],
+        bilibili_news: List[Dict[str, Any]] = None,
         report_url: Optional[str] = None
     ) -> tuple:
         """
@@ -170,6 +171,22 @@ class ServerChanNotifier:
                     lines.append(f"   {desc}")
             lines.append("")
 
+        # B站 UP主更新
+        if bilibili_news:
+            lines.append("## 📺 B站 UP主更新")
+            for i, n in enumerate(bilibili_news[:10], 1):
+                up = n.get('up_name', '')
+                up_tag = f" `{up}`" if up else ""
+                title_zh = _title_zh(n)
+                img = _img_line(n)
+                desc = _desc(n)
+                lines.append(f"{i}.{up_tag} [{title_zh}]({n['url']})")
+                if img:
+                    lines.append(img)
+                if desc:
+                    lines.append(f"   {desc}")
+            lines.append("")
+
         # 底部
         if report_url:
             pages_url = report_url
@@ -186,6 +203,7 @@ class ServerChanNotifier:
         startup_news: List[Dict[str, Any]],
         opportunities_news: List[Dict[str, Any]],
         game_news: List[Dict[str, Any]],
+        bilibili_news: List[Dict[str, Any]] = None,
         report_url: Optional[str] = None
     ) -> bool:
         """
@@ -195,6 +213,6 @@ class ServerChanNotifier:
             是否发送成功
         """
         title, content = self.format_daily_report(
-            github_news, startup_news, opportunities_news, game_news, report_url
+            github_news, startup_news, opportunities_news, game_news, bilibili_news, report_url
         )
         return self.send(title, content)

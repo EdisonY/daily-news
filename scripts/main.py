@@ -17,6 +17,7 @@ from fetch_github import fetch_github_trending, format_github_markdown
 from fetch_startup import fetch_startup_news, format_startup_markdown
 from fetch_opportunities import fetch_opportunities, format_opportunities_markdown
 from fetch_game import fetch_game_news, format_game_markdown
+from fetch_bilibili import fetch_bilibili_updates, format_bilibili_markdown, DEFAULT_BILIBILI_UPS
 from deduplicator import deduplicate_news, sort_news_by_relevance
 from report_generator import save_reports
 from wecom_notifier import WeChatNotifier
@@ -61,7 +62,11 @@ def run_daily_news(
     print("\n--- 游戏设计灵感 ---")
     game_news = fetch_game_news()
     print(f"获取到 {len(game_news)} 条内容")
-    
+
+    print("\n--- B站 UP主更新 ---")
+    bilibili_news = fetch_bilibili_updates(DEFAULT_BILIBILI_UPS)
+    print(f"获取到 {len(bilibili_news)} 个视频")
+
     # 2. 去重处理
     if not skip_dedup:
         print("\n[2/5] 去重处理...")
@@ -70,14 +75,15 @@ def run_daily_news(
         startup_news = deduplicate_news(startup_news, 'startup')
         opportunities_news = deduplicate_news(opportunities_news, 'opportunity')
         game_news = deduplicate_news(game_news, 'game')
-        
-        print(f"去重后: GitHub {len(github_news)}, 创投 {len(startup_news)}, 机会 {len(opportunities_news)}, 游戏 {len(game_news)}")
+        bilibili_news = deduplicate_news(bilibili_news, 'bilibili')
+
+        print(f"去重后: GitHub {len(github_news)}, 创投 {len(startup_news)}, 机会 {len(opportunities_news)}, 游戏 {len(game_news)}, B站 {len(bilibili_news)}")
     else:
         print("\n[2/5] 跳过去重处理")
-    
+
     # 3. 相关性排序
     print("\n[3/5] 相关性排序...")
-    
+
     github_news = sort_news_by_relevance(github_news, 'github')
     startup_news = sort_news_by_relevance(startup_news, 'startup')
     opportunities_news = sort_news_by_relevance(opportunities_news, 'opportunity')
@@ -108,7 +114,7 @@ def run_daily_news(
         serverchan_key = os.environ.get('SERVERCHAN_SENDKEY')
         if serverchan_key:
             notifier = ServerChanNotifier(serverchan_key)
-            if notifier.send_daily_report(github_news, startup_news, opportunities_news, game_news, report_url):
+            if notifier.send_daily_report(github_news, startup_news, opportunities_news, game_news, bilibili_news, report_url):
                 print("Server酱推送成功")
                 sent = True
             else:
@@ -119,7 +125,7 @@ def run_daily_news(
             webhook_url = os.environ.get('WECOM_WEBHOOK_URL')
             if webhook_url:
                 notifier = WeChatNotifier(webhook_url)
-                if notifier.send_daily_report(github_news, startup_news, opportunities_news, game_news, report_url):
+                if notifier.send_daily_report(github_news, startup_news, opportunities_news, game_news, bilibili_news, report_url):
                     print("企业微信推送成功")
                     sent = True
                 else:
@@ -139,7 +145,8 @@ def run_daily_news(
         'github': github_news,
         'startup': startup_news,
         'opportunities': opportunities_news,
-        'game': game_news
+        'game': game_news,
+        'bilibili': bilibili_news
     }
 
 
@@ -167,6 +174,7 @@ def main():
         print(f"  创业投资新闻: {len(results['startup'])} 条")
         print(f"  小成本创业机会: {len(results['opportunities'])} 个")
         print(f"  游戏设计灵感: {len(results['game'])} 条")
+        print(f"  B站 UP主更新: {len(results.get('bilibili', []))} 个")
         print(f"  总计: {sum(len(v) for v in results.values())} 条")
         
     except Exception as e:
