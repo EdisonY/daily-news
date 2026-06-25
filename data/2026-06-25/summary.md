@@ -17,11 +17,11 @@
 
 昨日新增 star 最多的 1 个项目
 
-1. [ElectronTempoNurture/Polaris-Word-2026](https://github.com/ElectronTempoNurture/Polaris-Word-2026) - ⭐ 11
+1. [SwarmSamurai/Sugar-Bytes-Effectrix-2026](https://github.com/SwarmSamurai/Sugar-Bytes-Effectrix-2026) - ⭐ 11
 
 ---
 
-*报告生成时间: 2026-06-25 10:22:23*
+*报告生成时间: 2026-06-25 10:31:49*
 
 ---
 
