@@ -39,7 +39,7 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "100",
-      "timestamp": "2026-06-25T06:39:36.998385"
+      "timestamp": "2026-06-25T07:01:27.916269"
     },
     {
       "title": "DrizzleWalker/Lossless-Scaling-Download-2026",
@@ -79,18 +79,18 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "55",
-      "timestamp": "2026-06-25T06:39:36.998674"
+      "timestamp": "2026-06-25T07:01:27.916525"
     },
     {
       "title": "suphotP/chatgpt-api",
       "url": "https://github.com/suphotP/chatgpt-api",
       "description": "Local ChatGPT Web bridge with API, console, opencode integration, and character-game use case",
       "language": "Python",
-      "stars": 14,
-      "forks": 21,
-      "watchers": 14,
+      "stars": 16,
+      "forks": 22,
+      "watchers": 16,
       "created_at": "2026-06-25T00:10:28Z",
-      "updated_at": "2026-06-25T06:23:05Z",
+      "updated_at": "2026-06-25T07:00:23Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
@@ -98,8 +98,28 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "14",
-      "timestamp": "2026-06-25T06:39:36.998980"
+      "stars_formatted": "16",
+      "timestamp": "2026-06-25T07:01:27.916795"
+    },
+    {
+      "title": "PenghaoJiang/auto-paper-collecter",
+      "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
+      "description": "📚🔭 Your personal research radar — an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.",
+      "language": "HTML",
+      "stars": 12,
+      "forks": 0,
+      "watchers": 12,
+      "created_at": "2026-06-25T06:10:54Z",
+      "updated_at": "2026-06-25T06:48:55Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "12",
+      "timestamp": "2026-06-25T07:01:27.917181"
     },
     {
       "title": "crewrectorlose/Game-Bar-Not-Recording-Fix",
@@ -134,7 +154,7 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "11",
-      "timestamp": "2026-06-25T06:39:36.999452"
+      "timestamp": "2026-06-25T07:01:27.917552"
     },
     {
       "title": "SwarmSamurai/Sugar-Bytes-Effectrix-2026",
@@ -167,7 +187,7 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "11",
-      "timestamp": "2026-06-25T06:39:36.999815"
+      "timestamp": "2026-06-25T07:01:27.917852"
     },
     {
       "title": "Cyantenspanner/AMD-Radeon-Software",
@@ -202,7 +222,7 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "11",
-      "timestamp": "2026-06-25T06:39:37.000169"
+      "timestamp": "2026-06-25T07:01:27.918260"
     },
     {
       "title": "maria-rcks/dinorip",
@@ -230,7 +250,7 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "11",
-      "timestamp": "2026-06-25T06:39:37.000543"
+      "timestamp": "2026-06-25T07:01:27.918625"
     },
     {
       "title": "ElectronTempoNurture/Polaris-Word-2026",
@@ -264,8 +284,8 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "11",
-      "timestamp": "2026-06-25T06:39:37.000953"
+      "timestamp": "2026-06-25T07:01:27.919003"
     }
   ],
-  "last_cleanup": "2026-06-25T06:39:37.000968"
+  "last_cleanup": "2026-06-25T07:01:27.919013"
 }
