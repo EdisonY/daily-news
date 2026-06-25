@@ -235,19 +235,52 @@ def extract_keywords(text: str, topk: int = 5) -> List[str]:
     """
     if not text:
         return []
-    
+
     words = jieba.lcut(text)
-    
+
     # 简单的词频统计
     word_freq = {}
     for word in words:
         if len(word) > 1:
             word_freq[word] = word_freq.get(word, 0) + 1
-    
+
     # 按词频排序
     sorted_words = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)
-    
+
     return [word for word, freq in sorted_words[:topk]]
+
+
+# --- 翻译模块 ---
+_translator = None
+
+def _get_translator():
+    global _translator
+    if _translator is None:
+        from translate import Translator
+        _translator = Translator(to_lang="zh")
+    return _translator
+
+
+def translate_to_zh(text: str) -> str:
+    """
+    将英文文本翻译为中文（免费 MyMemory API）
+    如果已经是中文或为空，直接返回
+    """
+    if not text or not text.strip():
+        return text
+
+    # 简单判断：如果中文字符占比 > 30%，认为已经是中文
+    cn_chars = len(re.findall(r'[\u4e00-\u9fff]', text))
+    if cn_chars / max(len(text), 1) > 0.3:
+        return text
+
+    try:
+        translator = _get_translator()
+        result = translator.translate(text[:500])  # MyMemory 有长度限制
+        return result if result else text
+    except Exception as e:
+        print(f"  翻译失败: {e}")
+        return text
 
 
 def sanitize_filename(filename: str) -> str:

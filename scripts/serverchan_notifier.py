@@ -9,7 +9,7 @@ import requests
 from typing import List, Dict, Any, Optional
 import sys
 sys.path.insert(0, os.path.dirname(__file__))
-from utils import get_today_date
+from utils import get_today_date, translate_to_zh
 
 
 class ServerChanNotifier:
@@ -90,9 +90,14 @@ class ServerChanNotifier:
 
         lines = []
 
-        def _desc(item, max_len=100):
+        def _desc(item, max_len=120):
             d = item.get('summary', '') or item.get('description', '') or '暂无简介'
+            d = translate_to_zh(d)
             return d[:max_len-3] + '...' if len(d) > max_len else d
+
+        def _title_zh(item):
+            t = item.get('title', '')
+            return translate_to_zh(t)
 
         # GitHub 热门项目
         if github_news:
@@ -101,7 +106,8 @@ class ServerChanNotifier:
                 lang = p.get('language', '')
                 stars = p.get('stars_formatted', '')
                 lang_tag = f" `{lang}`" if lang else ""
-                lines.append(f"{i}. ⭐{stars}{lang_tag} [{p['title']}]({p['url']})")
+                title_zh = _title_zh(p)
+                lines.append(f"{i}. ⭐{stars}{lang_tag} [{title_zh}]({p['url']})")
                 lines.append(f"   {_desc(p)}")
             lines.append("")
 
@@ -111,7 +117,8 @@ class ServerChanNotifier:
             for i, n in enumerate(startup_news[:10], 1):
                 source = n.get('source', '')
                 source_tag = f" `{source}`" if source else ""
-                lines.append(f"{i}.{source_tag} [{n['title']}]({n['url']})")
+                title_zh = _title_zh(n)
+                lines.append(f"{i}.{source_tag} [{title_zh}]({n['url']})")
                 lines.append(f"   {_desc(n)}")
             lines.append("")
 
@@ -121,7 +128,8 @@ class ServerChanNotifier:
             for i, n in enumerate(opportunities_news[:10], 1):
                 source = n.get('source', '')
                 source_tag = f" `{source}`" if source else ""
-                lines.append(f"{i}.{source_tag} [{n['title']}]({n['url']})")
+                title_zh = _title_zh(n)
+                lines.append(f"{i}.{source_tag} [{title_zh}]({n['url']})")
                 lines.append(f"   {_desc(n)}")
             lines.append("")
 
@@ -134,7 +142,8 @@ class ServerChanNotifier:
             }
             for i, n in enumerate(game_news[:10], 1):
                 tag = type_labels.get(n.get('type', 'general'), '资讯')
-                lines.append(f"{i}. `#{tag}` [{n['title']}]({n['url']})")
+                title_zh = _title_zh(n)
+                lines.append(f"{i}. `#{tag}` [{title_zh}]({n['url']})")
                 lines.append(f"   {_desc(n)}")
             lines.append("")
 
