@@ -250,23 +250,15 @@ def extract_keywords(text: str, topk: int = 5) -> List[str]:
     return [word for word, freq in sorted_words[:topk]]
 
 
-# --- 翻译模块 ---
-_translator = None
+# --- 翻译模块（Google Translate 免费，无需 API Key）---
 _translate_fail_count = 0
-_TRANSLATE_FAIL_LIMIT = 5  # 连续失败超过此数后跳过翻译
-
-def _get_translator():
-    global _translator
-    if _translator is None:
-        from translate import Translator
-        _translator = Translator(to_lang="zh")
-    return _translator
+_TRANSLATE_FAIL_LIMIT = 10
 
 
 def translate_to_zh(text: str) -> str:
     """
-    将英文文本翻译为中文（免费 MyMemory API）
-    如果已经是中文或为空，直接返回
+    将英文文本翻译为中文
+    使用 Google Translate 免费 API（无需 Key）
     """
     global _translate_fail_count
     if _translate_fail_count >= _TRANSLATE_FAIL_LIMIT:
@@ -275,21 +267,42 @@ def translate_to_zh(text: str) -> str:
     if not text or not text.strip():
         return text
 
-    # 简单判断：如果中文字符占比 > 30%，认为已经是中文
+    # 如果中文字符占比 > 30%，认为已经是中文
     cn_chars = len(re.findall(r'[\u4e00-\u9fff]', text))
     if cn_chars / max(len(text), 1) > 0.3:
         return text
 
-    try:
-        translator = _get_translator()
-        result = translator.translate(text[:400])
-        if result:
-            _translate_fail_count = 0
-            return result
-        return text
-    except Exception:
-        _translate_fail_count += 1
-        return text
+    import time as _time
+
+    for attempt in range(2):
+        try:
+            import requests as _req
+            # Google Translate 免费 API（无需 Key，有频率限制）
+            url = "https://translate.googleapis.com/translate_a/single"
+            params = {
+                "client": "gtx",
+                "sl": "en",
+                "tl": "zh-CN",
+                "dt": "t",
+                "q": text[:500]
+            }
+            resp = _req.get(url, params=params, timeout=10,
+                           headers={"User-Agent": "Mozilla/5.0"})
+            if resp.status_code == 200:
+                data = resp.json()
+                translated = ''.join(part[0] for part in data[0] if part[0])
+                if translated:
+                    _translate_fail_count = 0
+                    return translated
+            elif resp.status_code == 429:
+                _translate_fail_count += 1
+                _time.sleep(1)
+                continue
+            return text
+        except Exception:
+            _translate_fail_count += 1
+            _time.sleep(0.3)
+    return text
 
 
 def sanitize_filename(filename: str) -> str:

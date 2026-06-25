@@ -91,7 +91,7 @@ class ServerChanNotifier:
 
         lines = []
 
-        def _desc(item, max_len=120):
+        def _desc(item, max_len=200):
             d = item.get('summary', '') or item.get('description', '') or ''
             if not d:
                 return ''
@@ -120,18 +120,15 @@ class ServerChanNotifier:
                     lines.append(f"   {desc}")
             lines.append("")
 
-        # 创业投资新闻
+        # 创业投资新闻（不要图片）
         if startup_news:
             lines.append("## 💼 创业投资新闻")
             for i, n in enumerate(startup_news[:10], 1):
                 source = n.get('source', '')
                 source_tag = f" `{source}`" if source else ""
                 title_zh = _title_zh(n)
-                img = _img_line(n)
                 desc = _desc(n)
                 lines.append(f"{i}.{source_tag} [{title_zh}]({n['url']})")
-                if img:
-                    lines.append(img)
                 if desc:
                     lines.append(f"   {desc}")
             lines.append("")
@@ -152,7 +149,7 @@ class ServerChanNotifier:
                     lines.append(f"   {desc}")
             lines.append("")
 
-        # 游戏设计灵感
+        # 游戏设计灵感（加大图片，加长简介）
         if game_news:
             lines.append("## 🎮 游戏设计灵感")
             type_labels = {

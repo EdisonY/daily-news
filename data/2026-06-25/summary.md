@@ -20,8 +20,8 @@
 1. [samuto69/claude-ai-desktop-app](https://github.com/samuto69/claude-ai-desktop-app) - ⭐ 101
 2. [DrizzleWalker/Lossless-Scaling-Download-2026](https://github.com/DrizzleWalker/Lossless-Scaling-Download-2026) - ⭐ 55
 3. [amrita-tifac-cyber-course-repo/OD2627-20CYS402-DSCC](https://github.com/amrita-tifac-cyber-course-repo/OD2627-20CYS402-DSCC) - ⭐ 37
-4. [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) - ⭐ 23
-5. [suphotP/chatgpt-api](https://github.com/suphotP/chatgpt-api) - ⭐ 20
+4. [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) - ⭐ 24
+5. [suphotP/chatgpt-api](https://github.com/suphotP/chatgpt-api) - ⭐ 21
 ... 还有 5 个项目
 
 ---
@@ -65,7 +65,7 @@
 
 ---
 
-*报告生成时间: 2026-06-25 17:22:55*
+*报告生成时间: 2026-06-25 17:33:14*
 
 ---
 
