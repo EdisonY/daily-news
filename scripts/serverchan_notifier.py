@@ -91,13 +91,19 @@ class ServerChanNotifier:
         lines = []
 
         def _desc(item, max_len=120):
-            d = item.get('summary', '') or item.get('description', '') or '暂无简介'
+            d = item.get('summary', '') or item.get('description', '') or ''
+            if not d:
+                return ''
             d = translate_to_zh(d)
             return d[:max_len-3] + '...' if len(d) > max_len else d
 
         def _title_zh(item):
             t = item.get('title', '')
             return translate_to_zh(t)
+
+        def _img_line(item):
+            img = item.get('image', '')
+            return f"![]({img})" if img else ""
 
         # GitHub 热门项目
         if github_news:
@@ -107,8 +113,10 @@ class ServerChanNotifier:
                 stars = p.get('stars_formatted', '')
                 lang_tag = f" `{lang}`" if lang else ""
                 title_zh = _title_zh(p)
+                desc = _desc(p)
                 lines.append(f"{i}. ⭐{stars}{lang_tag} [{title_zh}]({p['url']})")
-                lines.append(f"   {_desc(p)}")
+                if desc:
+                    lines.append(f"   {desc}")
             lines.append("")
 
         # 创业投资新闻
@@ -118,8 +126,13 @@ class ServerChanNotifier:
                 source = n.get('source', '')
                 source_tag = f" `{source}`" if source else ""
                 title_zh = _title_zh(n)
+                img = _img_line(n)
+                desc = _desc(n)
                 lines.append(f"{i}.{source_tag} [{title_zh}]({n['url']})")
-                lines.append(f"   {_desc(n)}")
+                if img:
+                    lines.append(img)
+                if desc:
+                    lines.append(f"   {desc}")
             lines.append("")
 
         # 小成本创业机会
@@ -129,8 +142,13 @@ class ServerChanNotifier:
                 source = n.get('source', '')
                 source_tag = f" `{source}`" if source else ""
                 title_zh = _title_zh(n)
+                img = _img_line(n)
+                desc = _desc(n)
                 lines.append(f"{i}.{source_tag} [{title_zh}]({n['url']})")
-                lines.append(f"   {_desc(n)}")
+                if img:
+                    lines.append(img)
+                if desc:
+                    lines.append(f"   {desc}")
             lines.append("")
 
         # 游戏设计灵感
@@ -143,11 +161,16 @@ class ServerChanNotifier:
             for i, n in enumerate(game_news[:10], 1):
                 tag = type_labels.get(n.get('type', 'general'), '资讯')
                 title_zh = _title_zh(n)
+                img = _img_line(n)
+                desc = _desc(n)
                 lines.append(f"{i}. `#{tag}` [{title_zh}]({n['url']})")
-                lines.append(f"   {_desc(n)}")
+                if img:
+                    lines.append(img)
+                if desc:
+                    lines.append(f"   {desc}")
             lines.append("")
 
-        # 底部：报告地址
+        # 底部
         if report_url:
             pages_url = report_url
             if pages_url.endswith('.md'):
