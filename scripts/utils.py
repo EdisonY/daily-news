@@ -84,18 +84,34 @@ def fetch_url(url: str, headers: Optional[Dict[str, str]] = None, timeout: int =
     try:
         if headers is None:
             headers = get_headers()
-        
+
         response = requests.get(url, headers=headers, timeout=timeout)
         response.raise_for_status()
-        
+
         # 尝试检测编码
         if response.encoding == 'ISO-8859-1':
             response.encoding = response.apparent_encoding
-        
+
         return response.text
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         return None
+
+
+def extract_og_image(html: str) -> str:
+    """
+    从 HTML 中提取 Open Graph 图片 (og:image)
+    用于在 RSS 无图时兜底
+    """
+    if not html:
+        return ''
+    m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', html)
+    if m:
+        return m.group(1)
+    m = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html)
+    if m:
+        return m.group(1)
+    return ''
 
 
 def fetch_json(url: str, headers: Optional[Dict[str, str]] = None, timeout: int = 30) -> Optional[Dict]:

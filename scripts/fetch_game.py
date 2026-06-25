@@ -10,7 +10,7 @@ import re
 import sys
 import os
 sys.path.insert(0, os.path.dirname(__file__))
-from utils import fetch_url, fetch_json, truncate_text, get_today_date
+from utils import fetch_url, fetch_json, truncate_text, get_today_date, extract_og_image
 from bs4 import BeautifulSoup
 
 
@@ -356,18 +356,17 @@ def fetch_reddit_roguelikes() -> List[Dict[str, Any]]:
 def fetch_game_news() -> List[Dict[str, Any]]:
     all_news = []
     sources = [
-        # 英文技术站
-        ('GameDev.net', fetch_gamedev_rss),
-        ('Game Developer', fetch_gamedeveloper_articles),
-        ('IndieDB', fetch_indiedb_rss),
-        # Steam/itch.io
+        # 有图来源优先（权重高）
         ('Steam', fetch_steam_newreleases),
         ('itch.io Newest', fetch_itchio_newest),
         ('itch.io Top Rated', fetch_itchio_top_rated),
-        # 中文媒体
         ('触乐', fetch_chule_rss),
+        # 无图但内容有价值
+        ('GameDev.net', fetch_gamedev_rss),
+        ('Game Developer', fetch_gamedeveloper_articles),
+        ('IndieDB', fetch_indiedb_rss),
         ('游研社', fetch_yystv_rss),
-        # 讨论/论坛（玩法灵感重要来源）
+        # 讨论/论坛
         ('Reddit/r/gamedesign', fetch_reddit_gamedesign),
         ('Reddit/r/indiegaming', fetch_reddit_indiegaming),
         ('Reddit/r/roguelikes', fetch_reddit_roguelikes),
@@ -392,7 +391,7 @@ def fetch_game_news() -> List[Dict[str, Any]]:
             seen.add(n['title'])
             unique.append(n)
 
-    # 优先玩法创新，目标 15 条
+    # 分类
     gameplay = [n for n in unique if n.get('type') == 'gameplay']
     art = [n for n in unique if n.get('type') == 'art']
     narrative = [n for n in unique if n.get('type') == 'narrative']
@@ -400,9 +399,36 @@ def fetch_game_news() -> List[Dict[str, Any]]:
     indie = [n for n in unique if n.get('type') == 'indie']
     other = [n for n in unique if n.get('type') not in ('gameplay', 'art', 'narrative', 'tech', 'indie')]
 
-    # 分配：玩法创新 5+，其他各 2-3
-    result = gameplay[:5] + art[:3] + narrative[:2] + tech[:2] + indie[:2] + other[:1]
-    return result[:15]
+    # 每个来源最多取 3 条（防止某个来源霸屏）
+    def cap(src_list, cap_n=3):
+        return src_list[:cap_n]
+
+    # 合并：优先玩法创新，其他类型各取几条
+    result = cap(gameplay, 4) + cap(art, 2) + cap(narrative, 2) + cap(tech, 2) + cap(indie, 2) + cap(other, 3)
+
+    # 去重后再取 15 条
+    seen2 = set()
+    final = []
+    for n in result:
+        if n['title'] not in seen2:
+            seen2.add(n['title'])
+            final.append(n)
+    result = final[:15]
+
+    # 兜底补图：对无图条目从页面抓 OG Image（限速，只补前几条）
+    import time
+    img_missing = [n for n in result if not n.get('image') and n.get('url')]
+    for n in img_missing[:5]:
+        try:
+            html = fetch_url(n['url'], timeout=10)
+            og = extract_og_image(html) if html else ''
+            if og:
+                n['image'] = og
+            time.sleep(0.3)
+        except Exception:
+            pass
+
+    return result
 
 
 def format_game_markdown(news_list: List[Dict[str, Any]], date: str = None) -> str:
