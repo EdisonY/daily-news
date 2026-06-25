@@ -77,7 +77,7 @@ jobs:
           python main.py \
             ${{ inputs.skip_dedup == 'true' && '--skip-dedup' || '' }} \
             ${{ inputs.skip_notify == 'true' && '--skip-notify' || '' }} \
-            --report-url "https://${{ github.actor }}.github.io/${{ github.event.repository.name }}/$(date +%Y-%m-%d)/"
+            --report-url "https://edisony.github.io/daily-news/$(date +%Y-%m-%d)/"
       
       # 7. 上传历史记录（用于下次运行）
       - name: Upload history

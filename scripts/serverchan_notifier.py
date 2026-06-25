@@ -86,29 +86,46 @@ class ServerChanNotifier:
         date = get_today_date()
         total_count = len(github_news) + len(startup_news) + len(opportunities_news) + len(game_news)
 
-        title = f"每日新鲜事 {date} | 共{total_count}条"
+        title = f"📰 每日新鲜事 {date} | 共{total_count}条"
 
         lines = []
 
         # GitHub 热门项目
         if github_news:
             lines.append("## 🔥 GitHub 热门项目")
-            for i, p in enumerate(github_news[:5], 1):
-                lines.append(f"{i}. [{p['title']}]({p['url']}) ⭐{p.get('stars_formatted', '')}")
+            for i, p in enumerate(github_news[:10], 1):
+                desc = p.get('description', '') or '暂无描述'
+                if len(desc) > 60:
+                    desc = desc[:57] + '...'
+                lang = p.get('language', '')
+                stars = p.get('stars_formatted', '')
+                lang_tag = f" `{lang}`" if lang else ""
+                lines.append(f"{i}. [{p['title']}]({p['url']}) ⭐{stars}{lang_tag}")
+                lines.append(f"   {desc}")
             lines.append("")
 
         # 创业投资新闻
         if startup_news:
             lines.append("## 💼 创业投资新闻")
-            for i, n in enumerate(startup_news[:5], 1):
+            for i, n in enumerate(startup_news[:10], 1):
+                desc = n.get('summary', '') or n.get('description', '') or ''
+                if len(desc) > 60:
+                    desc = desc[:57] + '...'
                 lines.append(f"{i}. [{n['title']}]({n['url']})")
+                if desc:
+                    lines.append(f"   {desc}")
             lines.append("")
 
         # 小成本创业机会
         if opportunities_news:
             lines.append("## 💰 小成本创业机会")
-            for i, n in enumerate(opportunities_news[:5], 1):
+            for i, n in enumerate(opportunities_news[:10], 1):
+                desc = n.get('summary', '') or n.get('description', '') or ''
+                if len(desc) > 60:
+                    desc = desc[:57] + '...'
                 lines.append(f"{i}. [{n['title']}]({n['url']})")
+                if desc:
+                    lines.append(f"   {desc}")
             lines.append("")
 
         # 游戏设计灵感
@@ -118,13 +135,24 @@ class ServerChanNotifier:
                 'gameplay': '🎮', 'art': '🎨', 'narrative': '📖',
                 'tech': '⚙️', 'indie': '🎯', 'general': '📰'
             }
-            for i, n in enumerate(game_news[:5], 1):
+            for i, n in enumerate(game_news[:10], 1):
                 icon = type_labels.get(n.get('type', 'general'), '📰')
+                desc = n.get('summary', '') or n.get('description', '') or ''
+                if len(desc) > 60:
+                    desc = desc[:57] + '...'
                 lines.append(f"{i}. {icon} [{n['title']}]({n['url']})")
+                if desc:
+                    lines.append(f"   {desc}")
             lines.append("")
 
+        # 底部：报告地址（去掉 md 链接，用 GitHub Pages 地址）
         if report_url:
-            lines.append(f"📊 [查看完整报告]({report_url})")
+            # report_url 可能指向 .md 文件，转为 Pages 根地址
+            pages_url = report_url
+            if pages_url.endswith('.md'):
+                pages_url = pages_url.rsplit('/', 1)[0] + '/'
+            lines.append(f"---")
+            lines.append(f"📊 [查看完整报告]({pages_url})")
 
         return title, '\n'.join(lines)
 
