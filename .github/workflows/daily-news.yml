@@ -70,6 +70,7 @@ jobs:
       - name: Run daily news script
         env:
           WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
           cd scripts

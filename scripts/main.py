@@ -20,6 +20,7 @@ from fetch_game import fetch_game_news, format_game_markdown
 from deduplicator import deduplicate_news, sort_news_by_relevance
 from report_generator import save_reports
 from wecom_notifier import WeChatNotifier
+from serverchan_notifier import ServerChanNotifier
 
 
 def run_daily_news(
@@ -94,32 +95,38 @@ def run_daily_news(
     # 5. 推送通知
     if not skip_notify:
         print("\n[5/5] 推送通知...")
-        
-        webhook_url = os.environ.get('WECOM_WEBHOOK_URL')
-        if webhook_url:
-            notifier = WeChatNotifier(webhook_url)
-            
-            # 使用 GitHub Pages URL 或传入的 URL
-            if not report_url:
-                # 假设使用 GitHub Pages
-                github_repo = os.environ.get('GITHUB_REPOSITORY', '')
-                if github_repo:
-                    report_url = f"https://{github_repo.split('/')[0]}.github.io/{github_repo.split('/')[1]}/{get_today_date()}/"
-            
-            success = notifier.send_daily_report(
-                github_news,
-                startup_news,
-                opportunities_news,
-                game_news,
-                report_url
-            )
-            
-            if success:
-                print("推送成功")
+
+        # 计算报告 URL
+        if not report_url:
+            github_repo = os.environ.get('GITHUB_REPOSITORY', '')
+            if github_repo:
+                report_url = f"https://{github_repo.split('/')[0]}.github.io/{github_repo.split('/')[1]}/{get_today_date()}/"
+
+        sent = False
+
+        # 优先使用 Server酱（推送到微信）
+        serverchan_key = os.environ.get('SERVERCHAN_SENDKEY')
+        if serverchan_key:
+            notifier = ServerChanNotifier(serverchan_key)
+            if notifier.send_daily_report(github_news, startup_news, opportunities_news, game_news, report_url):
+                print("Server酱推送成功")
+                sent = True
             else:
-                print("推送失败")
-        else:
-            print("未配置 WECOM_WEBHOOK_URL，跳过推送")
+                print("Server酱推送失败，尝试企业微信...")
+
+        # 备选：企业微信
+        if not sent:
+            webhook_url = os.environ.get('WECOM_WEBHOOK_URL')
+            if webhook_url:
+                notifier = WeChatNotifier(webhook_url)
+                if notifier.send_daily_report(github_news, startup_news, opportunities_news, game_news, report_url):
+                    print("企业微信推送成功")
+                    sent = True
+                else:
+                    print("企业微信推送失败")
+
+        if not sent:
+            print("未配置推送密钥（SERVERCHAN_SENDKEY 或 WECOM_WEBHOOK_URL），跳过推送")
     else:
         print("\n[5/5] 跳过推送通知")
     
