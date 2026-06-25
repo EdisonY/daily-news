@@ -130,7 +130,10 @@ def fetch_itchio_newest() -> List[Dict[str, Any]]:
             desc_el = game.select_one('.game_text')
             desc = desc_el.get_text(strip=True) if desc_el else ''
             img_el = game.select_one('img')
-            img = img_el.get('src', '') if img_el else ''
+            # itch.io 用 data-lazy_src 做懒加载
+            img = ''
+            if img_el:
+                img = img_el.get('data-lazy_src', '') or img_el.get('src', '')
             items.append({
                 'title': title, 'url': link,
                 'summary': truncate_text(desc, 200),
@@ -161,7 +164,9 @@ def fetch_itchio_top_rated() -> List[Dict[str, Any]]:
             desc_el = game.select_one('.game_text')
             desc = desc_el.get_text(strip=True) if desc_el else ''
             img_el = game.select_one('img')
-            img = img_el.get('src', '') if img_el else ''
+            img = ''
+            if img_el:
+                img = img_el.get('data-lazy_src', '') or img_el.get('src', '')
             items.append({
                 'title': title, 'url': link,
                 'summary': truncate_text(desc, 200),
@@ -192,7 +197,9 @@ def fetch_itchio_game_design_jam() -> List[Dict[str, Any]]:
             desc_el = game.select_one('.game_text')
             desc = desc_el.get_text(strip=True) if desc_el else ''
             img_el = game.select_one('img')
-            img = img_el.get('src', '') if img_el else ''
+            img = ''
+            if img_el:
+                img = img_el.get('data-lazy_src', '') or img_el.get('src', '')
             items.append({
                 'title': title, 'url': link,
                 'summary': truncate_text(desc, 200),
