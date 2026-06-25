@@ -95,12 +95,12 @@ class ServerChanNotifier:
             lines.append("## 🔥 GitHub 热门项目")
             for i, p in enumerate(github_news[:10], 1):
                 desc = p.get('description', '') or '暂无描述'
-                if len(desc) > 60:
-                    desc = desc[:57] + '...'
+                if len(desc) > 80:
+                    desc = desc[:77] + '...'
                 lang = p.get('language', '')
                 stars = p.get('stars_formatted', '')
                 lang_tag = f" `{lang}`" if lang else ""
-                lines.append(f"{i}. [{p['title']}]({p['url']}) ⭐{stars}{lang_tag}")
+                lines.append(f"{i}. ⭐{stars}{lang_tag} [{p['title']}]({p['url']})")
                 lines.append(f"   {desc}")
             lines.append("")
 
@@ -109,9 +109,11 @@ class ServerChanNotifier:
             lines.append("## 💼 创业投资新闻")
             for i, n in enumerate(startup_news[:10], 1):
                 desc = n.get('summary', '') or n.get('description', '') or ''
-                if len(desc) > 60:
-                    desc = desc[:57] + '...'
-                lines.append(f"{i}. [{n['title']}]({n['url']})")
+                if len(desc) > 80:
+                    desc = desc[:77] + '...'
+                source = n.get('source', '')
+                source_tag = f" `{source}`" if source else ""
+                lines.append(f"{i}.{source_tag} [{n['title']}]({n['url']})")
                 if desc:
                     lines.append(f"   {desc}")
             lines.append("")
@@ -121,9 +123,11 @@ class ServerChanNotifier:
             lines.append("## 💰 小成本创业机会")
             for i, n in enumerate(opportunities_news[:10], 1):
                 desc = n.get('summary', '') or n.get('description', '') or ''
-                if len(desc) > 60:
-                    desc = desc[:57] + '...'
-                lines.append(f"{i}. [{n['title']}]({n['url']})")
+                if len(desc) > 80:
+                    desc = desc[:77] + '...'
+                source = n.get('source', '')
+                source_tag = f" `{source}`" if source else ""
+                lines.append(f"{i}.{source_tag} [{n['title']}]({n['url']})")
                 if desc:
                     lines.append(f"   {desc}")
             lines.append("")
@@ -132,22 +136,21 @@ class ServerChanNotifier:
         if game_news:
             lines.append("## 🎮 游戏设计灵感")
             type_labels = {
-                'gameplay': '🎮', 'art': '🎨', 'narrative': '📖',
-                'tech': '⚙️', 'indie': '🎯', 'general': '📰'
+                'gameplay': '玩法创新', 'art': '视觉设计', 'narrative': '叙事设计',
+                'tech': '技术实现', 'indie': '独立游戏', 'general': '行业资讯'
             }
             for i, n in enumerate(game_news[:10], 1):
-                icon = type_labels.get(n.get('type', 'general'), '📰')
+                tag = type_labels.get(n.get('type', 'general'), '资讯')
                 desc = n.get('summary', '') or n.get('description', '') or ''
-                if len(desc) > 60:
-                    desc = desc[:57] + '...'
-                lines.append(f"{i}. {icon} [{n['title']}]({n['url']})")
+                if len(desc) > 80:
+                    desc = desc[:77] + '...'
+                lines.append(f"{i}. `#{tag}` [{n['title']}]({n['url']})")
                 if desc:
                     lines.append(f"   {desc}")
             lines.append("")
 
-        # 底部：报告地址（去掉 md 链接，用 GitHub Pages 地址）
+        # 底部：报告地址
         if report_url:
-            # report_url 可能指向 .md 文件，转为 Pages 根地址
             pages_url = report_url
             if pages_url.endswith('.md'):
                 pages_url = pages_url.rsplit('/', 1)[0] + '/'
