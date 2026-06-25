@@ -156,7 +156,7 @@ class ServerChanNotifier:
                 'gameplay': '玩法创新', 'art': '视觉设计', 'narrative': '叙事设计',
                 'tech': '技术实现', 'indie': '独立游戏', 'general': '行业资讯'
             }
-            for i, n in enumerate(game_news[:10], 1):
+            for i, n in enumerate(game_news[:15], 1):
                 tag = type_labels.get(n.get('type', 'general'), '资讯')
                 title_zh = _title_zh(n)
                 img = _img_line(n)

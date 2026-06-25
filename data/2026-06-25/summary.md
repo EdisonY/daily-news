@@ -1,6 +1,6 @@
 # 📰 每日新鲜事 - 2026-06-25
 
-今日共收集 40 条内容
+今日共收集 45 条内容
 
 ## 📊 内容概览
 
@@ -9,7 +9,7 @@
 | 🔥 GitHub 热门项目 | 10 | 开源项目 |
 | 💼 创业投资新闻 | 10 | 创投动态 |
 | 💰 小成本创业机会 | 10 | 低成本创业 |
-| 🎮 游戏设计灵感 | 10 | 游戏设计 |
+| 🎮 游戏设计灵感 | 15 | 游戏设计 |
 
 ---
 
@@ -54,18 +54,18 @@
 
 ## 🎮 游戏设计灵感
 
-今日发现 10 条游戏设计相关内容
+今日发现 15 条游戏设计相关内容
 
-1. 🎯 [Craftpix Indie Jam 2](https://gamedev.net/news/craftpix-indie-jam-2-r2964)
-2. 🎮 [TiltBump - mobile browser arcade game using phone tilt controls](https://gamedev.net/forums/topic/720089-tiltbump-mobile-browser-arcade-game-using-phone-tilt-controls)
-3. 🎮 [Are you interested in learning game design with a pro?](https://gamedev.net/news/are-you-interested-in-learning-game-design-with-a-pro-r2948)
-4. 🎮 [Unreal Engine - The "EngineMisc" in the low level memory tracker could be tricky for you.](https://gamedev.net/blogs/entry/2298077-unreal-engine-the-enginemisc-in-the-low-level-memory-tracker-could-be-tricky-for-you)
-5. 🎮 [[RevShare] i need team, 3D artist and programmer for Solo and Multiplayer CooP game](https://gamedev.net/forums/topic/720098-revshare-i-need-team-3d-artist-and-programmer-for-solo-and-multiplayer-coop-game)
-... 还有 5 条内容
+1. 🎮 [Bunker Exodus Free Demo: 12 Survival UI Icons + Bunker Resource Monitor](https://gamedev.net/blogs/entry/2298076-bunker-exodus-free-demo-12-survival-ui-icons-bunker-resource-monitor)
+2. ⚙️ [Craftpix Indie Jam 2](https://gamedev.net/news/craftpix-indie-jam-2-r2964)
+3. 🎯 [Vultures: launch on steam very very soon! (2021-2026)](https://gamedev.net/forums/topic/720093-vultures-launch-on-steam-very-very-soon-2021-2026)
+4. 🎮 [TiltBump - mobile browser arcade game using phone tilt controls](https://gamedev.net/forums/topic/720089-tiltbump-mobile-browser-arcade-game-using-phone-tilt-controls)
+5. 🎮 [Are you interested in learning game design with a pro?](https://gamedev.net/news/are-you-interested-in-learning-game-design-with-a-pro-r2948)
+... 还有 10 条内容
 
 ---
 
-*报告生成时间: 2026-06-25 17:33:14*
+*报告生成时间: 2026-06-25 17:39:44*
 
 ---
 
