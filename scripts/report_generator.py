@@ -6,6 +6,8 @@
 import os
 from datetime import datetime
 from typing import List, Dict, Any, Optional
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
 from utils import save_markdown, get_today_date, ensure_dir
 
 

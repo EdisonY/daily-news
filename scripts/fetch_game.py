@@ -8,6 +8,9 @@ import re
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
 from bs4 import BeautifulSoup
+import sys
+import os
+sys.path.insert(0, os.path.dirname(__file__))
 from utils import fetch_url, get_headers, truncate_text, get_today_date
 
 

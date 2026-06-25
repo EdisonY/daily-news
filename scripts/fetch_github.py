@@ -6,6 +6,9 @@ GitHub 热门项目抓取模块
 import re
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
+import sys
+import os
+sys.path.insert(0, os.path.dirname(__file__))
 from utils import fetch_json, get_headers, format_number, truncate_text
 
 

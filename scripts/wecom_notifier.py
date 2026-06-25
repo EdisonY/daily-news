@@ -8,6 +8,8 @@ import os
 import requests
 from typing import List, Dict, Any, Optional
 from datetime import datetime
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
 from utils import get_today_date
 
 

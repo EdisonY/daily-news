@@ -10,6 +10,9 @@ from typing import List, Dict, Any, Tuple, Set
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import sys
+import os
+sys.path.insert(0, os.path.dirname(__file__))
 from utils import preprocess_text, load_history, add_to_history, cleanup_old_news
 
 
