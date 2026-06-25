@@ -1,344 +1,151 @@
 """
-创业投资新闻抓取模块
-抓取创业投资领域的最新新闻
+创业投资新闻抓取模块（RSS/API 版本）
+使用 RSS 源和公开 API，不依赖网页爬取
 """
 
-import re
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
-from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
+import re
 import sys
 import os
 sys.path.insert(0, os.path.dirname(__file__))
-from utils import fetch_url, get_headers, truncate_text, get_today_date
+from utils import fetch_url, fetch_json, truncate_text, get_today_date
 
 
-def fetch_36kr_news() -> List[Dict[str, Any]]:
-    """
-    抓取 36氪 创投新闻
-    """
-    url = "https://36kr.com/information/investment/"
-    html = fetch_url(url)
-    
-    if not html:
+def _parse_rss(xml_text: str, source_name: str, base_url: str = '') -> List[Dict[str, Any]]:
+    """通用 RSS 解析"""
+    items = []
+    try:
+        root = ET.fromstring(xml_text)
+        # 支持 RSS 2.0 和 Atom
+        ns = {'atom': 'http://www.w3.org/2005/Atom'}
+        # RSS 2.0: //channel/item
+        for item in root.findall('.//item'):
+            title = item.findtext('title', '').strip()
+            link = item.findtext('link', '').strip()
+            desc = item.findtext('description', '').strip()
+            pub = item.findtext('pubDate', '').strip()
+            if title:
+                items.append({
+                    'title': title,
+                    'url': link,
+                    'summary': truncate_text(re.sub(r'<[^>]+>', '', desc), 120),
+                    'pub_time': pub,
+                    'source': source_name,
+                    'category': 'startup',
+                    'type': 'investment'
+                })
+        # Atom: //entry
+        for entry in root.findall('.//atom:entry', ns):
+            title = entry.findtext('atom:title', '', ns).strip()
+            link_el = entry.find('atom:link', ns)
+            link = link_el.get('href', '') if link_el is not None else ''
+            summary = entry.findtext('atom:summary', '', ns).strip()
+            updated = entry.findtext('atom:updated', '', ns).strip()
+            if title:
+                items.append({
+                    'title': title,
+                    'url': link,
+                    'summary': truncate_text(re.sub(r'<[^>]+>', '', summary), 120),
+                    'pub_time': updated,
+                    'source': source_name,
+                    'category': 'startup',
+                    'type': 'investment'
+                })
+    except Exception as e:
+        print(f"  RSS parse error ({source_name}): {e}")
+    return items
+
+
+def fetch_36kr_rss() -> List[Dict[str, Any]]:
+    """36氪 RSS"""
+    xml = fetch_url("https://36kr.com/feed", timeout=15)
+    if not xml:
         return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找新闻列表
-    articles = soup.find_all('div', class_='article-item')
-    
-    for article in articles[:15]:
-        try:
-            # 提取标题
-            title_elem = article.find('a', class_='article-item-title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            link = title_elem.get('href', '')
-            if link and not link.startswith('http'):
-                link = f"https://36kr.com{link}"
-            
-            # 提取摘要
-            summary_elem = article.find('p', class_='article-item-description')
-            summary = summary_elem.get_text(strip=True) if summary_elem else ''
-            
-            # 提取时间
-            time_elem = article.find('span', class_='article-item-time')
-            pub_time = time_elem.get_text(strip=True) if time_elem else ''
-            
-            # 提取来源
-            source_elem = article.find('span', class_='article-item-source')
-            source = source_elem.get_text(strip=True) if source_elem else '36氪'
-            
-            news = {
+    return _parse_rss(xml, '36氪')
+
+
+def fetch_hackernews() -> List[Dict[str, Any]]:
+    """Hacker News 创业相关 Top Stories"""
+    data = fetch_json("https://hacker-news.firebaseio.com/v0/topstories.json")
+    if not data:
+        return []
+    items = []
+    startup_kw = ['startup', 'founder', 'launch', 'fund', 'invest', 'saas', 'mvp', 'revenue', 'bootstr', 'y combinator', 'seed']
+    for sid in data[:60]:
+        story = fetch_json(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json")
+        if not story or story.get('type') != 'story':
+            continue
+        title = story.get('title', '')
+        text = title.lower()
+        if any(kw in text for kw in startup_kw):
+            url = story.get('url', f"https://news.ycombinator.com/item?id={sid}")
+            items.append({
                 'title': title,
-                'url': link,
-                'summary': truncate_text(summary, 200),
-                'pub_time': pub_time,
-                'source': source,
+                'url': url,
+                'summary': '',
+                'pub_time': '',
+                'source': 'Hacker News',
                 'category': 'startup',
                 'type': 'investment'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
-            print(f"Error processing 36kr article: {e}")
-            continue
-    
-    return news_list
+            })
+        if len(items) >= 10:
+            break
+    return items
 
 
-def fetch_itjuzi_news() -> List[Dict[str, Any]]:
-    """
-    抓取 IT桔子 投资新闻
-    """
-    url = "https://www.itjuzi.com/investevents"
-    html = fetch_url(url)
-    
-    if not html:
+def fetch_producthunt() -> List[Dict[str, Any]]:
+    """Product Hunt 每日热门"""
+    xml = fetch_url("https://www.producthunt.com/feed", timeout=15)
+    if not xml:
         return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找投资事件列表
-    items = soup.find_all('div', class_='list-item')
-    
-    for item in items[:15]:
-        try:
-            # 提取标题
-            title_elem = item.find('a', class_='title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            link = title_elem.get('href', '')
-            if link and not link.startswith('http'):
-                link = f"https://www.itjuzi.com{link}"
-            
-            # 提取详情
-            detail_elem = item.find('div', class_='detail')
-            detail = detail_elem.get_text(strip=True) if detail_elem else ''
-            
-            # 提取时间
-            time_elem = item.find('span', class_='time')
-            pub_time = time_elem.get_text(strip=True) if time_elem else ''
-            
-            news = {
-                'title': title,
-                'url': link,
-                'summary': truncate_text(detail, 200),
-                'pub_time': pub_time,
-                'source': 'IT桔子',
-                'category': 'startup',
-                'type': 'investment'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
-            continue
-    
-    return news_list
-
-
-def fetch_cyzb_news() -> List[Dict[str, Any]]:
-    """
-    抓取 创业邦 新闻
-    """
-    url = "https://www.cyzone.cn/news/"
-    html = fetch_url(url)
-    
-    if not html:
-        return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找新闻列表
-    articles = soup.find_all('div', class_='news-item')
-    
-    for article in articles[:15]:
-        try:
-            # 提取标题
-            title_elem = article.find('a', class_='title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            link = title_elem.get('href', '')
-            if link and not link.startswith('http'):
-                link = f"https://www.cyzone.cn{link}"
-            
-            # 提取摘要
-            summary_elem = article.find('p', class_='summary')
-            summary = summary_elem.get_text(strip=True) if summary_elem else ''
-            
-            # 提取时间
-            time_elem = article.find('span', class_='time')
-            pub_time = time_elem.get_text(strip=True) if time_elem else ''
-            
-            news = {
-                'title': title,
-                'url': link,
-                'summary': truncate_text(summary, 200),
-                'pub_time': pub_time,
-                'source': '创业邦',
-                'category': 'startup',
-                'type': 'investment'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
-            continue
-    
-    return news_list
-
-
-def fetch_tzj_news() -> List[Dict[str, Any]]:
-    """
-    抓取 投资界 新闻
-    """
-    url = "https://www.pedaily.cn/news"
-    html = fetch_url(url)
-    
-    if not html:
-        return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找新闻列表
-    articles = soup.find_all('div', class_='news-list-item')
-    
-    for article in articles[:15]:
-        try:
-            # 提取标题
-            title_elem = article.find('a', class_='title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            link = title_elem.get('href', '')
-            if link and not link.startswith('http'):
-                link = f"https://www.pedaily.cn{link}"
-            
-            # 提取摘要
-            summary_elem = article.find('p', class_='summary')
-            summary = summary_elem.get_text(strip=True) if summary_elem else ''
-            
-            # 提取时间
-            time_elem = article.find('span', class_='time')
-            pub_time = time_elem.get_text(strip=True) if time_elem else ''
-            
-            news = {
-                'title': title,
-                'url': link,
-                'summary': truncate_text(summary, 200),
-                'pub_time': pub_time,
-                'source': '投资界',
-                'category': 'startup',
-                'type': 'investment'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
-            continue
-    
-    return news_list
+    return _parse_rss(xml, 'Product Hunt')
 
 
 def fetch_startup_news() -> List[Dict[str, Any]]:
-    """
-    抓取创业投资新闻（汇总多个来源）
-    """
+    """抓取创业投资新闻"""
     all_news = []
-    
-    # 抓取各个来源
     sources = [
-        ('36氪', fetch_36kr_news),
-        ('IT桔子', fetch_itjuzi_news),
-        ('创业邦', fetch_cyzb_news),
-        ('投资界', fetch_tzj_news)
+        ('36氪 RSS', fetch_36kr_rss),
+        ('Hacker News', fetch_hackernews),
+        ('Product Hunt', fetch_producthunt),
     ]
-    
-    for source_name, fetch_func in sources:
+    for name, func in sources:
         try:
-            print(f"正在抓取 {source_name}...")
-            news = fetch_func()
+            print(f"正在抓取 {name}...")
+            news = func()
             if news:
                 all_news.extend(news)
-                print(f"  成功获取 {len(news)} 条新闻")
+                print(f"  成功获取 {len(news)} 条")
             else:
-                print(f"  未获取到新闻")
+                print(f"  未获取到")
         except Exception as e:
-            print(f"  抓取 {source_name} 失败: {e}")
-    
-    # 按时间排序（如果有时间信息）
-    all_news.sort(key=lambda x: x.get('pub_time', ''), reverse=True)
-    
-    # 去重（基于标题）
-    seen_titles = set()
-    unique_news = []
-    for news in all_news:
-        title = news.get('title', '')
-        if title not in seen_titles:
-            seen_titles.add(title)
-            unique_news.append(news)
-    
-    return unique_news[:10]
+            print(f"  抓取失败: {e}")
+
+    seen = set()
+    unique = []
+    for n in all_news:
+        if n['title'] not in seen:
+            seen.add(n['title'])
+            unique.append(n)
+    return unique[:10]
 
 
 def format_startup_markdown(news_list: List[Dict[str, Any]], date: str = None) -> str:
-    """
-    格式化为 Markdown
-    """
     if date is None:
         date = get_today_date()
-    
-    lines = [
-        f"# 💼 创业投资新闻 - {date}",
-        "",
-        f"今日创业投资领域最新 {len(news_list)} 条新闻",
-        "",
-        "---",
-        ""
-    ]
-    
-    for i, news in enumerate(news_list, 1):
-        lines.extend([
-            f"## {i}. [{news['title']}]({news['url']})",
-            "",
-            f"**来源**: {news.get('source', '未知')}",
-        ])
-        
-        if news.get('pub_time'):
-            lines.append(f"**时间**: {news['pub_time']}")
-        
-        lines.append("")
-        
-        if news.get('summary'):
-            lines.append(f"**摘要**: {news['summary']}")
-            lines.append("")
-        
-        lines.append("---")
-        lines.append("")
-    
+    lines = [f"# 💼 创业投资新闻 - {date}", "", f"今日 {len(news_list)} 条", "", "---", ""]
+    for i, n in enumerate(news_list, 1):
+        lines.extend([f"## {i}. [{n['title']}]({n['url']})", f"**来源**: {n.get('source', '')}", ""])
+        if n.get('summary'):
+            lines.extend([f"**摘要**: {n['summary']}", ""])
+        lines.extend(["---", ""])
     return '\n'.join(lines)
 
 
-def main():
-    """
-    主函数（用于测试）
-    """
-    print("正在抓取创业投资新闻...")
-    news_list = fetch_startup_news()
-    
-    if news_list:
-        print(f"成功获取 {len(news_list)} 条新闻")
-        
-        # 生成 Markdown
-        markdown = format_startup_markdown(news_list)
-        
-        # 保存到文件
-        from utils import save_markdown, get_today_date
-        filepath = f"data/{get_today_date()}/startup-news.md"
-        save_markdown(markdown, filepath)
-        print(f"已保存到 {filepath}")
-        
-        # 打印前 3 条
-        print("\n前 3 条新闻:")
-        for i, news in enumerate(news_list[:3], 1):
-            print(f"{i}. {news['title']}")
-    else:
-        print("未获取到新闻")
-
-
 if __name__ == '__main__':
-    main()
+    news = fetch_startup_news()
+    print(f"\n共 {len(news)} 条")
+    for n in news[:3]:
+        print(f"  {n['source']}: {n['title']}")

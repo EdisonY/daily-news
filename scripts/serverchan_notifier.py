@@ -90,46 +90,39 @@ class ServerChanNotifier:
 
         lines = []
 
+        def _desc(item, max_len=100):
+            d = item.get('summary', '') or item.get('description', '') or '暂无简介'
+            return d[:max_len-3] + '...' if len(d) > max_len else d
+
         # GitHub 热门项目
         if github_news:
             lines.append("## 🔥 GitHub 热门项目")
             for i, p in enumerate(github_news[:10], 1):
-                desc = p.get('description', '') or '暂无描述'
-                if len(desc) > 80:
-                    desc = desc[:77] + '...'
                 lang = p.get('language', '')
                 stars = p.get('stars_formatted', '')
                 lang_tag = f" `{lang}`" if lang else ""
                 lines.append(f"{i}. ⭐{stars}{lang_tag} [{p['title']}]({p['url']})")
-                lines.append(f"   {desc}")
+                lines.append(f"   {_desc(p)}")
             lines.append("")
 
         # 创业投资新闻
         if startup_news:
             lines.append("## 💼 创业投资新闻")
             for i, n in enumerate(startup_news[:10], 1):
-                desc = n.get('summary', '') or n.get('description', '') or ''
-                if len(desc) > 80:
-                    desc = desc[:77] + '...'
                 source = n.get('source', '')
                 source_tag = f" `{source}`" if source else ""
                 lines.append(f"{i}.{source_tag} [{n['title']}]({n['url']})")
-                if desc:
-                    lines.append(f"   {desc}")
+                lines.append(f"   {_desc(n)}")
             lines.append("")
 
         # 小成本创业机会
         if opportunities_news:
             lines.append("## 💰 小成本创业机会")
             for i, n in enumerate(opportunities_news[:10], 1):
-                desc = n.get('summary', '') or n.get('description', '') or ''
-                if len(desc) > 80:
-                    desc = desc[:77] + '...'
                 source = n.get('source', '')
                 source_tag = f" `{source}`" if source else ""
                 lines.append(f"{i}.{source_tag} [{n['title']}]({n['url']})")
-                if desc:
-                    lines.append(f"   {desc}")
+                lines.append(f"   {_desc(n)}")
             lines.append("")
 
         # 游戏设计灵感
@@ -141,12 +134,8 @@ class ServerChanNotifier:
             }
             for i, n in enumerate(game_news[:10], 1):
                 tag = type_labels.get(n.get('type', 'general'), '资讯')
-                desc = n.get('summary', '') or n.get('description', '') or ''
-                if len(desc) > 80:
-                    desc = desc[:77] + '...'
                 lines.append(f"{i}. `#{tag}` [{n['title']}]({n['url']})")
-                if desc:
-                    lines.append(f"   {desc}")
+                lines.append(f"   {_desc(n)}")
             lines.append("")
 
         # 底部：报告地址

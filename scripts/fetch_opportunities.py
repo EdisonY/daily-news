@@ -1,342 +1,126 @@
 """
-小成本投资创业机会抓取模块
-抓取低成本、轻创业相关的信息和机会
+小成本创业机会抓取模块（RSS/API 版本）
+使用 RSS 源和公开 API，不依赖网页爬取
 """
 
-import re
-from datetime import datetime, timedelta
 from typing import List, Dict, Any
-from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
+import re
 import sys
 import os
 sys.path.insert(0, os.path.dirname(__file__))
-from utils import fetch_url, get_headers, truncate_text, get_today_date
+from utils import fetch_url, fetch_json, truncate_text, get_today_date
 
 
-def fetch_36kr_opportunities() -> List[Dict[str, Any]]:
-    """
-    抓取 36氪 低成本创业相关内容
-    """
-    # 搜索低成本创业相关文章
-    url = "https://36kr.com/search/articles/低成本创业"
-    html = fetch_url(url)
-    
-    if not html:
+def _parse_rss(xml_text: str, source_name: str) -> List[Dict[str, Any]]:
+    items = []
+    try:
+        root = ET.fromstring(xml_text)
+        for item in root.findall('.//item'):
+            title = item.findtext('title', '').strip()
+            link = item.findtext('link', '').strip()
+            desc = item.findtext('description', '').strip()
+            if title:
+                items.append({
+                    'title': title,
+                    'url': link,
+                    'summary': truncate_text(re.sub(r'<[^>]+>', '', desc), 120),
+                    'pub_time': '',
+                    'source': source_name,
+                    'category': 'opportunity',
+                    'type': 'low_cost'
+                })
+    except Exception as e:
+        print(f"  RSS parse error ({source_name}): {e}")
+    return items
+
+
+def fetch_indiehackers_rss() -> List[Dict[str, Any]]:
+    """IndieHackers RSS"""
+    xml = fetch_url("https://www.indiehackers.com/feed", timeout=15)
+    if not xml:
         return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找文章列表
-    articles = soup.find_all('div', class_='article-item')
-    
-    for article in articles[:15]:
-        try:
-            # 提取标题
-            title_elem = article.find('a', class_='article-item-title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            link = title_elem.get('href', '')
-            if link and not link.startswith('http'):
-                link = f"https://36kr.com{link}"
-            
-            # 提取摘要
-            summary_elem = article.find('p', class_='article-item-description')
-            summary = summary_elem.get_text(strip=True) if summary_elem else ''
-            
-            # 提取时间
-            time_elem = article.find('span', class_='article-item-time')
-            pub_time = time_elem.get_text(strip=True) if time_elem else ''
-            
-            news = {
-                'title': title,
-                'url': link,
-                'summary': truncate_text(summary, 200),
-                'pub_time': pub_time,
-                'source': '36氪',
-                'category': 'opportunity',
-                'type': 'low_cost'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
-            continue
-    
-    return news_list
+    return _parse_rss(xml, 'IndieHackers')
 
 
-def fetch_zhihu_opportunities() -> List[Dict[str, Any]]:
-    """
-    抓取知乎 低成本创业相关问题和回答
-    """
-    # 搜索知乎相关问题
-    url = "https://www.zhihu.com/search?type=content&q=低成本创业"
-    html = fetch_url(url)
-    
-    if not html:
+def fetch_hn_show() -> List[Dict[str, Any]]:
+    """Hacker News Show HN - 独立开发者项目"""
+    data = fetch_json("https://hacker-news.firebaseio.com/v0/showstories.json")
+    if not data:
         return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找搜索结果
-    items = soup.find_all('div', class_='SearchResult-Card')
-    
-    for item in items[:15]:
-        try:
-            # 提取标题
-            title_elem = item.find('h2', class_='ContentItem-title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            
-            # 提取链接
-            link_elem = title_elem.find('a')
-            link = link_elem.get('href', '') if link_elem else ''
-            if link and not link.startswith('http'):
-                link = f"https://www.zhihu.com{link}"
-            
-            # 提取摘要
-            summary_elem = item.find('span', class_='RichText')
-            summary = summary_elem.get_text(strip=True) if summary_elem else ''
-            
-            news = {
-                'title': title,
-                'url': link,
-                'summary': truncate_text(summary, 200),
-                'pub_time': '',
-                'source': '知乎',
-                'category': 'opportunity',
-                'type': 'low_cost'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
+    items = []
+    for sid in data[:40]:
+        story = fetch_json(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json")
+        if not story:
             continue
-    
-    return news_list
+        title = story.get('title', '')
+        url = story.get('url', f"https://news.ycombinator.com/item?id={sid}")
+        text = story.get('text', '')
+        summary = truncate_text(re.sub(r'<[^>]+>', '', text), 120) if text else ''
+        items.append({
+            'title': title,
+            'url': url,
+            'summary': summary,
+            'pub_time': '',
+            'source': 'Show HN',
+            'category': 'opportunity',
+            'type': 'low_cost'
+        })
+        if len(items) >= 10:
+            break
+    return items
 
 
-def fetch_xiaohongshu_opportunities() -> List[Dict[str, Any]]:
-    """
-    抓取小红书 低成本创业相关内容
-    """
-    # 注意：小红书有反爬机制，实际使用可能需要更复杂的处理
-    url = "https://www.xiaohongshu.com/search_result?keyword=低成本创业"
-    html = fetch_url(url)
-    
-    if not html:
+def fetch_v2ex_innovate() -> List[Dict[str, Any]]:
+    """V2EX 创意/项目节点"""
+    xml = fetch_url("https://www.v2ex.com/feed/tab/create.xml", timeout=15)
+    if not xml:
         return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找笔记列表
-    items = soup.find_all('div', class_='note-item')
-    
-    for item in items[:15]:
-        try:
-            # 提取标题
-            title_elem = item.find('a', class_='title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            link = title_elem.get('href', '')
-            if link and not link.startswith('http'):
-                link = f"https://www.xiaohongshu.com{link}"
-            
-            # 提取摘要
-            summary_elem = item.find('p', class_='desc')
-            summary = summary_elem.get_text(strip=True) if summary_elem else ''
-            
-            news = {
-                'title': title,
-                'url': link,
-                'summary': truncate_text(summary, 200),
-                'pub_time': '',
-                'source': '小红书',
-                'category': 'opportunity',
-                'type': 'low_cost'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
-            continue
-    
-    return news_list
-
-
-def fetch_indiehackers_opportunities() -> List[Dict[str, Any]]:
-    """
-    抓取 IndieHackers 低成本创业案例
-    """
-    url = "https://www.indiehackers.com/"
-    html = fetch_url(url)
-    
-    if not html:
-        return []
-    
-    soup = BeautifulSoup(html, 'lxml')
-    news_list = []
-    
-    # 查找帖子列表
-    items = soup.find_all('div', class_='post-item')
-    
-    for item in items[:15]:
-        try:
-            # 提取标题
-            title_elem = item.find('a', class_='title')
-            if not title_elem:
-                continue
-            
-            title = title_elem.get_text(strip=True)
-            link = title_elem.get('href', '')
-            if link and not link.startswith('http'):
-                link = f"https://www.indiehackers.com{link}"
-            
-            # 提取摘要
-            summary_elem = item.find('p', class_='summary')
-            summary = summary_elem.get_text(strip=True) if summary_elem else ''
-            
-            news = {
-                'title': title,
-                'url': link,
-                'summary': truncate_text(summary, 200),
-                'pub_time': '',
-                'source': 'IndieHackers',
-                'category': 'opportunity',
-                'type': 'low_cost'
-            }
-            
-            news_list.append(news)
-            
-        except Exception as e:
-            continue
-    
-    return news_list
+    return _parse_rss(xml, 'V2EX')
 
 
 def fetch_opportunities() -> List[Dict[str, Any]]:
-    """
-    抓取小成本创业机会（汇总多个来源）
-    """
     all_news = []
-    
-    # 抓取各个来源
     sources = [
-        ('36氪', fetch_36kr_opportunities),
-        ('知乎', fetch_zhihu_opportunities),
-        ('小红书', fetch_xiaohongshu_opportunities),
-        ('IndieHackers', fetch_indiehackers_opportunities)
+        ('Show HN', fetch_hn_show),
+        ('V2EX', fetch_v2ex_innovate),
+        ('IndieHackers', fetch_indiehackers_rss),
     ]
-    
-    for source_name, fetch_func in sources:
+    for name, func in sources:
         try:
-            print(f"正在抓取 {source_name}...")
-            news = fetch_func()
+            print(f"正在抓取 {name}...")
+            news = func()
             if news:
                 all_news.extend(news)
-                print(f"  成功获取 {len(news)} 条内容")
+                print(f"  成功获取 {len(news)} 条")
             else:
-                print(f"  未获取到内容")
+                print(f"  未获取到")
         except Exception as e:
-            print(f"  抓取 {source_name} 失败: {e}")
-    
-    # 过滤关键词（确保与低成本创业相关）
-    keywords = ['低成本', '小投入', '副业', '轻创业', '0成本', '个人创业', '小本', '万元', '千元', '免费']
-    filtered_news = []
-    
-    for news in all_news:
-        text = f"{news.get('title', '')} {news.get('summary', '')}"
-        if any(keyword in text for keyword in keywords):
-            filtered_news.append(news)
-    
-    # 按时间排序（如果有时间信息）
-    filtered_news.sort(key=lambda x: x.get('pub_time', ''), reverse=True)
-    
-    # 去重（基于标题）
-    seen_titles = set()
-    unique_news = []
-    for news in filtered_news:
-        title = news.get('title', '')
-        if title not in seen_titles:
-            seen_titles.add(title)
-            unique_news.append(news)
-    
-    return unique_news[:10]
+            print(f"  抓取失败: {e}")
+
+    seen = set()
+    unique = []
+    for n in all_news:
+        if n['title'] not in seen:
+            seen.add(n['title'])
+            unique.append(n)
+    return unique[:10]
 
 
 def format_opportunities_markdown(news_list: List[Dict[str, Any]], date: str = None) -> str:
-    """
-    格式化为 Markdown
-    """
     if date is None:
         date = get_today_date()
-    
-    lines = [
-        f"# 💰 小成本创业机会 - {date}",
-        "",
-        f"今日发现 {len(news_list)} 个低成本创业机会",
-        "",
-        "---",
-        ""
-    ]
-    
-    for i, news in enumerate(news_list, 1):
-        lines.extend([
-            f"## {i}. [{news['title']}]({news['url']})",
-            "",
-            f"**来源**: {news.get('source', '未知')}",
-        ])
-        
-        if news.get('pub_time'):
-            lines.append(f"**时间**: {news['pub_time']}")
-        
-        lines.append("")
-        
-        if news.get('summary'):
-            lines.append(f"**摘要**: {news['summary']}")
-            lines.append("")
-        
-        lines.append("---")
-        lines.append("")
-    
+    lines = [f"# 💰 小成本创业机会 - {date}", "", f"今日 {len(news_list)} 条", "", "---", ""]
+    for i, n in enumerate(news_list, 1):
+        lines.extend([f"## {i}. [{n['title']}]({n['url']})", f"**来源**: {n.get('source', '')}", ""])
+        if n.get('summary'):
+            lines.extend([f"**摘要**: {n['summary']}", ""])
+        lines.extend(["---", ""])
     return '\n'.join(lines)
 
 
-def main():
-    """
-    主函数（用于测试）
-    """
-    print("正在抓取小成本创业机会...")
-    news_list = fetch_opportunities()
-    
-    if news_list:
-        print(f"成功获取 {len(news_list)} 个机会")
-        
-        # 生成 Markdown
-        markdown = format_opportunities_markdown(news_list)
-        
-        # 保存到文件
-        from utils import save_markdown, get_today_date
-        filepath = f"data/{get_today_date()}/startup-opportunities.md"
-        save_markdown(markdown, filepath)
-        print(f"已保存到 {filepath}")
-        
-        # 打印前 3 个
-        print("\n前 3 个机会:")
-        for i, news in enumerate(news_list[:3], 1):
-            print(f"{i}. {news['title']}")
-    else:
-        print("未获取到机会")
-
-
 if __name__ == '__main__':
-    main()
+    opps = fetch_opportunities()
+    print(f"\n共 {len(opps)} 条")
+    for o in opps[:3]:
+        print(f"  {o['source']}: {o['title']}")
