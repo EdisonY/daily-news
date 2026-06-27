@@ -1,114 +1,158 @@
 {
   "news": [
     {
-      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3867943030395913?f=rss",
-      "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。\n  念象科技成立于2025年底，首款产品Omniband是一款腕戴式...",
-      "pub_time": "2026-06-26 08:00:00  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_dab3b8d2d7ce434f96e22a8cf74e5822@5930287_oswg4621965oswg4800oswg3200_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.192645"
-    },
-    {
-      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
-      "url": "https://36kr.com/p/3869243269387269?f=rss",
-      "summary": "今日热点导览\n  \n   Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名\n   建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能\n   马斯克曾直言混动车只是过渡阶段\n   韩国5200万人开了1.08亿股票账户，半年增超1000万...",
-      "pub_time": "2026-06-26 07:57:55  +0800",
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "url": "https://36kr.com/p/3870720040588295?f=rss",
+      "summary": "今日热点导览\n  OpenAI官宣推出GPT-5.6\n  亚洲“果链”股价几乎全线大幅下跌\n  SpaceX计划为美国消费者推出新的星链移动服务\n  美团股价低迷，王兴回应\n  小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人\n  微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹\n  T...",
+      "pub_time": "2026-06-27 09:02:37  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.192866"
+      "timestamp": "2026-06-27T01:10:07.018972"
     },
     {
-      "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
-      "url": "https://36kr.com/p/3868596994069509?f=rss",
-      "summary": "减重1亿斤，是什么概念？&nbsp;\n  简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。\n  但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。\n  在国家卫健委等16部门联合倡议的“...",
-      "pub_time": "2026-06-25 21:42:26  +0800",
+      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
+      "url": "https://36kr.com/p/3866946087867394?f=rss",
+      "summary": "\n  图源视觉中国\n  动力电池一直是新能源汽车里高频博弈的战场。\n  它通常占据一辆新能源车30%-40%的BOM（物料）成本；与此同时，作为电车心脏，又直接决定续航、补能效率、安全性和寿命等核心体验，是少数能够同时影响产品力与成本结构的零部件。\n  这意味着，围绕动力电池的博弈在车企与供应商之间...",
+      "pub_time": "2026-06-27 07:31:16  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_a522483dd549493a8c21d0fd583e066f@19153231_oswg3876693oswg6004oswg4003_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.193076"
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_245e2d5a160e4ed9af72f125da58d25e@6310690_oswg338035oswg1024oswg683_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "timestamp": "2026-06-27T01:10:07.019221"
     },
     {
-      "title": "美光的好财报，黄金的坏消息",
-      "url": "https://36kr.com/p/3868523068298499?f=rss",
-      "summary": "美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿...",
-      "pub_time": "2026-06-25 19:49:32  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_281f322fef6641f7a0daebf0558d5cc8@6100851_oswg59212oswg1080oswg884_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.193470"
-    },
-    {
-      "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
-      "url": "https://36kr.com/p/3868502221018370?f=rss",
-      "summary": "大公司：\n  百度：已有1500万人使用百度AI志愿助手填报\n  36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。\n  名创优品寇维宣：乐园系门店年内破百家\n  36氪获悉，名创优品集...",
-      "pub_time": "2026-06-25 19:44:15  +0800",
+      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+      "url": "https://36kr.com/p/3870292939658242?f=rss",
+      "summary": "过去几年，智能驾驶行业的竞争重心经历了几次明显变化。\n  最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。\n  到了今天，越来越多公司发现...",
+      "pub_time": "2026-06-27 07:30:20  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.193796"
+      "timestamp": "2026-06-27T01:10:07.019436"
     },
     {
-      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
-      "url": "https://36kr.com/p/3868349472920576?f=rss",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为...",
-      "pub_time": "2026-06-25 17:19:27  +0800",
+      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+      "url": "https://36kr.com/p/3869884559332356?f=rss",
+      "summary": "大公司：\n  五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长\n  36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、...",
+      "pub_time": "2026-06-26 20:12:40  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_fe4d231547bb4470808217235ecd57e6@6381723_oswg1890175oswg1919oswg1280_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.194207"
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.019852"
     },
     {
-      "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
-      "url": "https://36kr.com/p/3868276479710466?f=rss",
-      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。\n  ...",
-      "pub_time": "2026-06-25 15:42:21  +0800",
+      "title": "《走进AIE》，谁是下一个主角",
+      "url": "https://36kr.com/p/3869838577620231?f=rss",
+      "summary": "一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台\n  全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n  技术创新的源头既来自产业一线...",
+      "pub_time": "2026-06-26 18:28:31  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_b32c21389f644e4a8179c6fb16b7aa3a@6022551_oswg2139911oswg1920oswg1080_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.194579"
+      "image": "https://img.36krcdn.com/hsossms/20260626/v2_23a3bfcc6f1c43db920180c3d591bae5@6381723_oswg1821876oswg1440oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "timestamp": "2026-06-27T01:10:07.020268"
     },
     {
-      "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
-      "url": "https://36kr.com/p/3868204527457287?f=rss",
-      "summary": "2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透...",
-      "pub_time": "2026-06-25 14:21:18  +0800",
+      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+      "url": "https://36kr.com/p/3866837793952769?f=rss",
+      "summary": "文 | 海若镜\n  访谈 | 海若镜 巴芮\n  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n  五年前，张亚勤创建了清华大学智能产...",
+      "pub_time": "2026-06-26 16:52:52  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_f4f3a4bf33a94a6c81562191bd4250de@517825446_oswg152103oswg2250oswg3000_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.194881"
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.020594"
     },
     {
-      "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
-      "url": "https://36kr.com/p/3868045479711745?f=rss",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题...",
-      "pub_time": "2026-06-25 13:23:29  +0800",
+      "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+      "url": "https://36kr.com/p/3869622921041156?f=rss",
+      "summary": "本文约900字，建议阅读2分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮...",
+      "pub_time": "2026-06-26 14:24:40  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_1e270c850b084048ac423ecd60e12b16@6381723_oswg61658oswg1280oswg852_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.195208"
+      "image": "https://img.36krcdn.com/hsossms/20260626/v2_0f869b9048f0444d9175f9e0a3f9ccde@430412560_oswg643375oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-06-27T01:10:07.020925"
     },
     {
-      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
-      "url": "https://36kr.com/p/3867998907667462?f=rss",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题...",
-      "pub_time": "2026-06-25 11:42:26  +0800",
+      "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
+      "url": "https://36kr.com/p/3869474592363528?f=rss",
+      "summary": "北京时间&nbsp;&nbsp;2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：\"DSC\"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价...",
+      "pub_time": "2026-06-26 13:38:23  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260625/v2_e72cabff2f9f4b8e918fff5fdf768382@6381723_oswg79447oswg830oswg554_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-06-26T01:14:22.195632"
+      "image": "https://img.36krcdn.com/hsossms/20260626/v2_58e5c18d980144c2acd5e88dc9a01de9@6162492_oswg691843oswg2048oswg1152_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "timestamp": "2026-06-27T01:10:07.021379"
+    },
+    {
+      "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+      "url": "https://36kr.com/p/3869445453305090?f=rss",
+      "summary": "文｜王欣逸\n  编辑｜周鑫雨\n  半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。\n  半年...",
+      "pub_time": "2026-06-26 13:36:55  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260626/v2_cefe10c6c32b4ad493dbe74d4d367f41@6162492_oswg87997oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-06-27T01:10:07.021767"
+    },
+    {
+      "title": "年入27亿，一颗中国糖果拿捏「美国味」",
+      "url": "https://36kr.com/p/3868550907237636?f=rss",
+      "summary": "作者 |&nbsp;谢芸子\n  编辑 | 张帆\n  在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。\n  走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回...",
+      "pub_time": "2026-06-26 10:23:48  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260625/v2_b6e7260edf0f41658f4299796763d04d@394564713_oswg1542966oswg1080oswg1171_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-06-27T01:10:07.022131"
+    },
+    {
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to se...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.030902"
+    },
+    {
+      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "url": "https://github.com/dbos-inc/dbosify-py",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.031262"
+    },
+    {
+      "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
+      "url": "https://github.com/neospe/autofit2",
+      "summary": "Hi HN, Stefan here. autofit2 is a project I have been using at my previous company and is now opensourced. It has been used extensively in automated t...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.031807"
+    },
+    {
+      "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "url": "https://github.com/DDecoene/WebBaseIII",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.032252"
     },
     {
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
@@ -119,7 +163,29 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.204327"
+      "timestamp": "2026-06-27T01:10:07.032677"
+    },
+    {
+      "title": "Show HN: I Derived a Steak",
+      "url": "https://www.absurdlyoptimized.com/recipes/grilled-meats/",
+      "summary": "After years of juggling imprecise grilling recipes and temperatures, I&#x27;ve made a grilling calculator that derives perfect meat results from therm...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.033108"
+    },
+    {
+      "title": "Show HN: Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+      "url": "https://news.ycombinator.com/item?id=48644463",
+      "summary": "I built an experiment that uses an overfitted transformer and arithmetic coding to compress individual files.Instead of training the model to generali...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.033519"
     },
     {
       "title": "Show HN: Chess-Inspired Roguelike",
@@ -130,7 +196,7 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.204668"
+      "timestamp": "2026-06-27T01:10:07.033914"
     },
     {
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
@@ -141,7 +207,7 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.205002"
+      "timestamp": "2026-06-27T01:10:07.034326"
     },
     {
       "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
@@ -152,117 +218,62 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.205446"
+      "timestamp": "2026-06-27T01:10:07.034763"
     },
     {
-      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-      "url": "https://minipcs.zip",
-      "summary": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Defini...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-06-26T01:14:22.205797"
-    },
-    {
-      "title": "Show HN: FastPlay, a fast minimal Windows video player built in Rust",
-      "url": "https://github.com/CalvinSturm/FastPlay",
+      "title": "Puzzles Desert",
+      "url": "https://store.steampowered.com/app/4749170",
       "summary": "",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-06-26T01:14:22.206155"
+      "source": "Steam",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749170/bfcfc094b40b1eeff5bbb373f4b6dfc9b85ba6b2/header.jpg?t=1782515038",
+      "timestamp": "2026-06-27T01:10:07.044067"
     },
     {
-      "title": "Show HN: Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
-      "summary": "Made this in a free evening. Index an permissive license translation of the Bible (WEB) into a RAG database to allow returning passages of similar sem...",
+      "title": "Roulette Roguelike",
+      "url": "https://michaelthelol.itch.io/roulette-roguelike",
+      "summary": "Submission to the very serious Juniper game jam.",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-06-26T01:14:22.206582"
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI4MTA4NzkxLnBuZw==/315x250%23c/5OAKlE.png",
+      "timestamp": "2026-06-27T01:10:07.044552"
     },
     {
-      "title": "Show HN: HoprLabs – a Python lab for prototyping AI math ideas",
-      "url": "https://github.com/TangibleResearch/HoprLabs",
+      "title": "Neighborhood Spinner Battle",
+      "url": "https://dimi53.itch.io/neighborhood-spinner-battle",
       "summary": "",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-06-26T01:14:22.207085"
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI4MTA0NzczLnBuZw==/315x250%23c/n3dpNx.png",
+      "timestamp": "2026-06-27T01:10:07.045117"
     },
     {
-      "title": "Show HN: DeepSeek Flash inverted the economics of agent products",
-      "url": "https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent",
-      "summary": "There is an adversarial relationship between developers and big model labs.Model labs charged developers higher API prices to subsidize their own agen...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-06-26T01:14:22.207600"
-    },
-    {
-      "title": "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
-      "url": "https://github.com/runtypelabs/persona",
-      "summary": "Hey everyone. My cofounder and I are open sourcing Persona.js (https:&#x2F;&#x2F;www.persona-chat.dev&#x2F;). It&#x27;s a VanillaJS library that helps...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-06-26T01:14:22.208072"
-    },
-    {
-      "title": "触乐怪话：从“七圣召唤”到《小丑牌》",
-      "url": "http://www.chuapp.com/article/291438.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n大家好，我是新来的编辑小陈。几年前，我发现了一个以游戏为核心的学习秘诀。\n那是一个有些炎热的春天，房间里没有空调，我的小风扇对着脸呼呼吹。当时被拖来当书桌的是一张放在阳台的金属户外早餐桌，电脑放上去还有点晃，我在浏览器打开某雅思免费题库，手机摆在旁边，开始运行《原神》里的&ldquo;七圣召唤&rdquo;。\n\n我一直希望&l...",
+      "title": "二游减负之后，代肝为什么更忙了",
+      "url": "http://www.chuapp.com/article/291444.html",
+      "summary": "&ldquo;现在已经不只是卷价格了，还要卷个人影响力，卷怎么保障老板账号的安全。&rdquo;小狸猫说。他今年19岁，是一家拥有10名员工的线下代肝工作室负责人。\n小狸猫主营二次元游戏代肝。这几年，二游市场同样竞争激烈，比内容、比美术、比IP，也比谁更会优化玩家体验。&ldquo;减负&rdquo;成了许多二游的主打策略。而对这种变化感受最直接的，正是代肝，一群每天都要把同样操作重复数十次的人。...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-25/6a3cff9d455b7.jpg?imageView2/2/w/700",
-      "timestamp": "2026-06-26T01:14:22.222071"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-26/5566a3e3e25653ed.jpg?imageView2/2/w/700",
+      "timestamp": "2026-06-27T01:10:07.045660"
     },
     {
-      "title": "从《铲子骑士》到《挖掘者米娜》：Yacht Club的像素游戏之路",
-      "url": "http://www.chuapp.com/article/291441.html",
-      "summary": "2014年，Yacht Club公司推出了复古游戏《铲子骑士》，本作采用FC风格的像素画面，系统融合了&ldquo;马力欧&rdquo;和&ldquo;洛克人&rdquo;的特色，成为独立游戏圈的一匹黑马。\n时光飞逝，转眼间12年过去了，Yacht Club在2026年5月29日推出了新作《挖掘者米娜》，这一次的画面变为GBC风格，系统则是&ldquo;塞尔达传说&rdquo;和&ldquo;恶魔...",
+      "title": "Flotilla: Rates in Space",
+      "url": "https://chardizord.itch.io/flotilla",
+      "summary": "chill space game, start with one ship and grow into a fleet!",
       "pub_time": "",
-      "source": "触乐",
+      "source": "itch.io",
       "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-25/8416a3ce1d861a09.jpg?imageView2/2/w/700",
-      "timestamp": "2026-06-26T01:14:22.222570"
-    },
-    {
-      "title": "2026年第二十三届ChinaJoy定档7月31日，“与AI同游”引领全球数字娱乐新风向",
-      "url": "http://www.chuapp.com/article/291442.html",
-      "summary": "2026年第二十三届中国国际数码互动娱乐展览会（ChinaJoy）新闻发布会今日在上海国际会议中心举行。会上宣布，本届展会将于7月31日至8月3日在上海新国际博览中心举办，主题定为&ldquo;与AI同游&rdquo;，将以空前的游戏试玩阵容与前沿AI技术生态为核心驱动，全面呈现数字娱乐产业最新成果。\n\n第二十三届ChinaJoy新闻发布会现场\n\n中国音像与数字出版协会副秘书长、游戏工委秘书长、电...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-25/5386a3ce49d9d8bd.png?imageView2/2/w/700",
-      "timestamp": "2026-06-26T01:14:22.223224"
-    },
-    {
-      "title": "《恋与制作人》2026音乐会：“在爱的包围里，可以无所不能”",
-      "url": "http://www.chuapp.com/article/291440.html",
-      "summary": "6月21日，《恋与制作人》2026&ldquo;林间絮语&rdquo;巡回音乐会的最后一场在成都四川大剧院落幕。相比于开票时的热闹，它的尾声显得温馨而持久。在这几天，你依然可以在社交媒体上看到很多玩家还在断续地发出现场的照片、视频和记录，&ldquo;很多年后还会记得这一天&rdquo;。\n&ldquo;有预想到会哭，但没想到刚开场听到音乐声就哭了，每一段音乐里都包含着各种各样的回忆，平淡的日常在...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-24/5306a3bcc41cf243.jpg?imageView2/2/w/700",
-      "timestamp": "2026-06-26T01:14:22.223839"
+      "type": "art",
+      "image": "https://img.itch.zone/aW1nLzI4MDI5NjM0LnBuZw==/315x250%23c/EPugDS.png",
+      "timestamp": "2026-06-27T01:10:07.046229"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -273,18 +284,7 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-06-26T01:14:22.224357"
-    },
-    {
-      "title": "触乐怪话：用AI计算中国队打进世界杯的概率",
-      "url": "http://www.chuapp.com/article/291431.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n前段时间，梅林粉杖老师在怪话里聊了些他对2026年美加墨世界杯的感想。面对这项4年一度的大型活动，虽然我也属于梅林粉杖老师嘴里那种&ldquo;平时基本上不看球，只从社交媒体上了解信息&rdquo;的人，但即使我主观上没有想要特别关注，许多信息还是会随着大数据源源不断地推到我面前，我也没办法呀！\n据我观察，社交平台上数量最多的...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "art",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-22/6a38ff6f20b0f.jpg?imageView2/2/w/700",
-      "timestamp": "2026-06-26T01:14:22.224868"
+      "timestamp": "2026-06-27T01:10:07.046741"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -295,18 +295,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-06-26T01:14:22.225482"
-    },
-    {
-      "title": "触乐怪话：搬家记",
-      "url": "http://www.chuapp.com/article/291413.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n可怕！您是藏在我家吗？！（图/小罗）\n\n伴随着夏天的来临，我在《朋友收集：梦想生活》中的小岛迎来了向日葵、薰衣草和瓷砖装修，我在现实生活中迎来了收纳箱、小推车和搬家，我要从我现在所住的小区，搬到相距大约500米的另一个小区。\n因为这次搬家的距离真的很短，而且我几乎没有什么大件家具，所以这次搬家某种程度上来说是方便的，但是也造成了一点尴尬：...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "narrative",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-11/6a2a6f1942ac9.jpg?imageView2/2/w/700",
-      "timestamp": "2026-06-26T01:14:22.226012"
+      "timestamp": "2026-06-27T01:10:07.047261"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -317,7 +306,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.226646"
+      "timestamp": "2026-06-27T01:10:07.047863"
     },
     {
       "title": "Steps to Make a Simple Game in Unity",
@@ -328,18 +317,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-06-26T01:14:22.227264"
-    },
-    {
-      "title": "Spinning Spells",
-      "url": "https://elijah-mudd.itch.io/spinning-spells",
-      "summary": "Made for Juniper Very Serious Game Jam",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzI4MDk0MzM2LnBuZw==/315x250%23c/SWYo63.png",
-      "timestamp": "2026-06-26T01:14:22.227852"
+      "timestamp": "2026-06-27T01:10:07.048431"
     },
     {
       "title": "触乐怪话：你会用游戏周边打扑克吗？",
@@ -350,41 +328,52 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-06-24/6a3bb24a609e5.jpg?imageView2/2/w/700",
-      "timestamp": "2026-06-26T01:14:22.228462"
+      "timestamp": "2026-06-27T01:10:07.049044"
     },
     {
-      "title": "DOO DOO VILLAGE",
-      "url": "https://store.steampowered.com/app/4582850",
+      "title": "I wanna do music for Indie Games!!",
+      "url": "https://gamedev.net/forums/topic/720099-i-wanna-do-music-for-indie-games",
+      "summary": "Hi ! My name is notcuevas and I've been producing for 4 years. I do my own songs, I compose, I produce and I can mix too. Yesterday I did my first step in this industry and I uploaded a video in my Yo...",
+      "pub_time": "",
+      "source": "GameDev.net",
+      "category": "game",
+      "type": "indie",
+      "image": "",
+      "timestamp": "2026-06-27T01:10:07.049718"
+    },
+    {
+      "title": "The Minesweeper",
+      "url": "https://store.steampowered.com/app/4292440",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582850/17e54db9cad5d4ed0fe74e15a7fb8d3c6ad84821/header.jpg?t=1782435313",
-      "timestamp": "2026-06-26T01:14:22.229144"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292440/ea82b37141c52d008d6bd1b4457afdb41ea90c42/header.jpg?t=1782519155",
+      "timestamp": "2026-06-27T01:10:07.050306"
     },
     {
-      "title": "Hunt And Peck",
-      "url": "https://store.steampowered.com/app/4347810",
+      "title": "Blood Gauntlet",
+      "url": "https://store.steampowered.com/app/4400980",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347810/ee0af94b604d112bd5fb8a98233503ec413bb057/header.jpg?t=1782434987",
-      "timestamp": "2026-06-26T01:14:22.229777"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400980/db4717643fae4812de12f0bcc210dc0e38af9ec3/header.jpg?t=1782511743",
+      "timestamp": "2026-06-27T01:10:07.050909"
     },
     {
-      "title": "魔族公主打搜撤",
-      "url": "https://store.steampowered.com/app/4593710",
+      "title": "Interaktivně o Liberci",
+      "url": "https://store.steampowered.com/app/3778780",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593710/fd5632e92116d222ad1869f511445f0668813e2e/header.jpg?t=1782434156",
-      "timestamp": "2026-06-26T01:14:22.230413"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778780/1524e0e42a7d71b016aa2df61e45b877aaafeba6/header.jpg?t=1782511083",
+      "timestamp": "2026-06-27T01:10:07.051531"
     }
   ],
-  "last_cleanup": "2026-06-26T01:14:22.230428"
+  "last_cleanup": "2026-06-27T01:10:07.051547"
 }
