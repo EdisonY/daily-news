@@ -15,15 +15,15 @@ from utils import fetch_json, get_headers, format_number, truncate_text
 def fetch_github_trending() -> List[Dict[str, Any]]:
     """
     抓取 GitHub 热门项目
-    使用 GitHub Search API 获取昨日创建的项目，按 star 数排序
+    使用 GitHub Search API 获取最近7天创建的项目，按 star 数排序
     """
-    # 计算昨天的日期
-    yesterday = datetime.now() - timedelta(days=1)
-    date_str = yesterday.strftime('%Y-%m-%d')
+    # 计算7天前的日期（增加时间窗口，避免空结果）
+    past_date = datetime.now() - timedelta(days=7)
+    date_str = past_date.strftime('%Y-%m-%d')
     
     # GitHub Search API 查询
-    # 搜索昨天创建的项目，按 star 数降序排序
-    query = f"created:>{date_str} stars:>10"
+    # 搜索最近7天创建的项目，按 star 数降序排序
+    query = f"created:>{date_str} stars:>50"
     url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=20"
     
     headers = get_headers()
@@ -82,11 +82,11 @@ def fetch_github_trending_by_language(language: str = '') -> List[Dict[str, Any]
     """
     按语言筛选 GitHub 热门项目
     """
-    yesterday = datetime.now() - timedelta(days=1)
-    date_str = yesterday.strftime('%Y-%m-%d')
+    past_date = datetime.now() - timedelta(days=7)
+    date_str = past_date.strftime('%Y-%m-%d')
     
     # 构建查询
-    query = f"created:>{date_str} stars:>10"
+    query = f"created:>{date_str} stars:>50"
     if language:
         query += f" language:{language}"
     
