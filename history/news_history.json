@@ -5,11 +5,11 @@
       "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
       "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
       "language": null,
-      "stars": 1441,
-      "forks": 118,
-      "watchers": 1441,
+      "stars": 1515,
+      "forks": 127,
+      "watchers": 1515,
       "created_at": "2026-06-28T07:08:15Z",
-      "updated_at": "2026-07-03T03:33:30Z",
+      "updated_at": "2026-07-04T03:41:35Z",
       "topics": [],
       "license": "",
       "homepage": null,
@@ -17,39 +17,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.4K",
-      "timestamp": "2026-07-03T03:56:33.177313"
-    },
-    {
-      "title": "mekos2772/ios-location-spoofer",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "language": "JavaScript",
-      "stars": 1143,
-      "forks": 160,
-      "watchers": 1143,
-      "created_at": "2026-06-30T11:20:30Z",
-      "updated_at": "2026-07-03T03:54:19Z",
-      "topics": [],
-      "license": "GNU Affero General Public License v3.0",
-      "homepage": null,
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-07-03T03:56:33.177556"
+      "stars_formatted": "1.5K",
+      "timestamp": "2026-07-04T03:50:00.329957"
     },
     {
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": "",
       "language": "Python",
-      "stars": 1123,
-      "forks": 341,
-      "watchers": 1123,
+      "stars": 1303,
+      "forks": 378,
+      "watchers": 1303,
       "created_at": "2026-06-28T10:24:42Z",
-      "updated_at": "2026-07-03T03:49:12Z",
+      "updated_at": "2026-07-04T03:04:15Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
@@ -57,39 +37,79 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-07-03T03:56:33.177820"
+      "stars_formatted": "1.3K",
+      "timestamp": "2026-07-04T03:50:00.330240"
+    },
+    {
+      "title": "mekos2772/ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "language": "JavaScript",
+      "stars": 1265,
+      "forks": 186,
+      "watchers": 1265,
+      "created_at": "2026-06-30T11:20:30Z",
+      "updated_at": "2026-07-04T03:47:39Z",
+      "topics": [],
+      "license": "GNU Affero General Public License v3.0",
+      "homepage": null,
+      "open_issues": 1,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.3K",
+      "timestamp": "2026-07-04T03:50:00.330485"
     },
     {
       "title": "Kulaxyz/self-learning-skills",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
       "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "language": null,
-      "stars": 901,
-      "forks": 15,
-      "watchers": 901,
+      "stars": 805,
+      "forks": 23,
+      "watchers": 805,
       "created_at": "2026-06-28T19:30:36Z",
-      "updated_at": "2026-07-03T03:53:51Z",
+      "updated_at": "2026-07-04T03:36:24Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 1,
+      "open_issues": 2,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "901",
-      "timestamp": "2026-07-03T03:56:33.178269"
+      "stars_formatted": "805",
+      "timestamp": "2026-07-04T03:50:00.330823"
+    },
+    {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "language": "Python",
+      "stars": 556,
+      "forks": 21,
+      "watchers": 556,
+      "created_at": "2026-06-30T10:55:02Z",
+      "updated_at": "2026-07-04T03:43:58Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 0,
+      "default_branch": "master",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "556",
+      "timestamp": "2026-07-04T03:50:00.331099"
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "language": "Python",
-      "stars": 756,
-      "forks": 78,
-      "watchers": 756,
+      "stars": 520,
+      "forks": 52,
+      "watchers": 520,
       "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-03T03:54:55Z",
+      "updated_at": "2026-07-04T01:30:56Z",
       "topics": [
         "ai",
         "ai-agents"
@@ -100,84 +120,74 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "756",
-      "timestamp": "2026-07-03T03:56:33.178632"
+      "stars_formatted": "520",
+      "timestamp": "2026-07-04T03:50:00.331421"
     },
     {
-      "title": "aquace/CVE-2026-41940-PoC",
-      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
-      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-      "language": "Python",
-      "stars": 572,
-      "forks": 13,
-      "watchers": 572,
-      "created_at": "2026-06-28T07:13:52Z",
-      "updated_at": "2026-07-03T03:06:34Z",
-      "topics": [
-        "cpanel",
-        "cve",
-        "cve-2026-41940",
-        "cve-2026-41940-poc"
-      ],
-      "license": "",
-      "homepage": "",
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "572",
-      "timestamp": "2026-07-03T03:56:33.178946"
-    },
-    {
-      "title": "diinki/linux-antiquity",
-      "url": "https://github.com/diinki/linux-antiquity",
-      "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
-      "language": "QML",
-      "stars": 504,
-      "forks": 10,
-      "watchers": 504,
-      "created_at": "2026-06-27T23:06:00Z",
-      "updated_at": "2026-07-03T03:07:07Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "504",
-      "timestamp": "2026-07-03T03:56:33.179299"
-    },
-    {
-      "title": "wlzh/dji-4g-vohive-mac",
-      "url": "https://github.com/wlzh/dji-4g-vohive-mac",
-      "description": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
+      "title": "xuchonglang/investing-for-beginners",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "language": null,
-      "stars": 406,
-      "forks": 87,
-      "watchers": 406,
-      "created_at": "2026-06-27T15:02:46Z",
-      "updated_at": "2026-07-03T03:28:28Z",
-      "topics": [],
-      "license": "",
-      "homepage": null,
-      "open_issues": 1,
+      "stars": 497,
+      "forks": 26,
+      "watchers": 497,
+      "created_at": "2026-07-03T03:56:00Z",
+      "updated_at": "2026-07-04T03:46:54Z",
+      "topics": [
+        "chinese",
+        "cryptocurrency",
+        "investing",
+        "options",
+        "xiaoyinsi"
+      ],
+      "license": "Other",
+      "homepage": "https://xiaoyinsi.com/wiki",
+      "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "406",
-      "timestamp": "2026-07-03T03:56:33.179769"
+      "stars_formatted": "497",
+      "timestamp": "2026-07-04T03:50:00.331727"
+    },
+    {
+      "title": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "language": "Swift",
+      "stars": 452,
+      "forks": 51,
+      "watchers": 452,
+      "created_at": "2026-07-02T12:47:31Z",
+      "updated_at": "2026-07-04T03:17:44Z",
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "license": "MIT License",
+      "homepage": "https://hermexapp.com/",
+      "open_issues": 32,
+      "default_branch": "master",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "452",
+      "timestamp": "2026-07-04T03:50:00.332084"
     },
     {
       "title": "Jia-Ethan/codex-keysmith",
       "url": "https://github.com/Jia-Ethan/codex-keysmith",
       "description": "Codex CLI instruction-file installer for local configuration",
       "language": "Python",
-      "stars": 401,
-      "forks": 69,
-      "watchers": 401,
+      "stars": 411,
+      "forks": 70,
+      "watchers": 411,
       "created_at": "2026-06-28T04:38:07Z",
-      "updated_at": "2026-07-03T03:34:42Z",
+      "updated_at": "2026-07-04T02:55:14Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
@@ -185,28 +195,105 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "401",
-      "timestamp": "2026-07-03T03:56:33.180157"
+      "stars_formatted": "411",
+      "timestamp": "2026-07-04T03:50:00.332445"
     },
     {
-      "title": "downclash/clash",
-      "url": "https://github.com/downclash/clash",
-      "description": "",
-      "language": "JavaScript",
-      "stars": 344,
-      "forks": 0,
-      "watchers": 344,
-      "created_at": "2026-06-27T04:54:21Z",
-      "updated_at": "2026-07-02T11:31:58Z",
+      "title": "spiritov/ds.css",
+      "url": "https://github.com/spiritov/ds.css",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "language": "CSS",
+      "stars": 383,
+      "forks": 2,
+      "watchers": 383,
+      "created_at": "2026-06-29T05:33:18Z",
+      "updated_at": "2026-07-04T03:27:38Z",
       "topics": [],
-      "license": "",
-      "homepage": null,
+      "license": "MIT License",
+      "homepage": "https://css.ds.dreamyard.xyz",
       "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "344",
-      "timestamp": "2026-07-03T03:56:33.180534"
+      "stars_formatted": "383",
+      "timestamp": "2026-07-04T03:50:00.332881"
+    },
+    {
+      "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+      "url": "https://36kr.com/p/3880770270425089?f=rss",
+      "summary": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。\n  7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，...",
+      "pub_time": "2026-07-04 11:25:22  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260704/v2_d0f4055d61b44e658712a0f770edb4af@5688585_oswg182314oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-04T03:50:00.346947"
+    },
+    {
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "url": "https://36kr.com/p/3880629882679301?f=rss",
+      "summary": "今日热点导览\n  \n   三部门：调整节能汽车、新能源汽车车船税优惠政策\n   三星传获Meta超10万亿韩元AI芯片代工订单\n   茉莉奶白小程序更换彩色Logo\n   Meta打算出售富余算力引发科技股回落\n   英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗\n  \n  TOP...",
+      "pub_time": "2026-07-04 09:03:44  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-07-04T03:50:00.347508"
+    },
+    {
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+      "url": "https://36kr.com/p/3879991356157952?f=rss",
+      "summary": "\n  图源/企业\n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。\n  光引科技2021年成立于徐州，核心团...",
+      "pub_time": "2026-07-04 09:00:00  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260703/v2_7bba92fd871f49ea8ca5e3fcabde20c7@6221844_oswg1504240oswg956oswg895_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "timestamp": "2026-07-04T03:50:00.347987"
+    },
+    {
+      "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
+      "url": "https://36kr.com/p/3879807100023040?f=rss",
+      "summary": "文｜胡香赟\n  编辑｜海若镜\n  2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。\n  瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医...",
+      "pub_time": "2026-07-03 20:28:30  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260703/v2_dfe62d284e544984aa88a9c33c6a9cc0@5930287_oswg6647055oswg5712oswg4284_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "timestamp": "2026-07-04T03:50:00.348478"
+    },
+    {
+      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+      "url": "https://36kr.com/p/3879814941437956?f=rss",
+      "summary": "本文约2700字，建议阅读6分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司...",
+      "pub_time": "2026-07-03 19:12:32  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260703/v2_3e9ef59cd2444250a67b7714f51d40b7@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-04T03:50:00.348946"
+    },
+    {
+      "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+      "url": "https://36kr.com/p/3879796756754694?f=rss",
+      "summary": "大公司：\n  德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元\n  针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代...",
+      "pub_time": "2026-07-03 18:55:45  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-07-04T03:50:00.349467"
+    },
+    {
+      "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
+      "url": "https://36kr.com/p/3877919172047111?f=rss",
+      "summary": "\n  图源视觉中国\n  文｜肖漫编辑｜李勤、杨轩\n  “回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。\n  36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。\n  从群组关系来看，理想汽车产品部由范...",
+      "pub_time": "2026-07-03 18:45:12  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260702/v2_9f88732f18974493bd43bb215b7bc0ab@6310690_oswg96109oswg1080oswg720_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "timestamp": "2026-07-04T03:50:00.349981"
     },
     {
       "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
@@ -217,7 +304,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260702/v2_fa6b125ee79c453f9932c2e78ffe3617@5836910_oswg487705oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.195668"
+      "timestamp": "2026-07-04T03:50:00.350523"
     },
     {
       "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
@@ -228,7 +315,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260703/v2_d65587b6160049309e342b0f083fb440@5920579_oswg147836oswg675oswg592_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.196181"
+      "timestamp": "2026-07-04T03:50:00.351061"
     },
     {
       "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
@@ -239,161 +326,40 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260703/v2_2318e6832c5a474dac4c52c059d693c7@5667365_oswg194047oswg1080oswg1389_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.196694"
+      "timestamp": "2026-07-04T03:50:00.351641"
     },
     {
-      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
-      "url": "https://36kr.com/p/3878550357946625?f=rss",
-      "summary": "大公司：\n  奥飞娱乐：上半年净利润同比预增305.30%—413.38%36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年同期增长305.30%—413.38%。\n  雀巢称消费者因价格压力避开中等包装产品\n  雀巢表示...",
-      "pub_time": "2026-07-02 22:16:31  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-07-03T03:56:33.197247"
-    },
-    {
-      "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
-      "url": "https://36kr.com/p/3878522627518471?f=rss",
-      "summary": "\n  撰文｜深海\n  \n  网文里的“系统流”，被拍成了职场短剧\n  千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。\n  这三大爽文战神体横空出世时，对IP界几乎是降维打击。当传统小说还在费劲搭世界观、铺人物成长弧光时，系统流已经绕过漫长的发育过程，直接把爽感推到最大...",
-      "pub_time": "2026-07-02 21:22:24  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260702/v2_479f75a076024a17bafa8bcb0cb1a26d@5362858_oswg1152334oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.197821"
-    },
-    {
-      "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
-      "url": "https://36kr.com/p/3878412963508486?f=rss",
-      "summary": "我们是一群每天深度使用 AI 工具的人\n  最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。\n  不同的人拿到同一个 AI 工具，产出能差出好几个量级。\n  不是不愿意用，可能是你缺一种灵感。\n  自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。...",
-      "pub_time": "2026-07-02 19:27:23  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-07-03T03:56:33.198315"
-    },
-    {
-      "title": "享道被困16%“平台税”",
-      "url": "https://36kr.com/p/3878254740549638?f=rss",
-      "summary": "作者&nbsp;|&nbsp;张帆\n  编辑&nbsp;|&nbsp;黄绎达\n  2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。\n  透过这份招股书，享道试图向市场释...",
-      "pub_time": "2026-07-02 16:50:03  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260702/v2_1c9b3239454d4c3184c6fd05b79b13b8@5426566_oswg103165oswg554oswg329_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.198855"
-    },
-    {
-      "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
-      "url": "https://36kr.com/p/3878131056701447?f=rss",
-      "summary": "本文约3300字，建议阅读7分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司...",
-      "pub_time": "2026-07-02 14:40:19  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260702/v2_64041329f27645ec8dcd25569a74fee6@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.199389"
-    },
-    {
-      "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
-      "url": "https://36kr.com/p/3877863381741577?f=rss",
-      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。本轮融资将主要用于产品研发迭代、核心团队建设及商业化落地推进。\n  可立点科技总...",
-      "pub_time": "2026-07-02 10:07:44  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260702/v2_d822f015fb6843539d7ba3dcc5ed901c@5920579_oswg92507oswg674oswg379_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.200044"
-    },
-    {
-      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
-      "url": "https://36kr.com/p/3877830625046535?f=rss",
-      "summary": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，聚焦通用空中智能的硅羽科技（SPARO）半年内已连续完成四轮数亿元融资，在种子轮耀途资本之后，锦秋基金、阿里巴巴、弘毅投资、普洛斯隐山资本、云时资本相继入局。资金用途方面，现阶段融资将主要⽤于扩充关键岗位的团队建设、推进产品线的商业化落地与规模化交付，以及...",
-      "pub_time": "2026-07-02 09:33:33  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260702/v2_29d41b66367f47e6b55f35a6f4aa1c37@6221844_oswg550778oswg1068oswg612_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-03T03:56:33.200610"
-    },
-    {
-      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
-      "url": "https://zk.golf/",
-      "summary": "Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier.\nHoweve...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-03T03:56:33.209749"
-    },
-    {
-      "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
-      "url": "https://kendal.codeberg.page/inkwell/",
+      "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
+      "url": "https://github.com/rochus-keller/BUSY/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.210352"
+      "timestamp": "2026-07-04T03:50:00.358615"
     },
     {
-      "title": "Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
-      "url": "https://gitstock.org/",
+      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://github.com/kerlenton/mcpsnoop",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.211053"
+      "timestamp": "2026-07-04T03:50:00.359288"
     },
     {
-      "title": "Show HN: Pieces – Social network for people",
-      "url": "https://try.piecesof.me/",
-      "summary": "Hey HN, long time lurker first time poster. I built a social network called PIECES. After building a private blog last year after I had to get off IG ...",
+      "title": "Show HN: Bramble – Local-first password manager",
+      "url": "https://github.com/flythenimbus/bramble",
+      "summary": "I&#x27;m currently working on Bramble, an open source password manager with P2P cross-device sync. Initially I released the Chrome extension, but rece...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.211708"
-    },
-    {
-      "title": "Show HN: ctx – Search the coding agent history already on your machine",
-      "url": "https://github.com/ctxrs/ctx",
-      "summary": "Coding agents don&#x27;t have long-term memory.But you do have months of full-fidelity agent transcripts stored on your machine.A simple solution that...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-03T03:56:33.212328"
-    },
-    {
-      "title": "Show HN: I made a tool that prevents websites from tracking you",
-      "url": "https://github.com/alex-w-developer/GetBlocked",
-      "summary": "I know we are very wary of AI slop but disclaimer: AI was used. I don&#x27;t think that it is slop though and it was mostly used for formatting.",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-03T03:56:33.213004"
-    },
-    {
-      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "url": "https://github.com/rafal-qa/slopo",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-03T03:56:33.213674"
+      "timestamp": "2026-07-04T03:50:00.359920"
     },
     {
       "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
@@ -404,40 +370,73 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.214324"
+      "timestamp": "2026-07-04T03:50:00.360571"
     },
     {
-      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
-      "url": "https://freegraphpaper.net/",
+      "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
+      "url": "https://github.com/anuragmerndev/kontext-ai",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.215039"
+      "timestamp": "2026-07-04T03:50:00.361222"
     },
     {
-      "title": "Show HN: Autonomous Home Services Businesses",
-      "url": "https://rainslice.ai",
-      "summary": "We built AI that makes home services businesses fully autonomous.It runs your entire home services business 24&#x2F;7.The AI:\n- Handles inbound calls ...",
+      "title": "Show HN: Fortress – open-source Chromium that keeps browser agents unblocked",
+      "url": "https://github.com/tiliondev/fortress",
+      "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.215747"
+      "timestamp": "2026-07-04T03:50:00.361872"
     },
     {
-      "title": "Library of Myths",
-      "url": "https://pahato.itch.io/library-of-myths",
-      "summary": "Journey through legends and face gods and monsters in 5 epic mythological battles",
+      "title": "Show HN: ContextCodeCache in Rust",
+      "url": "https://github.com/colwill/ccc",
+      "summary": "",
       "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzI4MjU2MTU3LnBuZw==/315x250%23c/So0pvI.png",
-      "timestamp": "2026-07-03T03:56:33.228146"
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-04T03:50:00.362540"
+    },
+    {
+      "title": "Show HN: Topics, Not Feeds",
+      "url": "https://blogsreader.com",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-04T03:50:00.363213"
+    },
+    {
+      "title": "Show HN: Gavio: open-source interceptor pipeline for production LLM applications",
+      "url": "https://github.com/manojmallick/gavio",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-04T03:50:00.363881"
+    },
+    {
+      "title": "Show HN: Papa – open-source Hemingway-style readability linting for Markdown",
+      "url": "https://github.com/bharadwaj-pendyala/papa",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-04T03:50:00.364583"
     },
     {
       "title": "2026 TapTap游戏发布会：从发现到创造，游戏离玩家更近了",
@@ -448,7 +447,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/9756a466ca3edcde.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-03T03:56:33.228941"
+      "timestamp": "2026-07-04T03:50:00.377583"
     },
     {
       "title": "《伊莫》“握爪测试”开启：一个更生动与广阔的抓宠世界",
@@ -459,7 +458,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/7276a461e08507a6.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-03T03:56:33.229719"
+      "timestamp": "2026-07-04T03:50:00.378385"
     },
     {
       "title": "触乐怪话：有点想念内森·德雷克",
@@ -470,29 +469,40 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/6a4613b721f13.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-03T03:56:33.230459"
+      "timestamp": "2026-07-04T03:50:00.379273"
     },
     {
-      "title": "Aventura Pixel Rpg2D",
-      "url": "https://ghost3-135.itch.io/rpg2d",
+      "title": "对话《舞力全开：派对》制作团队：推出移动端体感产品的最好时机，可能就是当下",
+      "url": "http://www.chuapp.com/article/291457.html",
+      "summary": "今天（7月2日），《舞力全开：派对》正式上线。\n《舞力全开：派对》是由育碧授权、腾讯游戏发行运营的&ldquo;舞力全开&rdquo;（Just Dance）系列移动端新作，和主机平台的产品相比，《舞力全开：派对》的最大特色在于仅需要依靠手机摄像头就可以进行体感识别，并不需要其他体感设备辅助。简单来说，你只需要在手机上选择歌曲、把手机放在距离自己大约1.5米的距离处，然后对着手机跳舞&mdash;...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/9186a46236f894cf.jpg?imageView2/2/w/700",
+      "timestamp": "2026-07-04T03:50:00.380028"
+    },
+    {
+      "title": "ARK: Genesis Ascended Part 1",
+      "url": "https://store.steampowered.com/app/4558470",
       "summary": "",
       "pub_time": "",
-      "source": "itch.io",
+      "source": "Steam",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI3ODM1ODczLnBuZw==/315x250%23c/wkYY3w.png",
-      "timestamp": "2026-07-03T03:56:33.231321"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558470/baed1cdc187b4597f5d661ca3f34520b9dcfc4a0/header.jpg?t=1783114378",
+      "timestamp": "2026-07-04T03:50:00.380818"
     },
     {
-      "title": "I wonder what's up there",
-      "url": "https://double-v-games.itch.io/up-there",
-      "summary": "A forgotten relic, unearthed!",
+      "title": "Nest Delivery Quest Demo",
+      "url": "https://farhanfair.itch.io/nest-delivery-quest-demo",
+      "summary": "This is a demo, I am looking for 2D artists to help me.",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI4MjU2NDgwLmdpZg==/315x250%23c/j9vy99.gif",
-      "timestamp": "2026-07-03T03:56:33.232107"
+      "image": "https://img.itch.zone/aW1nLzI4Mjc5Njc1LnBuZw==/315x250%23c/CZWKM2.png",
+      "timestamp": "2026-07-04T03:50:00.381612"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -503,18 +513,18 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-07-03T03:56:33.233004"
+      "timestamp": "2026-07-04T03:50:00.382413"
     },
     {
-      "title": "触乐怪话：你所说的“赋能”究竟是什么意思",
-      "url": "http://www.chuapp.com/article/291450.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n情况就是这么个情况（图/小罗）\n\n在某场游戏展览会的新闻发布会上，&ldquo;赋能&rdquo;这个词频繁出现。前沿科技赋能、政策赋能、双向赋能&hellip;&hellip;当然，最多的还是&ldquo;AI赋能&rdquo;。\n我越听越疑惑。这个&ldquo;赋能&rdquo;，究竟是什么意思？以前，它通常可以展开成&ldquo;为...",
+      "title": "触乐怪话：“都是数字平台，我为什么不选Steam？”",
+      "url": "http://www.chuapp.com/article/291458.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n最近，索尼公布了一件事：从2028年1月起，所有新发布于PlayStation主机上的物理光盘的生产将被停止。在此日期之后，新游戏将仅以数字格式在PS商店和零售商处提供。\n直白一点说就是，2028年以后，PS游戏没有实体版了。PS玩家要么买数字版，要么放弃，要么去别的平台。\n\n2028年以后，PS游戏只有数字版了\n\n消息一出，...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "narrative",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-30/1836a439899457bf.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-03T03:56:33.233864"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/6a4789bd00274.jpg?imageView2/2/w/700",
+      "timestamp": "2026-07-04T03:50:00.383214"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -525,7 +535,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.234698"
+      "timestamp": "2026-07-04T03:50:00.384018"
     },
     {
       "title": "Steps to Make a Simple Game in Unity",
@@ -536,7 +546,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-03T03:56:33.235567"
+      "timestamp": "2026-07-04T03:50:00.384859"
     },
     {
       "title": "触乐怪话：你会用游戏周边打扑克吗？",
@@ -547,41 +557,41 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-06-24/6a3bb24a609e5.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-03T03:56:33.236467"
+      "timestamp": "2026-07-04T03:50:00.385733"
     },
     {
-      "title": "UNDERGROUNDED -怀旧地下城-",
-      "url": "https://store.steampowered.com/app/3076910",
+      "title": "Rescue Dogs vs Aliens Tower Defense",
+      "url": "https://store.steampowered.com/app/4797790",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076910/header.jpg?t=1783047437",
-      "timestamp": "2026-07-03T03:56:33.237366"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797790/002d3de51366d399f2f1ce2f8b9dae1feb5e2f1a/header.jpg?t=1783133271",
+      "timestamp": "2026-07-04T03:50:00.386621"
     },
     {
-      "title": "三国志经典",
-      "url": "https://store.steampowered.com/app/4818580",
+      "title": "DRUMP SIMULATOR",
+      "url": "https://store.steampowered.com/app/4557030",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818580/7c7308c3387b5bac430660961487267c1fee1c6b/header_schinese.jpg?t=1783050395",
-      "timestamp": "2026-07-03T03:56:33.238279"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783129721",
+      "timestamp": "2026-07-04T03:50:00.387513"
     },
     {
-      "title": "DeadboySkeleton",
-      "url": "https://store.steampowered.com/app/4847800",
+      "title": "AR Basketball",
+      "url": "https://store.steampowered.com/app/4794320",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847800/18d263d804a4b98638eb24c395c98b6d0a0128d9/header.jpg?t=1783036738",
-      "timestamp": "2026-07-03T03:56:33.239207"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794320/947406f288d8121dda20ad4ba9d52ef006a579d7/header.jpg?t=1783115238",
+      "timestamp": "2026-07-04T03:50:00.388412"
     }
   ],
-  "last_cleanup": "2026-07-03T03:56:33.239225"
+  "last_cleanup": "2026-07-04T03:50:00.388429"
 }
