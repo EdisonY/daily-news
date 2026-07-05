@@ -1,95 +1,55 @@
 {
   "news": [
     {
-      "title": "Krishnagangwal/CS-Fundamentals",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "language": null,
-      "stars": 1515,
-      "forks": 127,
-      "watchers": 1515,
-      "created_at": "2026-06-28T07:08:15Z",
-      "updated_at": "2026-07-04T03:41:35Z",
-      "topics": [],
-      "license": "",
-      "homepage": null,
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.5K",
-      "timestamp": "2026-07-04T03:50:00.329957"
-    },
-    {
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "description": "",
-      "language": "Python",
-      "stars": 1303,
-      "forks": 378,
-      "watchers": 1303,
-      "created_at": "2026-06-28T10:24:42Z",
-      "updated_at": "2026-07-04T03:04:15Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.3K",
-      "timestamp": "2026-07-04T03:50:00.330240"
-    },
-    {
       "title": "mekos2772/ios-location-spoofer",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "language": "JavaScript",
-      "stars": 1265,
-      "forks": 186,
-      "watchers": 1265,
+      "stars": 1291,
+      "forks": 192,
+      "watchers": 1291,
       "created_at": "2026-06-30T11:20:30Z",
-      "updated_at": "2026-07-04T03:47:39Z",
+      "updated_at": "2026-07-05T04:00:27Z",
       "topics": [],
       "license": "GNU Affero General Public License v3.0",
       "homepage": null,
-      "open_issues": 1,
+      "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "1.3K",
-      "timestamp": "2026-07-04T03:50:00.330485"
+      "timestamp": "2026-07-05T04:08:26.978916"
     },
     {
-      "title": "Kulaxyz/self-learning-skills",
-      "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "language": null,
-      "stars": 805,
-      "forks": 23,
-      "watchers": 805,
-      "created_at": "2026-06-28T19:30:36Z",
-      "updated_at": "2026-07-04T03:36:24Z",
+      "title": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 777,
+      "forks": 35,
+      "watchers": 777,
+      "created_at": "2026-07-03T13:06:03Z",
+      "updated_at": "2026-07-05T04:05:26Z",
       "topics": [],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 2,
-      "default_branch": "main",
+      "license": "",
+      "homepage": "",
+      "open_issues": 1,
+      "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "805",
-      "timestamp": "2026-07-04T03:50:00.330823"
+      "stars_formatted": "777",
+      "timestamp": "2026-07-05T04:08:26.979173"
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "language": "Python",
-      "stars": 556,
-      "forks": 21,
-      "watchers": 556,
+      "stars": 759,
+      "forks": 37,
+      "watchers": 759,
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-04T03:43:58Z",
+      "updated_at": "2026-07-05T03:54:47Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
@@ -97,42 +57,19 @@
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "556",
-      "timestamp": "2026-07-04T03:50:00.331099"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "language": "Python",
-      "stars": 520,
-      "forks": 52,
-      "watchers": 520,
-      "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-04T01:30:56Z",
-      "topics": [
-        "ai",
-        "ai-agents"
-      ],
-      "license": "Apache License 2.0",
-      "homepage": "https://fundamentalresearchlabs.com",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "520",
-      "timestamp": "2026-07-04T03:50:00.331421"
+      "stars_formatted": "759",
+      "timestamp": "2026-07-05T04:08:26.979395"
     },
     {
       "title": "xuchonglang/investing-for-beginners",
       "url": "https://github.com/xuchonglang/investing-for-beginners",
       "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "language": null,
-      "stars": 497,
-      "forks": 26,
-      "watchers": 497,
+      "stars": 662,
+      "forks": 36,
+      "watchers": 662,
       "created_at": "2026-07-03T03:56:00Z",
-      "updated_at": "2026-07-04T03:46:54Z",
+      "updated_at": "2026-07-05T03:59:07Z",
       "topics": [
         "chinese",
         "cryptocurrency",
@@ -146,19 +83,48 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "497",
-      "timestamp": "2026-07-04T03:50:00.331727"
+      "stars_formatted": "662",
+      "timestamp": "2026-07-05T04:08:26.980117"
+    },
+    {
+      "title": "jmerelnyc/Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "language": "Python",
+      "stars": 598,
+      "forks": 12,
+      "watchers": 598,
+      "created_at": "2026-07-02T14:43:11Z",
+      "updated_at": "2026-07-05T04:01:41Z",
+      "topics": [
+        "ai",
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
+      ],
+      "license": "MIT License",
+      "homepage": "https://usetalos.xyz",
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "598",
+      "timestamp": "2026-07-05T04:08:26.980533"
     },
     {
       "title": "uzairansaruzi/hermex",
       "url": "https://github.com/uzairansaruzi/hermex",
       "description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 452,
-      "forks": 51,
-      "watchers": 452,
+      "stars": 558,
+      "forks": 56,
+      "watchers": 558,
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-04T03:17:44Z",
+      "updated_at": "2026-07-05T03:41:32Z",
       "topics": [
         "hermes",
         "hermes-agent",
@@ -171,43 +137,66 @@
       ],
       "license": "MIT License",
       "homepage": "https://hermexapp.com/",
-      "open_issues": 32,
+      "open_issues": 33,
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "452",
-      "timestamp": "2026-07-04T03:50:00.332084"
+      "stars_formatted": "558",
+      "timestamp": "2026-07-05T04:08:26.980901"
     },
     {
-      "title": "Jia-Ethan/codex-keysmith",
-      "url": "https://github.com/Jia-Ethan/codex-keysmith",
-      "description": "Codex CLI instruction-file installer for local configuration",
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "language": "Python",
-      "stars": 411,
-      "forks": 70,
-      "watchers": 411,
-      "created_at": "2026-06-28T04:38:07Z",
-      "updated_at": "2026-07-04T02:55:14Z",
+      "stars": 523,
+      "forks": 53,
+      "watchers": 523,
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-04T19:42:13Z",
+      "topics": [
+        "ai",
+        "ai-agents"
+      ],
+      "license": "Apache License 2.0",
+      "homepage": "https://fundamentalresearchlabs.com",
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "523",
+      "timestamp": "2026-07-05T04:08:26.981310"
+    },
+    {
+      "title": "Kulaxyz/token-diet",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "language": "Shell",
+      "stars": 475,
+      "forks": 0,
+      "watchers": 475,
+      "created_at": "2026-07-03T15:20:04Z",
+      "updated_at": "2026-07-05T04:05:17Z",
       "topics": [],
-      "license": "MIT License",
+      "license": "",
       "homepage": null,
       "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "411",
-      "timestamp": "2026-07-04T03:50:00.332445"
+      "stars_formatted": "475",
+      "timestamp": "2026-07-05T04:08:26.981744"
     },
     {
       "title": "spiritov/ds.css",
       "url": "https://github.com/spiritov/ds.css",
       "description": "A css framework recreating the DS / DS Lite's UI",
       "language": "CSS",
-      "stars": 383,
-      "forks": 2,
-      "watchers": 383,
+      "stars": 428,
+      "forks": 3,
+      "watchers": 428,
       "created_at": "2026-06-29T05:33:18Z",
-      "updated_at": "2026-07-04T03:27:38Z",
+      "updated_at": "2026-07-05T02:55:08Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "https://css.ds.dreamyard.xyz",
@@ -215,8 +204,28 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "383",
-      "timestamp": "2026-07-04T03:50:00.332881"
+      "stars_formatted": "428",
+      "timestamp": "2026-07-05T04:08:26.982301"
+    },
+    {
+      "title": "asz798838958/FrciblyK12",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "description": "多线程全自动注册free 强上K12空间",
+      "language": "Python",
+      "stars": 419,
+      "forks": 158,
+      "watchers": 419,
+      "created_at": "2026-07-02T03:47:34Z",
+      "updated_at": "2026-07-05T03:53:12Z",
+      "topics": [],
+      "license": "GNU Affero General Public License v3.0",
+      "homepage": null,
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "419",
+      "timestamp": "2026-07-05T04:08:26.982715"
     },
     {
       "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
@@ -227,7 +236,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260704/v2_d0f4055d61b44e658712a0f770edb4af@5688585_oswg182314oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.346947"
+      "timestamp": "2026-07-05T04:08:26.997213"
     },
     {
       "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
@@ -238,7 +247,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.347508"
+      "timestamp": "2026-07-05T04:08:26.997698"
     },
     {
       "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
@@ -249,7 +258,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260703/v2_7bba92fd871f49ea8ca5e3fcabde20c7@6221844_oswg1504240oswg956oswg895_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.347987"
+      "timestamp": "2026-07-05T04:08:26.998386"
     },
     {
       "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
@@ -260,7 +269,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260703/v2_dfe62d284e544984aa88a9c33c6a9cc0@5930287_oswg6647055oswg5712oswg4284_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.348478"
+      "timestamp": "2026-07-05T04:08:26.998929"
     },
     {
       "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
@@ -271,7 +280,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260703/v2_3e9ef59cd2444250a67b7714f51d40b7@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.348946"
+      "timestamp": "2026-07-05T04:08:26.999659"
     },
     {
       "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
@@ -282,7 +291,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.349467"
+      "timestamp": "2026-07-05T04:08:27.000241"
     },
     {
       "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
@@ -293,7 +302,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260702/v2_9f88732f18974493bd43bb215b7bc0ab@6310690_oswg96109oswg1080oswg720_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.349981"
+      "timestamp": "2026-07-05T04:08:27.000784"
     },
     {
       "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
@@ -304,7 +313,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260702/v2_fa6b125ee79c453f9932c2e78ffe3617@5836910_oswg487705oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.350523"
+      "timestamp": "2026-07-05T04:08:27.001351"
     },
     {
       "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
@@ -315,7 +324,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260703/v2_d65587b6160049309e342b0f083fb440@5920579_oswg147836oswg675oswg592_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.351061"
+      "timestamp": "2026-07-05T04:08:27.001893"
     },
     {
       "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
@@ -326,29 +335,62 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260703/v2_2318e6832c5a474dac4c52c059d693c7@5667365_oswg194047oswg1080oswg1389_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-04T03:50:00.351641"
+      "timestamp": "2026-07-05T04:08:27.002577"
     },
     {
-      "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
-      "url": "https://github.com/rochus-keller/BUSY/",
+      "title": "Show HN: Local MCP – Claude/ChatGPT read your iMessage, Teams, files on-device",
+      "url": "https://www.local-mcp.com/en",
+      "summary": "I kept hitting the same wall: AI assistants are great until they need my context — the email thread, the calendar, the iMessage, the file on my disk. ...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-05T04:08:27.009953"
+    },
+    {
+      "title": "Show HN: Minesweeper.free – Play minesweeper online free",
+      "url": "https://minesweeper.free/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.358615"
+      "timestamp": "2026-07-05T04:08:27.010576"
     },
     {
-      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "url": "https://github.com/kerlenton/mcpsnoop",
+      "title": "Show HN: Inches to MM converter for manufacturing and hardware checks",
+      "url": "https://inches-to-mm.com",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.359288"
+      "timestamp": "2026-07-05T04:08:27.011440"
+    },
+    {
+      "title": "Show HN: Two-tier-memory – queryable long-term memory for AI coding agents",
+      "url": "https://github.com/tadelstein9/two-tier-memory",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-05T04:08:27.012049"
+    },
+    {
+      "title": "Show HN: Mise – A keyboard-driven Python/Qt6 browser built for fanless laptops",
+      "url": "https://github.com/Rakosn1cek/Mise",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-05T04:08:27.014851"
     },
     {
       "title": "Show HN: Bramble – Local-first password manager",
@@ -359,84 +401,62 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.359920"
+      "timestamp": "2026-07-05T04:08:27.015613"
     },
     {
-      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-      "url": "https://github.com/clidey/deptrust",
-      "summary": "deptrust is a CLI that checks package versions for known vulnerabilities across npm, PyPI, crates.io, Go modules, RubyGems, NuGet, Maven, Packagist, p...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-04T03:50:00.360571"
-    },
-    {
-      "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
-      "url": "https://github.com/anuragmerndev/kontext-ai",
+      "title": "Show HN: Grade your code's post-quantum crypto exposure A–F, free, in-browser",
+      "url": "https://throndar.ai/cbom",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.361222"
+      "timestamp": "2026-07-05T04:08:27.016416"
     },
     {
-      "title": "Show HN: Fortress – open-source Chromium that keeps browser agents unblocked",
-      "url": "https://github.com/tiliondev/fortress",
+      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "url": "https://github.com/adam-s/car-diagnosis",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.361872"
+      "timestamp": "2026-07-05T04:08:27.017043"
     },
     {
-      "title": "Show HN: ContextCodeCache in Rust",
-      "url": "https://github.com/colwill/ccc",
+      "title": "Show HN: Isthistechdead.com got a full UI revamp",
+      "url": "https://isthistechdead.com/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.362540"
+      "timestamp": "2026-07-05T04:08:27.017805"
     },
     {
-      "title": "Show HN: Topics, Not Feeds",
-      "url": "https://blogsreader.com",
+      "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
+      "url": "https://github.com/rochus-keller/BUSY/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.363213"
+      "timestamp": "2026-07-05T04:08:27.018587"
     },
     {
-      "title": "Show HN: Gavio: open-source interceptor pipeline for production LLM applications",
-      "url": "https://github.com/manojmallick/gavio",
-      "summary": "",
+      "title": "触乐本周行业大事：6月版号下发，ChinaJoy将于7月31日开幕，大厂新品暑期档竞争打响",
+      "url": "http://www.chuapp.com/article/291460.html",
+      "summary": "\n■ 6月网络游戏版号公示，171款产品过审，上半年累计发放近千款\n\n6月30日，国家新闻出版署官网发布2026年6月国产与进口网络游戏审批信息。本批次共计171款游戏过审，其中国产网络游戏163款、进口网络游戏8款，同步披露6条审批变更信息。\n从数量来看，本批版号较5月增加13款，延续2026年以来的高位发放节奏。截至本月，2026年上半年累计下发游戏版号950款，其中国产917款、进口33款。...",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-04T03:50:00.363881"
-    },
-    {
-      "title": "Show HN: Papa – open-source Hemingway-style readability linting for Markdown",
-      "url": "https://github.com/bharadwaj-pendyala/papa",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-04T03:50:00.364583"
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/5116a475889ceab3.jpg?imageView2/2/w/700",
+      "timestamp": "2026-07-05T04:08:27.033434"
     },
     {
       "title": "2026 TapTap游戏发布会：从发现到创造，游戏离玩家更近了",
@@ -447,7 +467,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/9756a466ca3edcde.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-04T03:50:00.377583"
+      "timestamp": "2026-07-05T04:08:27.034188"
     },
     {
       "title": "《伊莫》“握爪测试”开启：一个更生动与广阔的抓宠世界",
@@ -458,7 +478,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/7276a461e08507a6.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-04T03:50:00.378385"
+      "timestamp": "2026-07-05T04:08:27.034949"
     },
     {
       "title": "触乐怪话：有点想念内森·德雷克",
@@ -469,40 +489,29 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/6a4613b721f13.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-04T03:50:00.379273"
+      "timestamp": "2026-07-05T04:08:27.035692"
     },
     {
-      "title": "对话《舞力全开：派对》制作团队：推出移动端体感产品的最好时机，可能就是当下",
-      "url": "http://www.chuapp.com/article/291457.html",
-      "summary": "今天（7月2日），《舞力全开：派对》正式上线。\n《舞力全开：派对》是由育碧授权、腾讯游戏发行运营的&ldquo;舞力全开&rdquo;（Just Dance）系列移动端新作，和主机平台的产品相比，《舞力全开：派对》的最大特色在于仅需要依靠手机摄像头就可以进行体感识别，并不需要其他体感设备辅助。简单来说，你只需要在手机上选择歌曲、把手机放在距离自己大约1.5米的距离处，然后对着手机跳舞&mdash;...",
+      "title": "​Our Life: Beginnings & Always",
+      "url": "https://gbpatch.itch.io/our-life",
+      "summary": "Grow from childhood to adulthood with the lonely boy next door in this near-fully customizable visual novel.",
+      "pub_time": "",
+      "source": "itch.io Top Rated",
+      "category": "game",
+      "type": "art",
+      "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
+      "timestamp": "2026-07-05T04:08:27.036614"
+    },
+    {
+      "title": "《索尼克赛车：交叉世界》带来本体化重要更新：目前，游戏已正式上线官方中文配音",
+      "url": "http://www.chuapp.com/article/291463.html",
+      "summary": "前段时间，触乐受世嘉邀请参加了B站&ldquo;游先看&rdquo;试玩发布会。发布会现场提供了多款新游戏内容供参与者试玩，其中尤其特殊的是一款产品是《索尼克赛车：交叉世界》，自2025年初正式发售后，与这款游戏的相关线下活动、赛事总是不断，本次发布会上，触乐体验了这款游戏季票2的前瞻内容，包括CAPCOM经典IP&ldquo;洛克人&rdquo;的角色洛克人和布鲁斯，以及配套的地图&ldquo;...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/9186a46236f894cf.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-04T03:50:00.380028"
-    },
-    {
-      "title": "ARK: Genesis Ascended Part 1",
-      "url": "https://store.steampowered.com/app/4558470",
-      "summary": "",
-      "pub_time": "",
-      "source": "Steam",
-      "category": "game",
       "type": "art",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558470/baed1cdc187b4597f5d661ca3f34520b9dcfc4a0/header.jpg?t=1783114378",
-      "timestamp": "2026-07-04T03:50:00.380818"
-    },
-    {
-      "title": "Nest Delivery Quest Demo",
-      "url": "https://farhanfair.itch.io/nest-delivery-quest-demo",
-      "summary": "This is a demo, I am looking for 2D artists to help me.",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI4Mjc5Njc1LnBuZw==/315x250%23c/CZWKM2.png",
-      "timestamp": "2026-07-04T03:50:00.381612"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/9286a47989cbcd7a.png?imageView2/2/w/700",
+      "timestamp": "2026-07-05T04:08:27.037423"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -513,7 +522,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-07-04T03:50:00.382413"
+      "timestamp": "2026-07-05T04:08:27.038209"
     },
     {
       "title": "触乐怪话：“都是数字平台，我为什么不选Steam？”",
@@ -524,7 +533,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/6a4789bd00274.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-04T03:50:00.383214"
+      "timestamp": "2026-07-05T04:08:27.039077"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -535,7 +544,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.384018"
+      "timestamp": "2026-07-05T04:08:27.039898"
     },
     {
       "title": "Steps to Make a Simple Game in Unity",
@@ -546,7 +555,18 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-04T03:50:00.384859"
+      "timestamp": "2026-07-05T04:08:27.040764"
+    },
+    {
+      "title": "The Second Shadow",
+      "url": "https://fme849.itch.io/the-second-shadow",
+      "summary": "Vietnam Game Jam 2026",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "indie",
+      "image": "https://img.itch.zone/aW1nLzI4Mjk4MTYwLnBuZw==/315x250%23c/AtfPzG.png",
+      "timestamp": "2026-07-05T04:08:27.041637"
     },
     {
       "title": "触乐怪话：你会用游戏周边打扑克吗？",
@@ -557,41 +577,41 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-06-24/6a3bb24a609e5.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-04T03:50:00.385733"
+      "timestamp": "2026-07-05T04:08:27.042508"
     },
     {
-      "title": "Rescue Dogs vs Aliens Tower Defense",
-      "url": "https://store.steampowered.com/app/4797790",
+      "title": "An Adventure in Arabic",
+      "url": "https://store.steampowered.com/app/4394260",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797790/002d3de51366d399f2f1ce2f8b9dae1feb5e2f1a/header.jpg?t=1783133271",
-      "timestamp": "2026-07-04T03:50:00.386621"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394260/21fb8e738ffd41fc985bdc0a9fd0663388b031cd/header.jpg?t=1783221839",
+      "timestamp": "2026-07-05T04:08:27.043541"
     },
     {
-      "title": "DRUMP SIMULATOR",
-      "url": "https://store.steampowered.com/app/4557030",
+      "title": "Overlab",
+      "url": "https://store.steampowered.com/app/4858520",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783129721",
-      "timestamp": "2026-07-04T03:50:00.387513"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
+      "timestamp": "2026-07-05T04:08:27.044478"
     },
     {
-      "title": "AR Basketball",
-      "url": "https://store.steampowered.com/app/4794320",
+      "title": "FOCUS",
+      "url": "https://store.steampowered.com/app/4849010",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794320/947406f288d8121dda20ad4ba9d52ef006a579d7/header.jpg?t=1783115238",
-      "timestamp": "2026-07-04T03:50:00.388412"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
+      "timestamp": "2026-07-05T04:08:27.045393"
     }
   ],
-  "last_cleanup": "2026-07-04T03:50:00.388429"
+  "last_cleanup": "2026-07-05T04:08:27.045411"
 }
