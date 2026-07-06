@@ -1,55 +1,61 @@
 {
   "news": [
     {
+      "title": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "language": "TypeScript",
+      "stars": 1809,
+      "forks": 449,
+      "watchers": 1809,
+      "created_at": "2026-07-02T17:53:55Z",
+      "updated_at": "2026-07-06T04:14:34Z",
+      "topics": [
+        "agents",
+        "ai",
+        "multi-agent",
+        "offensive-security",
+        "redteam"
+      ],
+      "license": "GNU Affero General Public License v3.0",
+      "homepage": "",
+      "open_issues": 23,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.8K",
+      "timestamp": "2026-07-06T04:15:15.398424"
+    },
+    {
       "title": "mekos2772/ios-location-spoofer",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "language": "JavaScript",
-      "stars": 1291,
-      "forks": 192,
-      "watchers": 1291,
+      "stars": 1341,
+      "forks": 200,
+      "watchers": 1341,
       "created_at": "2026-06-30T11:20:30Z",
-      "updated_at": "2026-07-05T04:00:27Z",
+      "updated_at": "2026-07-06T03:51:59Z",
       "topics": [],
       "license": "GNU Affero General Public License v3.0",
       "homepage": null,
-      "open_issues": 0,
+      "open_issues": 1,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "1.3K",
-      "timestamp": "2026-07-05T04:08:26.978916"
-    },
-    {
-      "title": "jamesob/local-llm",
-      "url": "https://github.com/jamesob/local-llm",
-      "description": "Everything I know about running LLMs locally",
-      "language": "Shell",
-      "stars": 777,
-      "forks": 35,
-      "watchers": 777,
-      "created_at": "2026-07-03T13:06:03Z",
-      "updated_at": "2026-07-05T04:05:26Z",
-      "topics": [],
-      "license": "",
-      "homepage": "",
-      "open_issues": 1,
-      "default_branch": "master",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "777",
-      "timestamp": "2026-07-05T04:08:26.979173"
+      "timestamp": "2026-07-06T04:15:15.398692"
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "language": "Python",
-      "stars": 759,
-      "forks": 37,
-      "watchers": 759,
+      "stars": 1024,
+      "forks": 62,
+      "watchers": 1024,
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-05T03:54:47Z",
+      "updated_at": "2026-07-06T04:13:56Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
@@ -57,19 +63,72 @@
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "759",
-      "timestamp": "2026-07-05T04:08:26.979395"
+      "stars_formatted": "1.0K",
+      "timestamp": "2026-07-06T04:15:15.398937"
+    },
+    {
+      "title": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 930,
+      "forks": 52,
+      "watchers": 930,
+      "created_at": "2026-07-03T13:06:03Z",
+      "updated_at": "2026-07-06T04:02:22Z",
+      "topics": [],
+      "license": "",
+      "homepage": "",
+      "open_issues": 2,
+      "default_branch": "master",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "930",
+      "timestamp": "2026-07-06T04:15:15.399264"
+    },
+    {
+      "title": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "language": "C++",
+      "stars": 841,
+      "forks": 57,
+      "watchers": 841,
+      "created_at": "2026-07-04T02:59:39Z",
+      "updated_at": "2026-07-06T04:14:07Z",
+      "topics": [
+        "apple-silicon",
+        "command-and-conquer",
+        "dxvk",
+        "game-port",
+        "generals-zero-hour",
+        "ios",
+        "ipad",
+        "macos",
+        "moltenvk",
+        "open-source-game",
+        "rts",
+        "sdl3"
+      ],
+      "license": "Other",
+      "homepage": "",
+      "open_issues": 1,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "841",
+      "timestamp": "2026-07-06T04:15:15.399509"
     },
     {
       "title": "xuchonglang/investing-for-beginners",
       "url": "https://github.com/xuchonglang/investing-for-beginners",
       "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "language": null,
-      "stars": 662,
-      "forks": 36,
-      "watchers": 662,
+      "stars": 716,
+      "forks": 38,
+      "watchers": 716,
       "created_at": "2026-07-03T03:56:00Z",
-      "updated_at": "2026-07-05T03:59:07Z",
+      "updated_at": "2026-07-06T03:48:49Z",
       "topics": [
         "chinese",
         "cryptocurrency",
@@ -83,19 +142,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "662",
-      "timestamp": "2026-07-05T04:08:26.980117"
+      "stars_formatted": "716",
+      "timestamp": "2026-07-06T04:15:15.399768"
     },
     {
       "title": "jmerelnyc/Talos",
       "url": "https://github.com/jmerelnyc/Talos",
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 598,
+      "stars": 681,
       "forks": 12,
-      "watchers": 598,
+      "watchers": 681,
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-05T04:01:41Z",
+      "updated_at": "2026-07-06T04:09:17Z",
       "topics": [
         "ai",
         "distributed-computing",
@@ -112,19 +171,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "598",
-      "timestamp": "2026-07-05T04:08:26.980533"
+      "stars_formatted": "681",
+      "timestamp": "2026-07-06T04:15:15.400065"
     },
     {
       "title": "uzairansaruzi/hermex",
       "url": "https://github.com/uzairansaruzi/hermex",
       "description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 558,
-      "forks": 56,
-      "watchers": 558,
+      "stars": 623,
+      "forks": 65,
+      "watchers": 623,
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-05T03:41:32Z",
+      "updated_at": "2026-07-06T03:45:32Z",
       "topics": [
         "hermes",
         "hermes-agent",
@@ -137,46 +196,23 @@
       ],
       "license": "MIT License",
       "homepage": "https://hermexapp.com/",
-      "open_issues": 33,
+      "open_issues": 27,
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "558",
-      "timestamp": "2026-07-05T04:08:26.980901"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "language": "Python",
-      "stars": 523,
-      "forks": 53,
-      "watchers": 523,
-      "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-04T19:42:13Z",
-      "topics": [
-        "ai",
-        "ai-agents"
-      ],
-      "license": "Apache License 2.0",
-      "homepage": "https://fundamentalresearchlabs.com",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "523",
-      "timestamp": "2026-07-05T04:08:26.981310"
+      "stars_formatted": "623",
+      "timestamp": "2026-07-06T04:15:15.400403"
     },
     {
       "title": "Kulaxyz/token-diet",
       "url": "https://github.com/Kulaxyz/token-diet",
       "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
       "language": "Shell",
-      "stars": 475,
-      "forks": 0,
-      "watchers": 475,
+      "stars": 589,
+      "forks": 1,
+      "watchers": 589,
       "created_at": "2026-07-03T15:20:04Z",
-      "updated_at": "2026-07-05T04:05:17Z",
+      "updated_at": "2026-07-06T03:45:02Z",
       "topics": [],
       "license": "",
       "homepage": null,
@@ -184,48 +220,122 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "475",
-      "timestamp": "2026-07-05T04:08:26.981744"
+      "stars_formatted": "589",
+      "timestamp": "2026-07-06T04:15:15.400743"
     },
     {
-      "title": "spiritov/ds.css",
-      "url": "https://github.com/spiritov/ds.css",
-      "description": "A css framework recreating the DS / DS Lite's UI",
-      "language": "CSS",
-      "stars": 428,
-      "forks": 3,
-      "watchers": 428,
-      "created_at": "2026-06-29T05:33:18Z",
-      "updated_at": "2026-07-05T02:55:08Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "https://css.ds.dreamyard.xyz",
+      "title": "CalmNoteDepot/MECCHA-VISION-ULTIMATE",
+      "url": "https://github.com/CalmNoteDepot/MECCHA-VISION-ULTIMATE",
+      "description": "🎯 Meccha Vision Ultimate — Ultimate Enhancement Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint · Speed Hack · No Recoil",
+      "language": null,
+      "stars": 533,
+      "forks": 0,
+      "watchers": 533,
+      "created_at": "2026-07-04T20:05:45Z",
+      "updated_at": "2026-07-06T02:21:32Z",
+      "topics": [
+        "meccha-chameleon-download",
+        "meccha-chameleon-fps",
+        "meccha-chameleon-target-lock",
+        "meccha-chameleon-wh",
+        "meccha-chemeleon-fps-booster"
+      ],
+      "license": "",
+      "homepage": "",
       "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "428",
-      "timestamp": "2026-07-05T04:08:26.982301"
+      "stars_formatted": "533",
+      "timestamp": "2026-07-06T04:15:15.401088"
     },
     {
-      "title": "asz798838958/FrciblyK12",
-      "url": "https://github.com/asz798838958/FrciblyK12",
-      "description": "多线程全自动注册free 强上K12空间",
-      "language": "Python",
-      "stars": 419,
-      "forks": 158,
-      "watchers": 419,
-      "created_at": "2026-07-02T03:47:34Z",
-      "updated_at": "2026-07-05T03:53:12Z",
-      "topics": [],
-      "license": "GNU Affero General Public License v3.0",
-      "homepage": null,
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "419",
-      "timestamp": "2026-07-05T04:08:26.982715"
+      "title": "跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线",
+      "url": "https://36kr.com/p/3883561480876297?f=rss",
+      "summary": "作者丨欧雪\n  编辑丨最前线\n  6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。\n  入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自...",
+      "pub_time": "2026-07-06 10:43:23  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-07-06T04:15:15.415369"
+    },
+    {
+      "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
+      "url": "https://36kr.com/p/3883456791163138?f=rss",
+      "summary": "访谈｜任彩茹 兰杰 彭倩\n  文｜任彩茹\n  编辑｜乔芊 杨轩\n  “630”减员，AI是祸首还是替罪羊?\n  “现在公司有（减员）名单，你在这里面。”5月中的一天，林越被组长叫进会议室，对方开门见山。\n  林越的第一反应是平静，他早有预料。早在今年三四月，一些互联网公司内部便传出要裁员的风声。开年...",
+      "pub_time": "2026-07-06 10:26:34  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-07-06T04:15:15.415866"
+    },
+    {
+      "title": "2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿",
+      "url": "https://36kr.com/p/3883513899380744?f=rss",
+      "summary": "\n  图源/视觉中国\n  作者丨欧雪\n  编辑丨袁斯来\n  如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。\n  他们很多人都记得前几年那场“量子寒冬”。那一年，谷歌用量子处理器完成了一项计算， 200秒算出了超级计算机1万...",
+      "pub_time": "2026-07-06 10:15:39  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260706/v2_cc7b1492ca7445ce866e3d611c6aae50@6221844_oswg609236oswg642oswg422_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "timestamp": "2026-07-06T04:15:15.416395"
+    },
+    {
+      "title": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
+      "url": "https://36kr.com/p/3883400536453381?f=rss",
+      "summary": "今日热点导览\n  苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型\n  蒋方舟再回应被清华教授指控论文造假\n  张雪称负债接近1亿元，本月将还清全部债务\n  黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产\n  印度政府：正调查苹果手机信息泄露事件\n  TOP3大新闻...",
+      "pub_time": "2026-07-06 08:02:20  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260706/v2_f43e9f51123a49c0b182203f92a08216@5667365_oswg919166oswg1012oswg1272_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-06T04:15:15.416880"
+    },
+    {
+      "title": "鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发",
+      "url": "https://36kr.com/p/3880060701388809?f=rss",
+      "summary": "36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。\n  贻如科技成立于2021年，以合成生物学为底层技术，创造以...",
+      "pub_time": "2026-07-06 07:50:00  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260703/v2_5c40b3ca463644dbb30fbbc59a10cacb@5748245_oswg304314oswg1271oswg1680_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "timestamp": "2026-07-06T04:15:15.417380"
+    },
+    {
+      "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+      "url": "https://36kr.com/p/3882365879005186?f=rss",
+      "summary": "作者&nbsp;|&nbsp;邱晓芬\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。\n  「忆生...",
+      "pub_time": "2026-07-05 14:27:30  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260705/v2_3c01bd31112d462881bfb84ea7a794a8@1199336245_oswg81129oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-06T04:15:15.417873"
+    },
+    {
+      "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+      "url": "https://36kr.com/p/3882364132077577?f=rss",
+      "summary": "作者&nbsp;|&nbsp;邱晓芬\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。\n  最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一...",
+      "pub_time": "2026-07-05 14:25:53  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260705/v2_6300845b5d3742be9e7045ce513122ba@1199336245_oswg100587oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-06T04:15:15.418393"
+    },
+    {
+      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+      "url": "https://36kr.com/p/3882361033322755?f=rss",
+      "summary": "作者&nbsp;|&nbsp;邱晓芬\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。\n  这是目前...",
+      "pub_time": "2026-07-05 14:23:00  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260705/v2_fe8cd50275494e91bb50b6bb5e20dc0c@1199336245_oswg50414oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-06T04:15:15.418967"
     },
     {
       "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
@@ -236,7 +346,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260704/v2_d0f4055d61b44e658712a0f770edb4af@5688585_oswg182314oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:26.997213"
+      "timestamp": "2026-07-06T04:15:15.419523"
     },
     {
       "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
@@ -247,205 +357,117 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-05T04:08:26.997698"
+      "timestamp": "2026-07-06T04:15:15.420080"
     },
     {
-      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
-      "url": "https://36kr.com/p/3879991356157952?f=rss",
-      "summary": "\n  图源/企业\n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。\n  光引科技2021年成立于徐州，核心团...",
-      "pub_time": "2026-07-04 09:00:00  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260703/v2_7bba92fd871f49ea8ca5e3fcabde20c7@6221844_oswg1504240oswg956oswg895_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:26.998386"
-    },
-    {
-      "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
-      "url": "https://36kr.com/p/3879807100023040?f=rss",
-      "summary": "文｜胡香赟\n  编辑｜海若镜\n  2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。\n  瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医...",
-      "pub_time": "2026-07-03 20:28:30  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260703/v2_dfe62d284e544984aa88a9c33c6a9cc0@5930287_oswg6647055oswg5712oswg4284_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:26.998929"
-    },
-    {
-      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
-      "url": "https://36kr.com/p/3879814941437956?f=rss",
-      "summary": "本文约2700字，建议阅读6分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司...",
-      "pub_time": "2026-07-03 19:12:32  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260703/v2_3e9ef59cd2444250a67b7714f51d40b7@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:26.999659"
-    },
-    {
-      "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
-      "url": "https://36kr.com/p/3879796756754694?f=rss",
-      "summary": "大公司：\n  德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元\n  针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代...",
-      "pub_time": "2026-07-03 18:55:45  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-07-05T04:08:27.000241"
-    },
-    {
-      "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
-      "url": "https://36kr.com/p/3877919172047111?f=rss",
-      "summary": "\n  图源视觉中国\n  文｜肖漫编辑｜李勤、杨轩\n  “回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。\n  36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。\n  从群组关系来看，理想汽车产品部由范...",
-      "pub_time": "2026-07-03 18:45:12  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260702/v2_9f88732f18974493bd43bb215b7bc0ab@6310690_oswg96109oswg1080oswg720_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:27.000784"
-    },
-    {
-      "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
-      "url": "https://36kr.com/p/3877990989819909?f=rss",
-      "summary": "作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投...",
-      "pub_time": "2026-07-03 10:26:11  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260702/v2_fa6b125ee79c453f9932c2e78ffe3617@5836910_oswg487705oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:27.001351"
-    },
-    {
-      "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
-      "url": "https://36kr.com/p/3879274157928449?f=rss",
-      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。\n  启航氢能成立于2024年...",
-      "pub_time": "2026-07-03 10:02:30  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260703/v2_d65587b6160049309e342b0f083fb440@5920579_oswg147836oswg675oswg592_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:27.001893"
-    },
-    {
-      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-      "url": "https://36kr.com/p/3879158039834629?f=rss",
-      "summary": "今日热点导览\n  苹果拟于今明两年推出至少五款新iPhone\n  AI版支付宝开放公测，上线72项办事技能\n  特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱\n  LV起诉茉莉奶白，茉莉奶白被判赔1030万元\n  6月赴日航班取消1488个\n  安克创新港股上市首日破发\n  TOP3大新闻\n  ...",
-      "pub_time": "2026-07-03 08:06:38  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260703/v2_2318e6832c5a474dac4c52c059d693c7@5667365_oswg194047oswg1080oswg1389_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-05T04:08:27.002577"
-    },
-    {
-      "title": "Show HN: Local MCP – Claude/ChatGPT read your iMessage, Teams, files on-device",
-      "url": "https://www.local-mcp.com/en",
-      "summary": "I kept hitting the same wall: AI assistants are great until they need my context — the email thread, the calendar, the iMessage, the file on my disk. ...",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "summary": "I&#x27;m making a platform for simple open source games you can play anywhere.Games are all just JavaScript classes and you can read the source of eve...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.009953"
+      "timestamp": "2026-07-06T04:15:15.428997"
     },
     {
-      "title": "Show HN: Minesweeper.free – Play minesweeper online free",
-      "url": "https://minesweeper.free/",
+      "title": "Show HN: Osint tool that finds exposed files on domains",
+      "url": "https://search.cerast-intelligence.com/",
+      "summary": "hey guys, wanted to show one of my side projects i just made public.the idea is basically another osint tool for pentesters and bug bounty\nhunters. it...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-06T04:15:15.429694"
+    },
+    {
+      "title": "Show HN: A faithful MUMPS 76 anniversary implementation – the original NoSQL DB",
+      "url": "https://github.com/rochus-keller/mumps/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.010576"
+      "timestamp": "2026-07-06T04:15:15.430330"
     },
     {
-      "title": "Show HN: Inches to MM converter for manufacturing and hardware checks",
-      "url": "https://inches-to-mm.com",
+      "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+      "url": "https://yolo-auto.com/",
+      "summary": "Hi HN,I was once given the advice: Don&#x27;t waste expensive frontier model credits (GPT&#x2F;Claude&#x2F;etc.) on bulk work. Send the boring, repeti...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-06T04:15:15.430946"
+    },
+    {
+      "title": "Show HN: KiCad in the Browser",
+      "url": "https://demo.pcbjam.com/",
+      "summary": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there&#x27;s a demo project or you can bring your own. Firefox is best...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-06T04:15:15.431587"
+    },
+    {
+      "title": "Show HN: AI-related Jax module (I hate if)",
+      "url": "https://github.com/PJHkorea/egregore-core-jax",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.011440"
+      "timestamp": "2026-07-06T04:15:15.432266"
     },
     {
-      "title": "Show HN: Two-tier-memory – queryable long-term memory for AI coding agents",
-      "url": "https://github.com/tadelstein9/two-tier-memory",
+      "title": "Show HN: AI integrated in any terminal that's invisible until you need it",
+      "url": "https://terminai.app",
+      "summary": "I built an open source terminal app that transparently wraps your shell so you can have access to AI whenever you need it, while it stays completely o...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-06T04:15:15.432937"
+    },
+    {
+      "title": "Show HN: Three small browser primitives – identity, handoff, durable local",
+      "url": "https://oss.sarwagya.wtf",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.012049"
+      "timestamp": "2026-07-06T04:15:15.433614"
     },
     {
-      "title": "Show HN: Mise – A keyboard-driven Python/Qt6 browser built for fanless laptops",
-      "url": "https://github.com/Rakosn1cek/Mise",
+      "title": "Show HN: Peek-CLI: Let Claude Code See the Browser",
+      "url": "https://github.com/puffinsoft/peek-cli",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.014851"
+      "timestamp": "2026-07-06T04:15:15.434291"
     },
     {
-      "title": "Show HN: Bramble – Local-first password manager",
-      "url": "https://github.com/flythenimbus/bramble",
-      "summary": "I&#x27;m currently working on Bramble, an open source password manager with P2P cross-device sync. Initially I released the Chrome extension, but rece...",
+      "title": "Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS",
+      "url": "https://cooked.house",
+      "summary": "I&#x27;m a father of two, 7 and 12. They are obsessed with Roblox, especially Rivals.Like a lot of parents, we did not love it. We tried the usual thi...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.015613"
-    },
-    {
-      "title": "Show HN: Grade your code's post-quantum crypto exposure A–F, free, in-browser",
-      "url": "https://throndar.ai/cbom",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-05T04:08:27.016416"
-    },
-    {
-      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-      "url": "https://github.com/adam-s/car-diagnosis",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-05T04:08:27.017043"
-    },
-    {
-      "title": "Show HN: Isthistechdead.com got a full UI revamp",
-      "url": "https://isthistechdead.com/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-05T04:08:27.017805"
-    },
-    {
-      "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
-      "url": "https://github.com/rochus-keller/BUSY/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-05T04:08:27.018587"
+      "timestamp": "2026-07-06T04:15:15.434959"
     },
     {
       "title": "触乐本周行业大事：6月版号下发，ChinaJoy将于7月31日开幕，大厂新品暑期档竞争打响",
@@ -456,7 +478,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/5116a475889ceab3.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-05T04:08:27.033434"
+      "timestamp": "2026-07-06T04:15:15.448903"
     },
     {
       "title": "2026 TapTap游戏发布会：从发现到创造，游戏离玩家更近了",
@@ -467,7 +489,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/9756a466ca3edcde.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-05T04:08:27.034188"
+      "timestamp": "2026-07-06T04:15:15.449779"
     },
     {
       "title": "《伊莫》“握爪测试”开启：一个更生动与广阔的抓宠世界",
@@ -478,7 +500,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/7276a461e08507a6.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-05T04:08:27.034949"
+      "timestamp": "2026-07-06T04:15:15.450559"
     },
     {
       "title": "触乐怪话：有点想念内森·德雷克",
@@ -489,7 +511,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-02/6a4613b721f13.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-05T04:08:27.035692"
+      "timestamp": "2026-07-06T04:15:15.451344"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -500,7 +522,7 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-07-05T04:08:27.036614"
+      "timestamp": "2026-07-06T04:15:15.452136"
     },
     {
       "title": "《索尼克赛车：交叉世界》带来本体化重要更新：目前，游戏已正式上线官方中文配音",
@@ -511,7 +533,7 @@
       "category": "game",
       "type": "art",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/9286a47989cbcd7a.png?imageView2/2/w/700",
-      "timestamp": "2026-07-05T04:08:27.037423"
+      "timestamp": "2026-07-06T04:15:15.452985"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -522,7 +544,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-07-05T04:08:27.038209"
+      "timestamp": "2026-07-06T04:15:15.453812"
     },
     {
       "title": "触乐怪话：“都是数字平台，我为什么不选Steam？”",
@@ -533,7 +555,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/6a4789bd00274.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-05T04:08:27.039077"
+      "timestamp": "2026-07-06T04:15:15.454648"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -544,7 +566,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.039898"
+      "timestamp": "2026-07-06T04:15:15.455492"
     },
     {
       "title": "Steps to Make a Simple Game in Unity",
@@ -555,63 +577,63 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-05T04:08:27.040764"
+      "timestamp": "2026-07-06T04:15:15.456387"
     },
     {
-      "title": "The Second Shadow",
-      "url": "https://fme849.itch.io/the-second-shadow",
-      "summary": "Vietnam Game Jam 2026",
+      "title": "CHERB",
+      "url": "https://t3a-muppet.itch.io/cherb",
+      "summary": "CHERB - minijam 214 - machines",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzI4Mjk4MTYwLnBuZw==/315x250%23c/AtfPzG.png",
-      "timestamp": "2026-07-05T04:08:27.041637"
+      "image": "https://img.itch.zone/aW1nLzI4MzE4NjI3LnBuZw==/315x250%23c/2Oulfr.png",
+      "timestamp": "2026-07-06T04:15:15.457293"
     },
     {
-      "title": "触乐怪话：你会用游戏周边打扑克吗？",
-      "url": "http://www.chuapp.com/article/291439.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n真是巧妙呀！（图/小罗）\n\n这两天，我收到了《乌合之众》的众筹回馈周边&mdash;&mdash;这款由南斋工作室开发的民俗题材恐怖游戏，在去年Demo上线之后引发了不小的关注度，并且也在之后发起了众筹，支持的玩家可以支付不同档位的众筹款项，并且获得对应档位的包括感谢名单、CDKEY、实体周边在内的回报。\n虽然貌似距离游戏的正式版上线还遥...",
+      "title": "Getting out of hand",
+      "url": "https://alt-f4-1101.itch.io/getting-out-of-hand",
+      "summary": "Submission for Mini Jam 214: Machines",
       "pub_time": "",
-      "source": "触乐",
+      "source": "itch.io",
       "category": "game",
       "type": "indie",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-06-24/6a3bb24a609e5.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-05T04:08:27.042508"
+      "image": "https://img.itch.zone/aW1nLzI4MzE4NTgxLnBuZw==/315x250%23c/TOVEEG.png",
+      "timestamp": "2026-07-06T04:15:15.458165"
     },
     {
-      "title": "An Adventure in Arabic",
-      "url": "https://store.steampowered.com/app/4394260",
+      "title": "World: 23806",
+      "url": "https://store.steampowered.com/app/4527270",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394260/21fb8e738ffd41fc985bdc0a9fd0663388b031cd/header.jpg?t=1783221839",
-      "timestamp": "2026-07-05T04:08:27.043541"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527270/62d54b8ac625f4f3a478ba6131dd8f7ee6c33b5e/header.jpg?t=1783300673",
+      "timestamp": "2026-07-06T04:15:15.459091"
     },
     {
-      "title": "Overlab",
-      "url": "https://store.steampowered.com/app/4858520",
+      "title": "Nyctophobia",
+      "url": "https://store.steampowered.com/app/4519490",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
-      "timestamp": "2026-07-05T04:08:27.044478"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519490/262ab9bc9c2fa3e165ccd702420ac9ce05acece6/header.jpg?t=1783294737",
+      "timestamp": "2026-07-06T04:15:15.460027"
     },
     {
-      "title": "FOCUS",
-      "url": "https://store.steampowered.com/app/4849010",
+      "title": "Cig Walk",
+      "url": "https://store.steampowered.com/app/4160910",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
-      "timestamp": "2026-07-05T04:08:27.045393"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160910/359a86722c3ad292bd369cee11f0385cc5fb2dba/header.jpg?t=1783295870",
+      "timestamp": "2026-07-06T04:15:15.460984"
     }
   ],
-  "last_cleanup": "2026-07-05T04:08:27.045411"
+  "last_cleanup": "2026-07-06T04:15:15.461002"
 }
