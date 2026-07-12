@@ -5,31 +5,31 @@
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": "",
       "language": "JavaScript",
-      "stars": 2171,
-      "forks": 390,
-      "watchers": 2171,
+      "stars": 2448,
+      "forks": 457,
+      "watchers": 2448,
       "created_at": "2026-07-08T09:27:48Z",
-      "updated_at": "2026-07-11T03:25:39Z",
+      "updated_at": "2026-07-12T03:35:53Z",
       "topics": [],
       "license": "Open Data Commons Open Database License v1.0",
       "homepage": null,
-      "open_issues": 7,
+      "open_issues": 11,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.2K",
-      "timestamp": "2026-07-11T03:26:19.607814"
+      "stars_formatted": "2.4K",
+      "timestamp": "2026-07-12T03:37:51.848531"
     },
     {
       "title": "Shpigford/knockoff",
       "url": "https://github.com/Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "language": "JavaScript",
-      "stars": 1708,
-      "forks": 54,
-      "watchers": 1708,
+      "stars": 1776,
+      "forks": 58,
+      "watchers": 1776,
       "created_at": "2026-07-06T15:06:06Z",
-      "updated_at": "2026-07-11T03:06:32Z",
+      "updated_at": "2026-07-12T03:23:04Z",
       "topics": [
         "amazon",
         "browser-extension",
@@ -37,126 +37,23 @@
       ],
       "license": "Other",
       "homepage": "https://knockoff.shopping",
-      "open_issues": 7,
+      "open_issues": 6,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.7K",
-      "timestamp": "2026-07-11T03:26:19.608050"
-    },
-    {
-      "title": "MaximeRivest/riddle",
-      "url": "https://github.com/MaximeRivest/riddle",
-      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "language": "Rust",
-      "stars": 1343,
-      "forks": 111,
-      "watchers": 1343,
-      "created_at": "2026-07-05T15:48:08Z",
-      "updated_at": "2026-07-11T02:22:33Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 17,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.3K",
-      "timestamp": "2026-07-11T03:26:19.608311"
-    },
-    {
-      "title": "514-labs/dnsglobe",
-      "url": "https://github.com/514-labs/dnsglobe",
-      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-      "language": "Rust",
-      "stars": 798,
-      "forks": 20,
-      "watchers": 798,
-      "created_at": "2026-07-05T01:03:37Z",
-      "updated_at": "2026-07-11T02:37:16Z",
-      "topics": [
-        "cli",
-        "dns",
-        "dns-checker",
-        "dns-propagation",
-        "ratatui",
-        "rust",
-        "tui"
-      ],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 3,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "798",
-      "timestamp": "2026-07-11T03:26:19.608725"
-    },
-    {
-      "title": "Robbyant/lingbot-world-v2",
-      "url": "https://github.com/Robbyant/lingbot-world-v2",
-      "description": "Infinite Worlds with Versatile Interactions",
-      "language": "Python",
-      "stars": 706,
-      "forks": 20,
-      "watchers": 706,
-      "created_at": "2026-07-08T09:24:50Z",
-      "updated_at": "2026-07-11T03:03:06Z",
-      "topics": [],
-      "license": "Other",
-      "homepage": "https://technology.robbyant.com/lingbot-world-v2",
-      "open_issues": 2,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "706",
-      "timestamp": "2026-07-11T03:26:19.609290"
-    },
-    {
-      "title": "simonlin1212/Vibe-Research",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "language": "TypeScript",
-      "stars": 686,
-      "forks": 131,
-      "watchers": 686,
-      "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-11T03:09:37Z",
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "dashboard",
-        "fastapi",
-        "fintech",
-        "hk-stocks",
-        "investment-research",
-        "llm",
-        "mcp",
-        "python",
-        "react",
-        "stock-market",
-        "trading",
-        "us-stocks"
-      ],
-      "license": "MIT License",
-      "homepage": "https://viberesearch.wiki",
-      "open_issues": 4,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "686",
-      "timestamp": "2026-07-11T03:26:19.609678"
+      "stars_formatted": "1.8K",
+      "timestamp": "2026-07-12T03:37:51.848761"
     },
     {
       "title": "oso95/scroll-world",
       "url": "https://github.com/oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "language": "JavaScript",
-      "stars": 650,
-      "forks": 55,
-      "watchers": 650,
+      "stars": 907,
+      "forks": 96,
+      "watchers": 907,
       "created_at": "2026-07-06T21:28:58Z",
-      "updated_at": "2026-07-11T03:21:59Z",
+      "updated_at": "2026-07-12T03:23:04Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "",
@@ -164,19 +61,59 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "650",
-      "timestamp": "2026-07-11T03:26:19.610070"
+      "stars_formatted": "907",
+      "timestamp": "2026-07-12T03:37:51.849000"
+    },
+    {
+      "title": "Robbyant/lingbot-world-v2",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 805,
+      "forks": 31,
+      "watchers": 805,
+      "created_at": "2026-07-08T09:24:50Z",
+      "updated_at": "2026-07-12T03:33:00Z",
+      "topics": [],
+      "license": "Other",
+      "homepage": "https://technology.robbyant.com/lingbot-world-v2",
+      "open_issues": 2,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "805",
+      "timestamp": "2026-07-12T03:37:51.849361"
+    },
+    {
+      "title": "x4gKing/3x-ui-Upgrade",
+      "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "description": "",
+      "language": "HTML",
+      "stars": 801,
+      "forks": 1642,
+      "watchers": 801,
+      "created_at": "2026-07-08T06:13:23Z",
+      "updated_at": "2026-07-12T02:33:15Z",
+      "topics": [],
+      "license": "",
+      "homepage": null,
+      "open_issues": 1,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "801",
+      "timestamp": "2026-07-12T03:37:51.849691"
     },
     {
       "title": "Robbyant/lingbot-video",
       "url": "https://github.com/Robbyant/lingbot-video",
       "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
       "language": "Python",
-      "stars": 646,
-      "forks": 20,
-      "watchers": 646,
+      "stars": 683,
+      "forks": 24,
+      "watchers": 683,
       "created_at": "2026-07-08T13:52:08Z",
-      "updated_at": "2026-07-11T03:07:22Z",
+      "updated_at": "2026-07-12T03:22:47Z",
       "topics": [
         "image-to-video",
         "lingbot-video",
@@ -189,48 +126,134 @@
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "646",
-      "timestamp": "2026-07-11T03:26:19.610427"
+      "stars_formatted": "683",
+      "timestamp": "2026-07-12T03:37:51.850041"
     },
     {
       "title": "Robbyant/lingbot-vision",
       "url": "https://github.com/Robbyant/lingbot-vision",
       "description": "Self-supervised learning for spatial perception",
       "language": "Python",
-      "stars": 617,
+      "stars": 638,
       "forks": 20,
-      "watchers": 617,
+      "watchers": 638,
       "created_at": "2026-07-06T14:09:42Z",
-      "updated_at": "2026-07-11T01:43:40Z",
+      "updated_at": "2026-07-12T03:00:22Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": null,
-      "open_issues": 4,
+      "open_issues": 1,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "617",
-      "timestamp": "2026-07-11T03:26:19.610868"
+      "stars_formatted": "638",
+      "timestamp": "2026-07-12T03:37:51.850394"
     },
     {
-      "title": "x4gKing/3x-ui-Upgrade",
-      "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "title": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": null,
+      "stars": 563,
+      "forks": 59,
+      "watchers": 563,
+      "created_at": "2026-07-07T13:57:13Z",
+      "updated_at": "2026-07-12T02:54:14Z",
+      "topics": [
+        "agent",
+        "chart-visualization",
+        "chinese",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "explainer",
+        "illustration",
+        "image-generation",
+        "material-illustration",
+        "skill",
+        "social-media"
+      ],
+      "license": "",
+      "homepage": null,
+      "open_issues": 1,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "563",
+      "timestamp": "2026-07-12T03:37:51.850899"
+    },
+    {
+      "title": "V4bel/Januscape",
+      "url": "https://github.com/V4bel/Januscape",
       "description": "",
-      "language": "HTML",
-      "stars": 610,
-      "forks": 1206,
-      "watchers": 610,
-      "created_at": "2026-07-08T06:13:23Z",
-      "updated_at": "2026-07-11T02:48:17Z",
+      "language": "C",
+      "stars": 472,
+      "forks": 62,
+      "watchers": 472,
+      "created_at": "2026-07-06T15:35:00Z",
+      "updated_at": "2026-07-12T00:13:16Z",
       "topics": [],
       "license": "",
       "homepage": null,
-      "open_issues": 0,
+      "open_issues": 5,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "610",
-      "timestamp": "2026-07-11T03:26:19.611288"
+      "stars_formatted": "472",
+      "timestamp": "2026-07-12T03:37:51.851303"
+    },
+    {
+      "title": "xiaotianfotos/homerail",
+      "url": "https://github.com/xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "language": "TypeScript",
+      "stars": 453,
+      "forks": 108,
+      "watchers": 453,
+      "created_at": "2026-07-07T12:11:18Z",
+      "updated_at": "2026-07-12T03:00:26Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 7,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "453",
+      "timestamp": "2026-07-12T03:37:51.851732"
+    },
+    {
+      "title": "这个周末，科技投资人都得飞一趟成都",
+      "url": "https://36kr.com/p/3892096788396806?f=rss",
+      "summary": "\n  新能源基金的下半场\n  作者 | 吕敬之编辑 | 吾人\n  来源 |&nbsp;融中财经\n  一只新能源基金落子成都。\n  近日，成都交通投资集团有限公司、成都濛江投资集团有限公司、杭州碧澄能源发展有限公司、洛能（杭州）股权投资有限公司四方签署新能源产业战略合作协议。根据协议，四方将联合设立总...",
+      "pub_time": "2026-07-12 11:27:05  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260712/v2_75afdcf0da7b4484b5d9e07781e9deec@5579416_oswg110056oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-12T03:37:51.866543"
+    },
+    {
+      "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "url": "https://36kr.com/p/3892027841362694?f=rss",
+      "summary": "林方舟 发自 凹非寺\n  在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。\n  首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A...",
+      "pub_time": "2026-07-12 10:16:07  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260712/v2_426cea8d4ed241cb84408213126fa22e@5579416_oswg1018637oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-07-12T03:37:51.866969"
+    },
+    {
+      "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
+      "url": "https://36kr.com/p/3891132709206784?f=rss",
+      "summary": "文 | 周鑫雨\n  编辑 | 张雨忻\n  《智能涌现》独家获悉，2026 年 7 月 11 日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。\n  过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了 10 倍，并在 2026 年 6 月，跻身“万亿港元俱乐部”——这个数字，...",
+      "pub_time": "2026-07-11 19:28:29  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-07-12T03:37:51.867552"
     },
     {
       "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
@@ -241,7 +264,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.626279"
+      "timestamp": "2026-07-12T03:37:51.868017"
     },
     {
       "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
@@ -252,7 +275,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260710/v2_65133adab2b0471884c9250eef7228ae@6221844_oswg362165oswg1269oswg715_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-07-11T03:26:19.626727"
+      "timestamp": "2026-07-12T03:37:51.868636"
     },
     {
       "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
@@ -263,7 +286,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.627269"
+      "timestamp": "2026-07-12T03:37:51.869127"
     },
     {
       "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
@@ -274,7 +297,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260710/v2_df085fd87c51435797d88ce8cac144ac@6221844_oswg3271346oswg2226oswg1426_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "timestamp": "2026-07-11T03:26:19.627841"
+      "timestamp": "2026-07-12T03:37:51.869690"
     },
     {
       "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
@@ -285,7 +308,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.628320"
+      "timestamp": "2026-07-12T03:37:51.870234"
     },
     {
       "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
@@ -296,7 +319,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260706/v2_3533cf9494734299ba1633a43dcdf6f2@6091023_oswg128213oswg464oswg894_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-07-11T03:26:19.628780"
+      "timestamp": "2026-07-12T03:37:51.870786"
     },
     {
       "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
@@ -307,194 +330,161 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260710/v2_27f38c78baa0435ebc1c560de3f3bb69@6221844_oswg1150800oswg1268oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-07-11T03:26:19.629285"
+      "timestamp": "2026-07-12T03:37:51.871377"
     },
     {
-      "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
-      "url": "https://36kr.com/p/3889047503354625?f=rss",
-      "summary": "今日热点导览\n  \n   花呗就还款页面无法正常打开致歉\n   中芯国际市值超越贵州茅台\n   iPhone 18 Pro Max成本大涨，起步价或维持在9999元\n   英伟达将与Hugging Face合作开发机器人开源模型\n   美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易\n  \n  TOP...",
-      "pub_time": "2026-07-10 07:43:55  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-07-11T03:26:19.629909"
-    },
-    {
-      "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
-      "url": "https://36kr.com/p/3888567864851204?f=rss",
-      "summary": "7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “全球首例” 应用成果中得到充分展现，正...",
-      "pub_time": "2026-07-09 23:36:08  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260709/v2_80fcf079e0c54966a43e8a606331ae20@5284654_oswg1439272oswg1850oswg1011_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-07-11T03:26:19.630556"
-    },
-    {
-      "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
-      "url": "https://36kr.com/p/3888289009678854?f=rss",
-      "summary": "Alpha will be made, not found。\n  麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭...",
-      "pub_time": "2026-07-09 18:53:27  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260709/v2_18c2d7a02a07434f934935bbd539d407@5352461_oswg6453oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-11T03:26:19.631145"
-    },
-    {
-      "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-      "url": "https://github.com/dicroce/wyrm_math",
-      "summary": "There is a mobile game called DragonBox. It sort of tricks you into learning algebra by starting with very abstract manipulations of a puzzle that mus...",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "summary": "Hello HN!I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.640479"
+      "timestamp": "2026-07-12T03:37:51.879262"
     },
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "summary": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are si...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-11T03:26:19.641100"
-    },
-    {
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "url": "https://www.fadingmaize.com",
-      "summary": "25 years ago, I joined a band called Fading Maize at Ripon College in Wisconsin. We did what we could with what we had. We recorded 3 albums over the ...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-11T03:26:19.641714"
-    },
-    {
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "summary": "I started leaning in on AI heavily this year, as I wanted to get more done autonomously, but then my token usage climbed dramatically to the point whe...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-11T03:26:19.642329"
-    },
-    {
-      "title": "Show HN: Reverse-engineering web apps into agent tools",
-      "url": "https://news.ycombinator.com/item?id=48847834",
-      "summary": "Hey HN! We built a browser-based agent that runs inside an authenticated web app, watches how the app calls its own APIs, and automatically turns thos...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-11T03:26:19.642923"
-    },
-    {
-      "title": "Show HN: @playbykey/theory - Music theory TypeScript engine and MCP server",
-      "url": "https://theory-engine.docs.playbykey.com/",
+      "title": "Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)",
+      "url": "https://github.com/PJHkorea/quantum-mesh-qec",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.643583"
+      "timestamp": "2026-07-12T03:37:51.879887"
     },
     {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.644255"
+      "timestamp": "2026-07-12T03:37:51.880635"
     },
     {
-      "title": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
-      "url": "https://sxp.studio/apps/subz",
-      "summary": "Hey there,My name is Clem, I&#x27;ve been a solo indie dev for a couple years now, exploring frontier tech like XR and agentic workflows in the contex...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-11T03:26:19.644882"
-    },
-    {
-      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
-      "url": "https://abralo.com/",
-      "summary": "Hi guys,I&#x27;ve been using Claude Code for almost everything lately. Have given one an email account so it can research business leads, draft emails...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-11T03:26:19.645794"
-    },
-    {
-      "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
-      "url": "https://github.com/robertsdotpm/runloom",
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.646562"
+      "timestamp": "2026-07-12T03:37:51.881263"
     },
     {
-      "title": "《失控进化》空降双榜第一，真正的“生存”才刚刚开始",
-      "url": "http://www.chuapp.com/article/291471.html",
-      "summary": "今天（7月9日）《失控进化》正式全平台上线，游戏上线后便登顶iOS总榜及免费榜，这款全网预约突破4000万的SOC新品，终于迎来了真正的大考。\n\n《失控进化》于7月9日正式上线\n\n不过比起今天的上线，我印象更深的是十几天前的那个夜晚。\n6月27日晚，甘肃金昌&ldquo;火星一号基地&rdquo;，《失控进化》在戈壁滩上办了一场露天的&ldquo;野人节&rdquo;，这大概是我见过最&ldquo...",
+      "title": "Show HN: We beat Anubis with our stealth MCP",
+      "url": "https://tilion.dev/blog/anubis-proof-of-work",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-12T03:37:51.881921"
+    },
+    {
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "url": "https://nagylukas.github.io/orbit.html",
+      "summary": "Hey HN! I made Orbit, an iOS app that allows you to see the satellites, planets, and constellations above you in AR, on a 2D map, and on a 3D globe.\nT...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-12T03:37:51.882627"
+    },
+    {
+      "title": "Show HN: Confessor – replay what private info Claude Code accessed on your PC",
+      "url": "https://github.com/ninjahawk/Confessor",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-12T03:37:51.883340"
+    },
+    {
+      "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+      "url": "https://github.com/swellweb/reame",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-12T03:37:51.884036"
+    },
+    {
+      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+      "url": "https://github.com/skorotkiewicz/earth-game",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-12T03:37:51.884709"
+    },
+    {
+      "title": "Show HN: Levee – a self-tuning circuit breaker and concurrency limiter for Go",
+      "url": "https://github.com/codemartial/levee",
+      "summary": "Rate limiters and circuit breakers work wonderfully well when they’re configured for the load and available capacity. But load, capacity, and latency ...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-12T03:37:51.885428"
+    },
+    {
+      "title": "Azure Blaze - Black Company Escape",
+      "url": "https://steppedwaterfallpulsation.itch.io/azure-blaze-black-company-escape",
+      "summary": "A thrilling mecha card battle game where you escape from a ruthless black company!",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI4NDM1MzgzLmpwZw==/315x250%23c/OYmbvf.jpg",
+      "timestamp": "2026-07-12T03:37:51.897241"
+    },
+    {
+      "title": "Mages vs Dragon",
+      "url": "https://colombo0718.itch.io/mages-vs-dragon",
+      "summary": "Co-op turn-based tactics: you and an AI ally vs a dragon. Chant a turn ahead and respect the wind-up.",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI4NDI2Njg2LmpwZw==/315x250%23c/%2B3Taza.jpg",
+      "timestamp": "2026-07-12T03:37:51.897980"
+    },
+    {
+      "title": "为何现在游戏厂商喜欢来BW“团建”？",
+      "url": "http://www.chuapp.com/article/291476.html",
+      "summary": "7月10日，在BW开展的首日，不少逛展者一大早就来到了上海的国家会展中心等候进场。\n\n等待入场的BW观众\n\n小嘉就是其中之一。他今年刚结束高考，迎来了自由的暑假。早上8点，场馆一开，他就直奔《蔚蓝档案》场贩区，那里已经有一圈玩家在了。他大约排了一小时。&ldquo;一般场贩排队的人会多一些，无料排队的会少些。&rdquo;小嘉说，&ldquo;但比较火的游戏，无料也会有许多人排。&rdquo;\n昨...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-09/4996a4f32d771f5d.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-11T03:26:19.659413"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-11/4446a52383e81592.jpg?imageView2/2/w/700",
+      "timestamp": "2026-07-12T03:37:51.898814"
     },
     {
-      "title": "触乐怪话：打本会影响鹦鹉睡眠",
-      "url": "http://www.chuapp.com/article/291469.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n写这篇怪话时，果果在我的键盘上走来走去（图/小罗）\n\n玩《燕云十六声（下文简称&ldquo;燕云&rdquo;）》的每一个赛季初总是最忙碌的，版本更新意味着有新地图需要探索、新等级的装备等待养成，而对于我们铁血PVE玩家来说，在新团本里&ldquo;坐牢&rdquo;几乎是每个季度的固定活动。\n在新版本上线之前，队里的指挥们就已经反复阅读...",
+      "title": "触乐本周行业大事：BW 2026开幕，巨人网络净利预增超150%，大厂新品对决拉开暑期档序幕",
+      "url": "http://www.chuapp.com/article/291475.html",
+      "summary": "\n■ BilibiliWorld 2026在上海开幕，展商超170家\n\n7月10日，BilibiliWorld（BW）2026在上海国家会展中心开幕，展会将持续至7月12日。本届BW共有超过170家参展商、700多个展位，约130家国内外游戏公司参展，展出内容覆盖游戏、动画、影视、潮流文化和创作者生态。\n今年BW首次面向全球190多个国家和地区开放售票。游戏仍是展会的重要组成部分，《明日方舟》《三...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-08/6a4e1374cf58b.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-11T03:26:19.660151"
-    },
-    {
-      "title": "当腾讯不再定义科兴",
-      "url": "http://www.chuapp.com/article/291465.html",
-      "summary": "2025年下半年开始，科兴科学园（下文简称科兴）里陆续出现搬家公司的货车。腾讯的员工会在周五下班前把显示器、电脑、键盘和私人物品装进去，封箱，贴上工位号。到了周末，这些纸箱会被搬家公司运往大铲湾的企鹅岛。新的一周，员工在新的工位把它们拆开，拿出旧电脑，接上电源，然后继续工作。\n这场搬迁持续了近一年，这一年里，科兴近20万平方米的办公面积逐步清空，这里最大的租户离开了它待了13年的地方。\n对科兴来说...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-06/5976a4b6d6bcccc7.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-11T03:26:19.660859"
-    },
-    {
-      "title": "触乐本周行业大事：6月版号下发，ChinaJoy将于7月31日开幕，大厂新品暑期档竞争打响",
-      "url": "http://www.chuapp.com/article/291460.html",
-      "summary": "\n■ 6月网络游戏版号公示，171款产品过审，上半年累计发放近千款\n\n6月30日，国家新闻出版署官网发布2026年6月国产与进口网络游戏审批信息。本批次共计171款游戏过审，其中国产网络游戏163款、进口网络游戏8款，同步披露6条审批变更信息。\n从数量来看，本批版号较5月增加13款，延续2026年以来的高位发放节奏。截至本月，2026年上半年累计下发游戏版号950款，其中国产917款、进口33款。...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-03/5116a475889ceab3.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-11T03:26:19.661914"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-10/3976a50d31c43b65.jpg?imageView2/2/w/700",
+      "timestamp": "2026-07-12T03:37:51.899600"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -505,7 +495,7 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-07-11T03:26:19.662681"
+      "timestamp": "2026-07-12T03:37:51.900343"
     },
     {
       "title": "搭建BW的人",
@@ -516,7 +506,7 @@
       "category": "game",
       "type": "art",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-10/6466a50d15cbc415.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-11T03:26:19.663453"
+      "timestamp": "2026-07-12T03:37:51.901153"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -527,7 +517,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-07-11T03:26:19.664277"
+      "timestamp": "2026-07-12T03:37:51.901969"
     },
     {
       "title": "触乐怪话：贫乏的“坏女人”",
@@ -538,7 +528,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-09/6a4f476b19d71.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-11T03:26:19.665051"
+      "timestamp": "2026-07-12T03:37:51.902800"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -549,7 +539,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.665855"
+      "timestamp": "2026-07-12T03:37:51.903652"
     },
     {
       "title": "Steps to Make a Simple Game in Unity",
@@ -560,41 +550,52 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-07-11T03:26:19.666674"
+      "timestamp": "2026-07-12T03:37:51.904507"
     },
     {
-      "title": "You.T@pes",
-      "url": "https://store.steampowered.com/app/4824530",
+      "title": "The Captain's Curse",
+      "url": "https://jconncreative.itch.io/captains-curse",
+      "summary": "A cursed pirate game of hide and seek - Made for Synty's 12th Birthday Jam.",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "indie",
+      "image": "https://img.itch.zone/aW1nLzI4NDM1NTc5LnBuZw==/315x250%23c/pRTZPL.png",
+      "timestamp": "2026-07-12T03:37:51.905368"
+    },
+    {
+      "title": "Angels Fall First",
+      "url": "https://store.steampowered.com/app/367270",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824530/349d846107412d36b16bd27ac4a92339ff14aa54/header.jpg?t=1783730770",
-      "timestamp": "2026-07-11T03:26:19.667514"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/fa7defd4ca90f5f306de47576a3424d8006d12f5/header.jpg?t=1783807186",
+      "timestamp": "2026-07-12T03:37:51.906255"
     },
     {
-      "title": "Scourge of the Necromancer",
-      "url": "https://store.steampowered.com/app/4717680",
+      "title": "Blobbin",
+      "url": "https://store.steampowered.com/app/4736050",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717680/6ccec98ac181eb8c519ba7f69c1e095a3877dddd/header.jpg?t=1783728029",
-      "timestamp": "2026-07-11T03:26:19.668360"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736050/a6f306b331f7df9c0c99d19c3a79f4ad90f2360b/header.jpg?t=1783806099",
+      "timestamp": "2026-07-12T03:37:51.907149"
     },
     {
-      "title": "HYPERFIST",
-      "url": "https://store.steampowered.com/app/3689210",
+      "title": "The Dungeon Persists",
+      "url": "https://store.steampowered.com/app/4819560",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689210/c1445aad422d27f5abe35d14e4febf25bbd6428d/header.jpg?t=1783727392",
-      "timestamp": "2026-07-11T03:26:19.669207"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819560/0e7124f502b49d963cb7f02a5a77dcc64ac43303/header.jpg?t=1783794744",
+      "timestamp": "2026-07-12T03:37:51.908062"
     }
   ],
-  "last_cleanup": "2026-07-11T03:26:19.669225"
+  "last_cleanup": "2026-07-12T03:37:51.908081"
 }
