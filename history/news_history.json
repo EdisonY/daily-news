@@ -5,11 +5,11 @@
       "url": "https://github.com/xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "language": "Rust",
-      "stars": 16731,
-      "forks": 3076,
-      "watchers": 16731,
+      "stars": 19035,
+      "forks": 3435,
+      "watchers": 19035,
       "created_at": "2026-07-14T20:04:23Z",
-      "updated_at": "2026-07-18T03:13:09Z",
+      "updated_at": "2026-07-19T03:33:25Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": null,
@@ -17,39 +17,59 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "16.7K",
-      "timestamp": "2026-07-18T03:13:48.604159"
+      "stars_formatted": "19.0K",
+      "timestamp": "2026-07-19T03:34:10.275305"
     },
     {
       "title": "Fei-Away/Codex-Dream-Skin",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "language": "JavaScript",
-      "stars": 8807,
-      "forks": 934,
-      "watchers": 8807,
+      "stars": 9811,
+      "forks": 1022,
+      "watchers": 9811,
       "created_at": "2026-07-15T12:34:51Z",
-      "updated_at": "2026-07-18T03:12:07Z",
+      "updated_at": "2026-07-19T03:33:30Z",
       "topics": [],
       "license": "",
       "homepage": null,
-      "open_issues": 86,
+      "open_issues": 97,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "8.8K",
-      "timestamp": "2026-07-18T03:13:48.604385"
+      "stars_formatted": "9.8K",
+      "timestamp": "2026-07-19T03:34:10.275525"
+    },
+    {
+      "title": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "description": "",
+      "language": "Rust",
+      "stars": 1256,
+      "forks": 76,
+      "watchers": 1256,
+      "created_at": "2026-07-14T14:20:44Z",
+      "updated_at": "2026-07-19T01:29:02Z",
+      "topics": [],
+      "license": "GNU Affero General Public License v3.0",
+      "homepage": null,
+      "open_issues": 7,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.3K",
+      "timestamp": "2026-07-19T03:34:10.275772"
     },
     {
       "title": "pixel-point/aval",
       "url": "https://github.com/pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "language": "TypeScript",
-      "stars": 1166,
-      "forks": 63,
-      "watchers": 1166,
+      "stars": 1217,
+      "forks": 65,
+      "watchers": 1217,
       "created_at": "2026-07-13T07:42:51Z",
-      "updated_at": "2026-07-18T03:02:44Z",
+      "updated_at": "2026-07-19T03:16:50Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "https://pixelpoint.io/aval",
@@ -58,18 +78,18 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "1.2K",
-      "timestamp": "2026-07-18T03:13:48.604616"
+      "timestamp": "2026-07-19T03:34:10.276136"
     },
     {
       "title": "littledivy/mimic",
       "url": "https://github.com/littledivy/mimic",
       "description": "Intercept any app, then call it from Python like a library",
       "language": "Python",
-      "stars": 1149,
-      "forks": 67,
-      "watchers": 1149,
+      "stars": 1177,
+      "forks": 73,
+      "watchers": 1177,
       "created_at": "2026-07-13T05:13:00Z",
-      "updated_at": "2026-07-17T23:24:55Z",
+      "updated_at": "2026-07-19T03:11:44Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "",
@@ -77,59 +97,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-07-18T03:13:48.605083"
-    },
-    {
-      "title": "CluvexStudio/Aether",
-      "url": "https://github.com/CluvexStudio/Aether",
-      "description": "",
-      "language": "Rust",
-      "stars": 1147,
-      "forks": 65,
-      "watchers": 1147,
-      "created_at": "2026-07-14T14:20:44Z",
-      "updated_at": "2026-07-18T03:13:10Z",
-      "topics": [],
-      "license": "GNU Affero General Public License v3.0",
-      "homepage": null,
-      "open_issues": 4,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-07-18T03:13:48.605412"
-    },
-    {
-      "title": "x4gKing/Marzban-Panel",
-      "url": "https://github.com/x4gKing/Marzban-Panel",
-      "description": "",
-      "language": "Dockerfile",
-      "stars": 914,
-      "forks": 1708,
-      "watchers": 914,
-      "created_at": "2026-07-12T22:22:09Z",
-      "updated_at": "2026-07-18T00:31:26Z",
-      "topics": [],
-      "license": "",
-      "homepage": null,
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "914",
-      "timestamp": "2026-07-18T03:13:48.605683"
+      "stars_formatted": "1.2K",
+      "timestamp": "2026-07-19T03:34:10.276439"
     },
     {
       "title": "tandpfun/wardrobe",
       "url": "https://github.com/tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "language": "JavaScript",
-      "stars": 906,
-      "forks": 130,
-      "watchers": 906,
+      "stars": 1060,
+      "forks": 158,
+      "watchers": 1060,
       "created_at": "2026-07-16T06:17:00Z",
-      "updated_at": "2026-07-18T02:48:20Z",
+      "updated_at": "2026-07-19T03:11:54Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "",
@@ -137,85 +117,106 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "906",
-      "timestamp": "2026-07-18T03:13:48.606110"
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-07-19T03:34:10.276795"
     },
     {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "language": "TypeScript",
-      "stars": 833,
-      "forks": 149,
-      "watchers": 833,
-      "created_at": "2026-07-12T10:35:44Z",
-      "updated_at": "2026-07-17T22:24:36Z",
+      "title": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 825,
+      "forks": 47,
+      "watchers": 825,
+      "created_at": "2026-07-13T07:31:56Z",
+      "updated_at": "2026-07-19T02:58:25Z",
       "topics": [
-        "agentic-ai",
-        "agentic-ide",
-        "ai-agents",
-        "developer-tools",
-        "electron",
-        "ide",
-        "local-first",
-        "typescript",
-        "zero-trust"
+        "agent-skill",
+        "codex-skill",
+        "github-readme",
+        "readme-design",
+        "svg"
       ],
-      "license": "GNU Affero General Public License v3.0",
-      "homepage": "https://ide.clodex.xyz",
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 2,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "825",
+      "timestamp": "2026-07-19T03:34:10.277152"
+    },
+    {
+      "title": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 710,
+      "forks": 41,
+      "watchers": 710,
+      "created_at": "2026-07-17T04:58:22Z",
+      "updated_at": "2026-07-19T03:10:55Z",
+      "topics": [
+        "llm-tools",
+        "steganography"
+      ],
+      "license": "GNU General Public License v3.0",
+      "homepage": "",
       "open_issues": 1,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "833",
-      "timestamp": "2026-07-18T03:13:48.606518"
+      "stars_formatted": "710",
+      "timestamp": "2026-07-19T03:34:10.277495"
     },
     {
-      "title": "Kappaemme-git/codex-first-customer-finder-skill",
-      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "language": "Python",
-      "stars": 790,
-      "forks": 81,
-      "watchers": 790,
-      "created_at": "2026-07-12T14:24:33Z",
-      "updated_at": "2026-07-18T02:29:12Z",
-      "topics": [
-        "codex",
-        "codex-skill",
-        "customer-discovery",
-        "early-adopters",
-        "prospecting",
-        "startup"
-      ],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 3,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "790",
-      "timestamp": "2026-07-18T03:13:48.606881"
-    },
-    {
-      "title": "x4gKing/Marzban-Node",
-      "url": "https://github.com/x4gKing/Marzban-Node",
-      "description": "",
-      "language": "Dockerfile",
-      "stars": 777,
-      "forks": 1561,
-      "watchers": 777,
-      "created_at": "2026-07-12T22:22:51Z",
-      "updated_at": "2026-07-18T01:16:26Z",
+      "title": "KubeezMedia/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "language": "JavaScript",
+      "stars": 653,
+      "forks": 4,
+      "watchers": 653,
+      "created_at": "2026-07-13T23:32:54Z",
+      "updated_at": "2026-07-18T16:18:43Z",
       "topics": [],
       "license": "",
-      "homepage": null,
+      "homepage": "https://kubeezmedia.github.io/kubeez-scroll-world-video/",
       "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "777",
-      "timestamp": "2026-07-18T03:13:48.607430"
+      "stars_formatted": "653",
+      "timestamp": "2026-07-19T03:34:10.277912"
+    },
+    {
+      "title": "MatinSenPai/Aether-GUI",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 597,
+      "forks": 25,
+      "watchers": 597,
+      "created_at": "2026-07-14T20:13:18Z",
+      "updated_at": "2026-07-19T00:20:17Z",
+      "topics": [
+        "anti-censorship",
+        "censorship-circumvention",
+        "desktop-app",
+        "proxy",
+        "react",
+        "rust",
+        "tauri",
+        "typescript"
+      ],
+      "license": "GNU Affero General Public License v3.0",
+      "homepage": null,
+      "open_issues": 8,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "597",
+      "timestamp": "2026-07-19T03:34:10.278286"
     },
     {
       "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
@@ -226,7 +227,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260718/v2_c521dcf894bf4210afa6eca9045c6dfb@5667365_oswg242582oswg750oswg421_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-18T03:13:48.621827"
+      "timestamp": "2026-07-19T03:34:10.294284"
     },
     {
       "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
@@ -237,7 +238,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.622263"
+      "timestamp": "2026-07-19T03:34:10.294783"
     },
     {
       "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
@@ -248,7 +249,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.622799"
+      "timestamp": "2026-07-19T03:34:10.295333"
     },
     {
       "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
@@ -259,7 +260,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260717/v2_605a8a8a4b8640158de83a7aa88b025f@6381723_oswg84170oswg1212oswg810_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "timestamp": "2026-07-18T03:13:48.623258"
+      "timestamp": "2026-07-19T03:34:10.295806"
     },
     {
       "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
@@ -270,7 +271,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260717/v2_11cad3dae776450b9505ddcb5be2a14b@5889148_oswg528857oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-18T03:13:48.623746"
+      "timestamp": "2026-07-19T03:34:10.296262"
     },
     {
       "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
@@ -281,7 +282,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260717/v2_3068ebe059a94b82854e08b606943872@5920579_oswg683953oswg712oswg530_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-07-18T03:13:48.624207"
+      "timestamp": "2026-07-19T03:34:10.296755"
     },
     {
       "title": "我们有多久，没长久地喜欢过一个东西了？",
@@ -292,7 +293,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260717/v2_695a76ff08fd4fe5a2b646d26886fe65@5679941_oswg653830oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-18T03:13:48.624831"
+      "timestamp": "2026-07-19T03:34:10.297246"
     },
     {
       "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
@@ -303,7 +304,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260717/v2_f3e09491e03042b7a249906c12161a42@517825446_oswg1556881oswg1990oswg660_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-07-18T03:13:48.625354"
+      "timestamp": "2026-07-19T03:34:10.297825"
     },
     {
       "title": "震业新材完成超亿元A轮融资，招商致远、玉柴股份、海富产业基金领投｜36氪首发",
@@ -314,7 +315,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.625867"
+      "timestamp": "2026-07-19T03:34:10.298343"
     },
     {
       "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
@@ -325,18 +326,51 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260717/v2_05fd6eb5360b4020bd04319290006794@5920579_oswg371311oswg459oswg700_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-07-18T03:13:48.626404"
+      "timestamp": "2026-07-19T03:34:10.298899"
     },
     {
-      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-      "url": "https://app.everything.diena.co/",
-      "summary": "I&#x27;m building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.This is a side-project where...",
+      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "url": "https://q3edit.com",
+      "summary": "I&#x27;ve been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain scul...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.634879"
+      "timestamp": "2026-07-19T03:34:10.307275"
+    },
+    {
+      "title": "Show HN: Flightwake – a flight recorder for AI coding agents, not a navigator",
+      "url": "https://github.com/kaiwutech-TW/flightwake",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-19T03:34:10.307943"
+    },
+    {
+      "title": "Show HN: IKEA Complexity Index",
+      "url": "https://ikea.greg.technology/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-19T03:34:10.308555"
+    },
+    {
+      "title": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+      "url": "https://ilya-papers-quest.naigap.com/#/",
+      "summary": "I wanted to take kimi k3 for a spin. It turned my simple one sentence prompt to this. \nRepo here. https:&#x2F;&#x2F;github.com&#x2F;praveer13&#x2F;ily...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-19T03:34:10.309166"
     },
     {
       "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
@@ -347,40 +381,40 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.635546"
+      "timestamp": "2026-07-19T03:34:10.309859"
     },
     {
-      "title": "Show HN: Instrumation a PYPI library for Instruments",
-      "url": "https://github.com/abduznik/instrumation",
+      "title": "Show HN: RewindCup – explore 23 World Cups on an interactive globe",
+      "url": "https://rewindcup.com",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.636136"
+      "timestamp": "2026-07-19T03:34:10.310482"
     },
     {
-      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
-      "url": "https://msap2.mehran.dk",
-      "summary": "5 years ago, I made a derivative of SAP-1 (mainly inspired by Ben Eater) on breadboard with few improvement and called it MSAP-1 (https:&#x2F;&#x2F;gi...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-18T03:13:48.636807"
-    },
-    {
-      "title": "Show HN: Qwen3.6-35B-A3B on a 16 GB M1 Pro with SSD-streamed MoE",
-      "url": "https://github.com/andreaborio/ds4",
+      "title": "Show HN: SDF Pelicans on Bicycle",
+      "url": "https://pelican.vibe-overflow.com/index.html",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.637436"
+      "timestamp": "2026-07-19T03:34:10.311139"
+    },
+    {
+      "title": "Show HN: Peek-CLI: Let Claude Code iterate on front end designs",
+      "url": "https://github.com/puffinsoft/peek-cli",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-07-19T03:34:10.311803"
     },
     {
       "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
@@ -391,51 +425,29 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.638032"
+      "timestamp": "2026-07-19T03:34:10.312499"
     },
     {
-      "title": "Show HN: The Port Index – 3,804 seaports and 9,640 airports, scored",
-      "url": "https://www.theportindex.online",
-      "summary": "",
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "summary": "I&#x27;m building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.This is a side-project where...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-07-18T03:13:48.638664"
+      "timestamp": "2026-07-19T03:34:10.313193"
     },
     {
-      "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
-      "url": "https://github.com/patonw/leaves",
-      "summary": "GUI disk analyzers are great for figuring out what&#x27;s filling up your laptop&#x2F;desktop drive.On containers or remote servers, the options are l...",
+      "title": "触乐本周行业大事：多家大厂发布半年度业绩预告，《追逐卡蕾多》开测，《雾影猎人》定档",
+      "url": "http://www.chuapp.com/article/291491.html",
+      "summary": "\n■ 世纪华通发布半年度业绩预告，出海产品保持高位增长\n\n7月14日，世纪华通发布2026年半年度业绩预告。预告中显示，经公司初步测算,预计2026 年上半年合并营业收入约220 亿元,同比增长约28%。其中游戏业务这一核心板块表现突出。\n这要归功于子公司的海外业务仍然呈现强势增长。世纪华通旗下Century Games的核心产品《无尽冬日》海外版6月再度荣登全球手游收入冠军；《奔奔王国》海外版持...",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-18T03:13:48.639273"
-    },
-    {
-      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
-      "url": "https://mojibake.zaerl.com/",
-      "summary": "I&#x27;ve written Mojibake because I don&#x27;t like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojib...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-18T03:13:48.639920"
-    },
-    {
-      "title": "Show HN: Tests.ws – WebSocket testing tools, language guides, Chrome extension",
-      "url": "https://tests.ws/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-07-18T03:13:48.640671"
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-17/4866a59f3e525db9.jpg?imageView2/2/w/700",
+      "timestamp": "2026-07-19T03:34:10.327242"
     },
     {
       "title": "腾讯把二游做成了Gal Game？",
@@ -446,7 +458,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-17/1426a59fc409f704.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-18T03:13:48.652827"
+      "timestamp": "2026-07-19T03:34:10.328027"
     },
     {
       "title": "拿到50万天使投资，44岁房地产老板开始做AI漫剧",
@@ -457,7 +469,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-17/9266a598bbcf3ba7.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-18T03:13:48.653554"
+      "timestamp": "2026-07-19T03:34:10.328778"
     },
     {
       "title": "触乐怪话：脑子会了，手还不会",
@@ -468,40 +480,29 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-16/6a58a4ab056ef.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-18T03:13:48.654255"
+      "timestamp": "2026-07-19T03:34:10.329607"
     },
     {
-      "title": "到中国去——波兰游戏开发者的中国探索之路",
-      "url": "http://www.chuapp.com/article/291487.html",
-      "summary": "&ldquo;所以，你能向我们提供什么帮助？&ldquo;我面前的波兰人双臂支在桌子上，严肃地看着我。我甚至可以清晰地看到他的淡灰蓝色的瞳孔。&rdquo;你看过了我们的游戏，现在我们在找它在中国的发行商，我们需要熟悉中国市场的合作伙伴，也在考虑进行资金方面的合作&mdash;&mdash;现在您可以告诉我，您可以为我们做点什么了。&rdquo;\n\n我参加的这场闭门交流会在这座老建筑里举行，据说这...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-16/7866a583dabc40a4.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-18T03:13:48.654983"
-    },
-    {
-      "title": "3D Checkers",
-      "url": "https://cyberlab.itch.io/3d-checkers",
-      "summary": "A 3D checkers game with AI opponent, local 2-player, and standard American rules. Runs entirely in your browser.",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI4NTYxMzkxLnBuZw==/315x250%23c/YGgexh.png",
-      "timestamp": "2026-07-18T03:13:48.655720"
-    },
-    {
-      "title": "Car Playground 3D",
-      "url": "https://jaxon719.itch.io/car-playground-3d",
+      "title": "Pixel Q (Your Personal AI Agent)",
+      "url": "https://store.steampowered.com/app/4736530",
       "summary": "",
       "pub_time": "",
+      "source": "Steam",
+      "category": "game",
+      "type": "art",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736530/d2fce6215eb175d9c6f4f7f6b7af459e21951b77/header.jpg?t=1784383695",
+      "timestamp": "2026-07-19T03:34:10.330353"
+    },
+    {
+      "title": "Imperfectly Balanced Prototype",
+      "url": "https://bard4dayz.itch.io/untitled-stacking-game-prototype",
+      "summary": "Prototype of a 3D physics game where you stack random objects to increasing heights.",
+      "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI4NTY0NzAzLnBuZw==/315x250%23c/CL%2BAlE.png",
-      "timestamp": "2026-07-18T03:13:48.656484"
+      "image": "https://img.itch.zone/aW1nLzI4NTg2NTY2LnBuZw==/315x250%23c/txJQIM.png",
+      "timestamp": "2026-07-19T03:34:10.331134"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -512,7 +513,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-07-18T03:13:48.657235"
+      "timestamp": "2026-07-19T03:34:10.331931"
     },
     {
       "title": "触乐怪话：观看BW搭建",
@@ -523,7 +524,18 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-17/6a59fa53c4011.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-18T03:13:48.658011"
+      "timestamp": "2026-07-19T03:34:10.332738"
+    },
+    {
+      "title": "Wallpaper Engine：壁纸引擎",
+      "url": "https://store.steampowered.com/app/431960",
+      "summary": "",
+      "pub_time": "",
+      "source": "Steam",
+      "category": "game",
+      "type": "tech",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header_schinese.jpg?t=1779452230",
+      "timestamp": "2026-07-19T03:34:10.333530"
     },
     {
       "title": "触乐怪话：索尼取消实体光盘令人无奈，但它早晚会来",
@@ -534,52 +546,63 @@
       "category": "game",
       "type": "tech",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-15/6a5744c71e9b8.jpg?imageView2/2/w/700",
-      "timestamp": "2026-07-18T03:13:48.658802"
+      "timestamp": "2026-07-19T03:34:10.340679"
     },
     {
-      "title": "Craftpix Indie Jam 2",
-      "url": "https://gamedev.net/news/craftpix-indie-jam-2-r2964",
-      "summary": "This time, we’re not just focusing on making games — we’re helping them get seen. We want as many people as possible to discover your project.Let’s jam. Let’s go viral. Let’s create big fun — together...",
+      "title": "Cars as Shoes",
+      "url": "https://frioneon.itch.io/cars-as-shoes",
+      "summary": "Driving down the highway in my cars as shoes (Kenney Game Jam 2026)",
       "pub_time": "",
-      "source": "GameDev.net",
+      "source": "itch.io",
       "category": "game",
-      "type": "tech",
-      "image": "",
-      "timestamp": "2026-07-18T03:13:48.659610"
+      "type": "indie",
+      "image": "https://img.itch.zone/aW1nLzI4NTg2MjAwLnBuZw==/315x250%23c/QpqbZ5.png",
+      "timestamp": "2026-07-19T03:34:10.341503"
     },
     {
-      "title": "三国：谋定天下",
-      "url": "https://store.steampowered.com/app/4542640",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "game",
+      "type": "indie",
+      "image": "/hardcore-indieweb/og.png",
+      "timestamp": "2026-07-19T03:34:10.342371"
+    },
+    {
+      "title": "Cryptr",
+      "url": "https://store.steampowered.com/app/1972360",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542640/fb2c3041e71251456359876acfd5bf7d18e7df52/header_schinese.jpg?t=1784339593",
-      "timestamp": "2026-07-18T03:13:48.660431"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972360/header.jpg?t=1784426855",
+      "timestamp": "2026-07-19T03:34:10.343248"
     },
     {
-      "title": "猫咪攀爬",
-      "url": "https://store.steampowered.com/app/2965020",
+      "title": "Disconnect 2",
+      "url": "https://store.steampowered.com/app/3428870",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2965020/beec20f0f63caf0369957956ac393074ed9d78d8/header.jpg?t=1784336338",
-      "timestamp": "2026-07-18T03:13:48.661238"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/2d7008defe97a0f6f39cf21a40e77e8c8b6d8d1a/header.jpg?t=1784405810",
+      "timestamp": "2026-07-19T03:34:10.344186"
     },
     {
-      "title": "Knights vs Aliens",
-      "url": "https://store.steampowered.com/app/4805390",
+      "title": "Race the Planet",
+      "url": "https://store.steampowered.com/app/4303210",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4805390/a800150ac145f5c35ee001fbcf4290466658bf2b/header.jpg?t=1784333304",
-      "timestamp": "2026-07-18T03:13:48.662094"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303210/48209fad41e2de9a0a059d272dae2f08642d4cd3/header.jpg?t=1784389842",
+      "timestamp": "2026-07-19T03:34:10.345142"
     }
   ],
-  "last_cleanup": "2026-07-18T03:13:48.662112"
+  "last_cleanup": "2026-07-19T03:34:10.345161"
 }
