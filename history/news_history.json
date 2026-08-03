@@ -1,206 +1,213 @@
 {
   "news": [
     {
-      "title": "MoonshotAI/Kimi-K3",
-      "url": "https://github.com/MoonshotAI/Kimi-K3",
-      "description": "Open Frontier Intelligence",
-      "language": null,
-      "stars": 7830,
-      "forks": 562,
-      "watchers": 7830,
-      "created_at": "2026-07-27T08:01:37Z",
-      "updated_at": "2026-08-02T03:05:46Z",
-      "topics": [],
-      "license": "Other",
-      "homepage": null,
-      "open_issues": 17,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "7.8K",
-      "timestamp": "2026-08-02T03:36:47.844012"
-    },
-    {
       "title": "yc-software/qm",
       "url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "language": "TypeScript",
-      "stars": 5166,
-      "forks": 521,
-      "watchers": 5166,
+      "stars": 7518,
+      "forks": 787,
+      "watchers": 7518,
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-02T03:34:12Z",
+      "updated_at": "2026-08-03T03:37:06Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "https://qm.ycombinator.com",
-      "open_issues": 65,
+      "open_issues": 92,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "5.2K",
-      "timestamp": "2026-08-02T03:36:47.844225"
+      "stars_formatted": "7.5K",
+      "timestamp": "2026-08-03T03:38:49.295980"
     },
     {
       "title": "bashalarmistalt/decimen-optical-transfer",
       "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": "",
       "language": "TypeScript",
-      "stars": 3117,
-      "forks": 366,
-      "watchers": 3117,
+      "stars": 3742,
+      "forks": 431,
+      "watchers": 3742,
       "created_at": "2026-07-30T18:17:54Z",
-      "updated_at": "2026-08-02T03:32:54Z",
+      "updated_at": "2026-08-03T03:37:15Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "https://decimen.app/",
-      "open_issues": 4,
+      "open_issues": 7,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "3.1K",
-      "timestamp": "2026-08-02T03:36:47.844447"
+      "stars_formatted": "3.7K",
+      "timestamp": "2026-08-03T03:38:49.296205"
     },
     {
-      "title": "QwenAudio/qwen-audio-agent",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "language": "JavaScript",
-      "stars": 1365,
-      "forks": 89,
-      "watchers": 1365,
-      "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-02T03:33:43Z",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "voice-agent",
-        "voice-ai",
-        "voice-chat"
-      ],
-      "license": "Apache License 2.0",
-      "homepage": "",
-      "open_issues": 10,
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "language": "TypeScript",
+      "stars": 1902,
+      "forks": 231,
+      "watchers": 1902,
+      "created_at": "2026-07-31T21:38:51Z",
+      "updated_at": "2026-08-03T03:34:21Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": "https://trycomp.ai",
+      "open_issues": 1,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.4K",
-      "timestamp": "2026-08-02T03:36:47.844931"
+      "stars_formatted": "1.9K",
+      "timestamp": "2026-08-03T03:38:49.296447"
     },
     {
       "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "language": null,
-      "stars": 1105,
-      "forks": 146,
-      "watchers": 1105,
+      "stars": 1663,
+      "forks": 219,
+      "watchers": 1663,
       "created_at": "2026-07-30T05:39:38Z",
-      "updated_at": "2026-08-02T03:35:45Z",
+      "updated_at": "2026-08-03T03:37:37Z",
       "topics": [],
       "license": "",
       "homepage": null,
-      "open_issues": 6,
+      "open_issues": 7,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-08-02T03:36:47.845291"
+      "stars_formatted": "1.7K",
+      "timestamp": "2026-08-03T03:38:49.296880"
     },
     {
-      "title": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 782,
-      "forks": 101,
-      "watchers": 782,
-      "created_at": "2026-07-31T21:38:51Z",
-      "updated_at": "2026-08-02T03:35:26Z",
-      "topics": [],
+      "title": "WilonityDev/WilonityLoader",
+      "url": "https://github.com/WilonityDev/WilonityLoader",
+      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWI...",
+      "language": null,
+      "stars": 1216,
+      "forks": 0,
+      "watchers": 1216,
+      "created_at": "2026-07-31T07:53:54Z",
+      "updated_at": "2026-08-03T02:46:03Z",
+      "topics": [
+        "arc-raiders",
+        "counter-strike-2",
+        "game",
+        "hack",
+        "meccha-chameleon-tools",
+        "minecraft"
+      ],
       "license": "MIT License",
-      "homepage": null,
-      "open_issues": 2,
+      "homepage": "https://wilonity.xyz",
+      "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "782",
-      "timestamp": "2026-08-02T03:36:47.845722"
-    },
-    {
-      "title": "xikhar/persona",
-      "url": "https://github.com/xikhar/persona",
-      "description": "Bringing real-time voice to life.",
-      "language": "JavaScript",
-      "stars": 768,
-      "forks": 68,
-      "watchers": 768,
-      "created_at": "2026-07-28T11:40:19Z",
-      "updated_at": "2026-08-02T03:04:08Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 3,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "768",
-      "timestamp": "2026-08-02T03:36:47.846080"
+      "stars_formatted": "1.2K",
+      "timestamp": "2026-08-03T03:38:49.297376"
     },
     {
       "title": "sqliteai/waste",
       "url": "https://github.com/sqliteai/waste",
       "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
       "language": "C",
-      "stars": 700,
-      "forks": 66,
-      "watchers": 700,
+      "stars": 1139,
+      "forks": 95,
+      "watchers": 1139,
       "created_at": "2026-07-28T20:56:00Z",
-      "updated_at": "2026-08-02T03:15:08Z",
+      "updated_at": "2026-08-03T03:37:43Z",
       "topics": [],
       "license": "Apache License 2.0",
-      "homepage": "",
-      "open_issues": 2,
+      "homepage": "https://sqlite.ai",
+      "open_issues": 3,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "700",
-      "timestamp": "2026-08-02T03:36:47.846440"
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-08-03T03:38:49.297805"
     },
     {
-      "title": "gavamedia/deltafin",
-      "url": "https://github.com/gavamedia/deltafin",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "language": "Python",
-      "stars": 595,
-      "forks": 67,
-      "watchers": 595,
-      "created_at": "2026-07-28T01:01:23Z",
-      "updated_at": "2026-08-02T02:01:03Z",
+      "title": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Mic...",
+      "language": "TypeScript",
+      "stars": 881,
+      "forks": 99,
+      "watchers": 881,
+      "created_at": "2026-07-29T18:16:14Z",
+      "updated_at": "2026-08-03T03:36:06Z",
       "topics": [
-        "kimi",
-        "kimi-k3",
-        "local-ai",
-        "local-llm"
+        "agent-skills",
+        "ai-agents",
+        "automation",
+        "copilot",
+        "copilot-cli",
+        "copilot-cowork",
+        "copilot-studio",
+        "electron",
+        "microsoft-scout",
+        "screen-recording"
       ],
-      "license": "Other",
-      "homepage": "",
-      "open_issues": 6,
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 29,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "595",
-      "timestamp": "2026-08-02T03:36:47.846853"
+      "stars_formatted": "881",
+      "timestamp": "2026-08-03T03:38:49.298253"
+    },
+    {
+      "title": "xikhar/persona",
+      "url": "https://github.com/xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "language": "JavaScript",
+      "stars": 795,
+      "forks": 72,
+      "watchers": 795,
+      "created_at": "2026-07-28T11:40:19Z",
+      "updated_at": "2026-08-03T02:38:44Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": "",
+      "open_issues": 1,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "795",
+      "timestamp": "2026-08-03T03:38:49.298716"
+    },
+    {
+      "title": "DannyMac180/sol-advisor",
+      "url": "https://github.com/DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "language": "Shell",
+      "stars": 710,
+      "forks": 47,
+      "watchers": 710,
+      "created_at": "2026-08-01T13:56:43Z",
+      "updated_at": "2026-08-03T03:37:45Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 1,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "710",
+      "timestamp": "2026-08-03T03:38:49.299172"
     },
     {
       "title": "talivia-group/talivia",
       "url": "https://github.com/talivia-group/talivia",
       "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "language": "TypeScript",
-      "stars": 594,
-      "forks": 48,
-      "watchers": 594,
+      "stars": 653,
+      "forks": 68,
+      "watchers": 653,
       "created_at": "2026-07-29T07:56:49Z",
-      "updated_at": "2026-08-02T03:31:26Z",
+      "updated_at": "2026-08-03T03:10:00Z",
       "topics": [
         "analytics",
         "bing",
@@ -222,8 +229,30 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "594",
-      "timestamp": "2026-08-02T03:36:47.847243"
+      "stars_formatted": "653",
+      "timestamp": "2026-08-03T03:38:49.299651"
+    },
+    {
+      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+      "url": "https://36kr.com/p/3919025939246727?f=rss",
+      "summary": "文 | 赵京娜\n  访谈 编辑 | 海若镜\n  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。\n  奇点逃逸创始...",
+      "pub_time": "2026-08-03 08:10:16  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260802/v2_5d08f250865b441eb8ff5e0bf529bcf7@5452796_oswg3981725oswg4000oswg2667_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "timestamp": "2026-08-03T03:38:49.315340"
+    },
+    {
+      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+      "url": "https://36kr.com/p/3923043072634498?f=rss",
+      "summary": "今日热点导览\n  马斯克关注了DeepSeek的X账号\n  祥鹏航空回应航班误发过期方便面\n  OpenAI或将IPO推迟到明年\n  SpaceX首份财报即将发布\n  小米多款手机正式涨价\n  每月10万美元，特朗普“真实社交”售卖“优先访问权”\n  TOP3大新闻\n  蔡崇信宣布离婚，不涉及出售阿...",
+      "pub_time": "2026-08-03 08:07:39  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-03T03:38:49.315806"
     },
     {
       "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
@@ -234,7 +263,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260801/v2_3937073717a846c2b4d7b5efc233fc10@16519798_oswg220467oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-08-02T03:36:47.861454"
+      "timestamp": "2026-08-03T03:38:49.316313"
     },
     {
       "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
@@ -245,7 +274,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.861921"
+      "timestamp": "2026-08-03T03:38:49.316890"
     },
     {
       "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
@@ -256,7 +285,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260731/v2_2865fd966954450d8a5aa089f8f9fe22@6162492_oswg82637oswg1000oswg230_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-08-02T03:36:47.862383"
+      "timestamp": "2026-08-03T03:38:49.317383"
     },
     {
       "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
@@ -267,18 +296,18 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg1250_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-08-02T03:36:47.862930"
+      "timestamp": "2026-08-03T03:38:49.317923"
     },
     {
       "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
       "url": "https://36kr.com/p/3919378312670857?f=rss",
-      "summary": "大公司：\n  途牛：8月中上旬或将迎新一轮客流高峰\n  36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为...",
+      "summary": "大公司：\n  途牛：8月中上旬��将迎新一轮客流高峰\n  36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成...",
       "pub_time": "2026-07-31 18:01:34  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.863403"
+      "timestamp": "2026-08-03T03:38:49.318463"
     },
     {
       "title": "开云的转折：在中国，做一个AI乐观派",
@@ -289,7 +318,7 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260731/v2_93f35a5ba3424ae99e3d2c185a0e3281@394564713_oswg1652050oswg1184oswg1480_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-08-02T03:36:47.863942"
+      "timestamp": "2026-08-03T03:38:49.318998"
     },
     {
       "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
@@ -300,7 +329,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.864434"
+      "timestamp": "2026-08-03T03:38:49.319564"
     },
     {
       "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
@@ -311,150 +340,139 @@
       "category": "startup",
       "type": "investment",
       "image": "https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-08-02T03:36:47.865121"
+      "timestamp": "2026-08-03T03:38:49.320120"
     },
     {
-      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
-      "url": "https://36kr.com/p/3919271016263303?f=rss",
-      "summary": "文｜张子怡\n  编辑｜袁斯来\n  低空经济正从飞行器制造走向城市治理。\n  7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网...",
-      "pub_time": "2026-07-31 16:12:09  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-08-02T03:36:47.865644"
-    },
-    {
-      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
-      "url": "https://36kr.com/p/3919137999957382?f=rss",
-      "summary": "AI在企业端的快速渗透正在被持续验证。\n  7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。\n  分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。...",
-      "pub_time": "2026-07-31 14:00:25  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-08-02T03:36:47.866195"
-    },
-    {
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.873122"
+      "timestamp": "2026-08-03T03:38:49.328170"
     },
     {
-      "title": "Show HN: FirstEmployee.ai – Start a Business",
-      "url": "https://firstemployee.ai/",
+      "title": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.873732"
+      "timestamp": "2026-08-03T03:38:49.328827"
     },
     {
-      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://costperprompt.com/",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.874308"
+      "timestamp": "2026-08-03T03:38:49.329481"
     },
     {
-      "title": "Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
-      "url": "https://github.com/nooneknowspeter/legionlinuxtui",
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "url": "https://handwritten.blog/",
+      "summary": "The idea is a place for beautiful notes like https:&#x2F;&#x2F;insidevoices.handwritten.blog.",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-03T03:38:49.330112"
+    },
+    {
+      "title": "Show HN: Mu – Tools for Agents",
+      "url": "https://github.com/micro/mu",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.874910"
+      "timestamp": "2026-08-03T03:38:49.330759"
     },
     {
-      "title": "Show HN: Elevators",
-      "url": "https://john.fun/elevators",
+      "title": "Show HN: Make your Framework 12 sound like a creaky door",
+      "url": "https://github.com/ArcaEge/creakwork12",
+      "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a ...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-03T03:38:49.331488"
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a ...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-03T03:38:49.332159"
+    },
+    {
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "url": "https://github.com/pg83/shitty",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.875560"
+      "timestamp": "2026-08-03T03:38:49.332840"
     },
     {
-      "title": "Show HN: Symbio self fine-tuning AI loop",
-      "url": "https://github.com/huyedits/Symbio",
-      "summary": "It trains based off the mistakes it made with the solution you gave OR what it got. Thank you for reading",
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "summary": "Hi HN! I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a cent...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.876219"
+      "timestamp": "2026-08-03T03:38:49.333598"
     },
     {
-      "title": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
-      "url": "https://watm.ddyo.dev/",
-      "summary": "",
+      "title": "Show HN: Fuse – statically typed functional programming language",
+      "url": "https://fuselang.org",
+      "summary": "Hi HN! I&#x27;ve been working on the fuse programming language, it&#x27;s a statically typed purely functional language with higher-kinder types and a...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.876863"
+      "timestamp": "2026-08-03T03:38:49.334274"
     },
     {
-      "title": "Show HN: Evidence-to-Skill – a gate between untrusted sources and agent skills",
-      "url": "https://github.com/Sanexxxx777/evidence-to-skill",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-02T03:36:47.877485"
-    },
-    {
-      "title": "Show HN: Copy any website pixel perfect",
-      "url": "https://github.com/HarKro753/claude-copy",
-      "summary": "This repository which i built dosent allow claue to guess the dimensions, it iterates the ui till it looks 100% like the original.",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-02T03:36:47.878138"
-    },
-    {
-      "title": "Show HN: I made 70K+ hand-drawn icons using AI",
-      "url": "https://koboyo.com/icons",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-02T03:36:47.878801"
-    },
-    {
-      "title": "Blazing Spiceholics",
-      "url": "https://voidproc.itch.io/blazing-spiceholics",
-      "summary": "A retro-style top-down action puzzle about a spice-loving girl who breathes fire.",
+      "title": "Snake 2.0 Premium",
+      "url": "https://crazier-dragon.itch.io/snake-2-premium",
+      "summary": "The ultimate classic snake game, supercharged with premium skins, game-changing power-ups, and smooth gameplay!",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzI5MDAwMzUwLnBuZw==/315x250%23c/4fN%2FXx.png",
-      "timestamp": "2026-08-02T03:36:47.890166"
+      "image": "https://img.itch.zone/aW1nLzI5MDIyMzkwLnBuZw==/315x250%23c/mP3VQd.png",
+      "timestamp": "2026-08-03T03:38:49.347980"
+    },
+    {
+      "title": "我在《英雄联盟》经典模式回到过去",
+      "url": "http://www.chuapp.com/article/291525.html",
+      "summary": "我的《英雄联盟》生涯里有一个难以弥补的遗憾。\n那是S3赛季，是我玩《英雄联盟》的第二个赛季，我打到了钻石1，那时还没有宗师、大师的概念，在段位结算的最后一天夜里，我距离王者只差一场晋级赛。那场比赛输了，赛季也随之结束，也许是我此生唯一一次上王者的机会在那一刻终结。\n从那以后，我再也没打到过大师以上。那个赛季我最喜欢玩劫，多半是受了Faker的影响，一共打了600多场排位，也是我最有时间玩游戏的日子...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-02/1156a6f0d5f7743a.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-03T03:38:49.348774"
     },
     {
       "title": "“与AI同游”：今年的ChinaJoy，把AI写进了主题",
@@ -465,7 +483,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-01/2616a6d704e833c6.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-02T03:36:47.890902"
+      "timestamp": "2026-08-03T03:38:49.349662"
     },
     {
       "title": "当AI开始重写小游戏生产流程，真正的变化何时发生？",
@@ -476,29 +494,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-31/4476a6c67ff3472d.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-02T03:36:47.891610"
-    },
-    {
-      "title": "触乐怪话：AI做游戏，AI选游戏，可行吗？",
-      "url": "http://www.chuapp.com/article/291514.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n前段时间，我看了一则讨论Steam 6月新品节的视频。视频标题相当直白&mdash;&mdash;《Steam 6月新品节被AI灌爆了！1700个AI内容Demo！高达40%！》。作者统计，Steam 6月新品节共有4227款游戏参加，其中带有AI内容披露的Demo竟然有1694个，&ldquo;AI比例&rdquo;高达40...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-29/6a69d33bd7e08.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-02T03:36:47.892376"
-    },
-    {
-      "title": "INPUT NEEDED",
-      "url": "https://benjammin1391.itch.io/input-needed",
-      "summary": "A deliberately boring audiovisual vigilance game.",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI4OTk5Nzg1LnBuZw==/315x250%23c/Pra0R1.png",
-      "timestamp": "2026-08-02T03:36:47.893136"
+      "timestamp": "2026-08-03T03:38:49.350451"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -509,7 +505,18 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-08-02T03:36:47.893891"
+      "timestamp": "2026-08-03T03:38:49.351223"
+    },
+    {
+      "title": "触乐怪话：可能是Switch 2上唯一有用的散热器",
+      "url": "http://www.chuapp.com/article/291523.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n小罗一针见血地指出水冷比风冷好（图/小罗）\n\n先说结论：如果你想买一款给Switch 2在底座模式下使用的散热器，我建议你选择澳加狮的这款抽风式散热器。从原理上说，它能提高Switch 2主机散热风扇的效率，更快地把热量从机身内部抽走，从而降低CPU附近的温度。\n\n就是这个长得像迷你空调室外机的玩意\n\n如果你还有空闲和兴趣，也可以看完这篇...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "art",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-31/6a6c6b4571bb5.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-03T03:38:49.352034"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -520,18 +527,18 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-08-02T03:36:47.894635"
+      "timestamp": "2026-08-03T03:38:49.352864"
     },
     {
-      "title": "触乐怪话：愿还是不要乱许",
-      "url": "http://www.chuapp.com/article/291509.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n愿望许下后，实现它的路径有多种（图/小罗）\n\n在现实生活里，有几个经典的&ldquo;许愿&rdquo;场景，像是吹生日蜡烛之前，或者看到流星划过的那一刻。不过我们心里也清楚，所谓的&ldquo;许愿&rdquo;更多是一种安慰和祝福罢了。但如果真的有一种道具，能让你的一个愿望成真，你会怎么使用呢？比如阿拉丁神灯或者型月宇宙里的圣杯，以及...",
+      "title": "获1.66亿投资开发《明末》续作后，我们和夏思源聊了聊",
+      "url": "http://www.chuapp.com/article/291526.html",
+      "summary": "7月29日，505 Games宣布，已与夏思源及其新工作室成都递归海豚科技有限公司达成合作，双方将共同打造&ldquo;无常&rdquo;系列IP的全新篇章。\n505 Games母公司Digital Bros随后发布的公告进一步表示：这款&ldquo;无常&rdquo;系列IP新作即是《明末：渊虚之羽》（下称《明末》）的续作，项目初始投资约为2150万欧元（约合人民币1.66亿元）。505 Gam...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "narrative",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-27/6a6712822a314.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-02T03:36:47.895518"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-02/7236a6f32047e665.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-03T03:38:49.353705"
     },
     {
       "title": "触乐怪话：在商场寻找新鲜事",
@@ -542,7 +549,7 @@
       "category": "game",
       "type": "tech",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-30/6a6afc6a91a3b.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-02T03:36:47.896356"
+      "timestamp": "2026-08-03T03:38:49.354555"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -553,41 +560,63 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-02T03:36:47.897234"
+      "timestamp": "2026-08-03T03:38:49.355396"
     },
     {
-      "title": "Morphing Blocks",
-      "url": "https://store.steampowered.com/app/4790300",
+      "title": "The Choosen one",
+      "url": "https://lilithguild.itch.io/the-choosen-one",
+      "summary": "Entry for trijam 3h game jam # 383",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "indie",
+      "image": "https://img.itch.zone/aW1nLzI5MDIyNjk3LnBuZw==/315x250%23c/PxfKKK.png",
+      "timestamp": "2026-08-03T03:38:49.356272"
+    },
+    {
+      "title": "PSI WARD",
+      "url": "https://honestpawn.itch.io/psi-ward",
+      "summary": "game made in 72hours for mini jam 216",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "indie",
+      "image": "https://img.itch.zone/aW1nLzI5MDIyMzU1LnBuZw==/315x250%23c/n2XQYB.png",
+      "timestamp": "2026-08-03T03:38:49.357168"
+    },
+    {
+      "title": "My Merry May with be",
+      "url": "https://store.steampowered.com/app/1955730",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790300/2dbb5fd842357b82b99ebf62398d141175302505/header.jpg?t=1785627576",
-      "timestamp": "2026-08-02T03:36:47.898064"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955730/64c1918ff49f811aa636de56ed2c02c1f1f3a40e/header.jpg?t=1785718531",
+      "timestamp": "2026-08-03T03:38:49.358059"
     },
     {
-      "title": "Ore & Odds",
-      "url": "https://store.steampowered.com/app/4166740",
+      "title": "Cyberpunk Inquisitor",
+      "url": "https://store.steampowered.com/app/2957350",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/0a23c9ff88535af6a47bdb44cabed10c2c41a53f/header.jpg?t=1785622139",
-      "timestamp": "2026-08-02T03:36:47.898901"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957350/a6879df4426736a86844ba16d36e38c8f79765fd/header.jpg?t=1785717029",
+      "timestamp": "2026-08-03T03:38:49.360142"
     },
     {
-      "title": "TRAUMAHACK",
-      "url": "https://store.steampowered.com/app/4694660",
+      "title": "Soul Scroll",
+      "url": "https://store.steampowered.com/app/4314050",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694660/7381d14f97be045352a7a4a30a0658149fdc5d7f/header.jpg?t=1785630002",
-      "timestamp": "2026-08-02T03:36:47.899752"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314050/9058618e4d44130676145748c4f08b22e66790f3/header.jpg?t=1785709686",
+      "timestamp": "2026-08-03T03:38:49.361134"
     }
   ],
-  "last_cleanup": "2026-08-02T03:36:47.899770"
+  "last_cleanup": "2026-08-03T03:38:49.361153"
 }
