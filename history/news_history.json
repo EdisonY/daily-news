@@ -1,357 +1,147 @@
 {
   "news": [
     {
-      "title": "yc-software/qm",
-      "url": "https://github.com/yc-software/qm",
-      "description": "Multiplayer agent harness for work",
-      "language": "TypeScript",
-      "stars": 7518,
-      "forks": 787,
-      "watchers": 7518,
-      "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-03T03:37:06Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "https://qm.ycombinator.com",
-      "open_issues": 92,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "7.5K",
-      "timestamp": "2026-08-03T03:38:49.295980"
-    },
-    {
-      "title": "bashalarmistalt/decimen-optical-transfer",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 3742,
-      "forks": 431,
-      "watchers": 3742,
-      "created_at": "2026-07-30T18:17:54Z",
-      "updated_at": "2026-08-03T03:37:15Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "https://decimen.app/",
-      "open_issues": 7,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "3.7K",
-      "timestamp": "2026-08-03T03:38:49.296205"
-    },
-    {
-      "title": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "description": "An open-source, agentic-first CRM.",
-      "language": "TypeScript",
-      "stars": 1902,
-      "forks": 231,
-      "watchers": 1902,
-      "created_at": "2026-07-31T21:38:51Z",
-      "updated_at": "2026-08-03T03:34:21Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "https://trycomp.ai",
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.9K",
-      "timestamp": "2026-08-03T03:38:49.296447"
-    },
-    {
-      "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-      "language": null,
-      "stars": 1663,
-      "forks": 219,
-      "watchers": 1663,
-      "created_at": "2026-07-30T05:39:38Z",
-      "updated_at": "2026-08-03T03:37:37Z",
-      "topics": [],
-      "license": "",
-      "homepage": null,
-      "open_issues": 7,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.7K",
-      "timestamp": "2026-08-03T03:38:49.296880"
-    },
-    {
-      "title": "WilonityDev/WilonityLoader",
-      "url": "https://github.com/WilonityDev/WilonityLoader",
-      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWI...",
-      "language": null,
-      "stars": 1216,
-      "forks": 0,
-      "watchers": 1216,
-      "created_at": "2026-07-31T07:53:54Z",
-      "updated_at": "2026-08-03T02:46:03Z",
-      "topics": [
-        "arc-raiders",
-        "counter-strike-2",
-        "game",
-        "hack",
-        "meccha-chameleon-tools",
-        "minecraft"
-      ],
-      "license": "MIT License",
-      "homepage": "https://wilonity.xyz",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.2K",
-      "timestamp": "2026-08-03T03:38:49.297376"
-    },
-    {
-      "title": "sqliteai/waste",
-      "url": "https://github.com/sqliteai/waste",
-      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
-      "language": "C",
-      "stars": 1139,
-      "forks": 95,
-      "watchers": 1139,
-      "created_at": "2026-07-28T20:56:00Z",
-      "updated_at": "2026-08-03T03:37:43Z",
-      "topics": [],
-      "license": "Apache License 2.0",
-      "homepage": "https://sqlite.ai",
-      "open_issues": 3,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-08-03T03:38:49.297805"
-    },
-    {
-      "title": "microsoft/skill-recorder",
-      "url": "https://github.com/microsoft/skill-recorder",
-      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Mic...",
-      "language": "TypeScript",
-      "stars": 881,
-      "forks": 99,
-      "watchers": 881,
-      "created_at": "2026-07-29T18:16:14Z",
-      "updated_at": "2026-08-03T03:36:06Z",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "automation",
-        "copilot",
-        "copilot-cli",
-        "copilot-cowork",
-        "copilot-studio",
-        "electron",
-        "microsoft-scout",
-        "screen-recording"
-      ],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 29,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "881",
-      "timestamp": "2026-08-03T03:38:49.298253"
-    },
-    {
-      "title": "xikhar/persona",
-      "url": "https://github.com/xikhar/persona",
-      "description": "Bringing real-time voice to life.",
-      "language": "JavaScript",
-      "stars": 795,
-      "forks": 72,
-      "watchers": 795,
-      "created_at": "2026-07-28T11:40:19Z",
-      "updated_at": "2026-08-03T02:38:44Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "795",
-      "timestamp": "2026-08-03T03:38:49.298716"
-    },
-    {
-      "title": "DannyMac180/sol-advisor",
-      "url": "https://github.com/DannyMac180/sol-advisor",
-      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "language": "Shell",
-      "stars": 710,
-      "forks": 47,
-      "watchers": 710,
-      "created_at": "2026-08-01T13:56:43Z",
-      "updated_at": "2026-08-03T03:37:45Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "710",
-      "timestamp": "2026-08-03T03:38:49.299172"
-    },
-    {
-      "title": "talivia-group/talivia",
-      "url": "https://github.com/talivia-group/talivia",
-      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "language": "TypeScript",
-      "stars": 653,
-      "forks": 68,
-      "watchers": 653,
-      "created_at": "2026-07-29T07:56:49Z",
-      "updated_at": "2026-08-03T03:10:00Z",
-      "topics": [
-        "analytics",
-        "bing",
-        "datafast",
-        "dodopayments",
-        "google-search",
-        "lemonsqueezy",
-        "polar",
-        "product-analytics",
-        "revenue-analytics",
-        "revenue-attribution",
-        "session-replay",
-        "stripe",
-        "web-analytics"
-      ],
-      "license": "MIT License",
-      "homepage": "https://talivia.com",
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "653",
-      "timestamp": "2026-08-03T03:38:49.299651"
-    },
-    {
-      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-      "url": "https://36kr.com/p/3919025939246727?f=rss",
-      "summary": "文 | 赵京娜\n  访谈 编辑 | 海若镜\n  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。\n  奇点逃逸创始...",
-      "pub_time": "2026-08-03 08:10:16  +0800",
+      "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+      "url": "https://36kr.com/p/3924634192673153?f=rss",
+      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、...",
+      "pub_time": "2026-08-04 11:05:05  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260802/v2_5d08f250865b441eb8ff5e0bf529bcf7@5452796_oswg3981725oswg4000oswg2667_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "timestamp": "2026-08-03T03:38:49.315340"
+      "image": "https://img.36krcdn.com/hsossms/20260804/v2_417460d9d05146619a1941f2534593f9@5920579_oswg383119oswg868oswg482_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.832176"
     },
     {
-      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-      "url": "https://36kr.com/p/3923043072634498?f=rss",
-      "summary": "今日热点导览\n  马斯克关注了DeepSeek的X账号\n  祥鹏航空回应航班误发过期方便面\n  OpenAI或将IPO推迟到明年\n  SpaceX首份财报即将发布\n  小米多款手机正式涨价\n  每月10万美元，特朗普“真实社交”售卖“优先访问权”\n  TOP3大新闻\n  蔡崇信宣布离婚，不涉及出售阿...",
-      "pub_time": "2026-08-03 08:07:39  +0800",
+      "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+      "url": "https://36kr.com/p/3924628805351811?f=rss",
+      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.4亿元融资。本轮融资由前海金控，广州国控，海川聚义，杭州众燊参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市...",
+      "pub_time": "2026-08-04 10:59:50  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260804/v2_4892712f032541ed9fa28ea9f6975611@5920579_oswg321742oswg1080oswg496_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.832433"
+    },
+    {
+      "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+      "url": "https://36kr.com/p/3924467692927369?f=rss",
+      "summary": "今日热点导览\n  OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题\n  江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万\n  iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售\n  多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药\n  王思聪...",
+      "pub_time": "2026-08-04 08:18:04  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260804/v2_317ce0858ece4e6fbfc86e6269c99ab2@5667365_oswg351515oswg1006oswg1008_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.832664"
+    },
+    {
+      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+      "url": "https://36kr.com/p/3923717502072969?f=rss",
+      "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？\n  内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终...",
+      "pub_time": "2026-08-03 19:39:13  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_bd6853577f0346cd9136839e0a4f3e21@16519798_oswg759632oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.833021"
+    },
+    {
+      "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+      "url": "https://36kr.com/p/3923603053686151?f=rss",
+      "summary": "\n  图片1\n  &nbsp;\n  今日A股收盘数据\n  上证指数：3809.66&nbsp;点，-0.59%\n  深证成指：13448.29&nbsp;点，-0.96%\n  创业板指：3302.55&nbsp;点，-1.24%\n  &nbsp;\n  德明利8月3日下跌9.56%\n  349.00 ...",
+      "pub_time": "2026-08-03 17:44:31  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.833827"
+    },
+    {
+      "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+      "url": "https://36kr.com/p/3923465542364545?f=rss",
+      "summary": "其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。\n  这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？\n  围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一...",
+      "pub_time": "2026-08-03 16:12:09  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_b8a25b6679284399912faee0a8687d02@5284654_oswg431142oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.834199"
+    },
+    {
+      "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+      "url": "https://36kr.com/p/3923374038265217?f=rss",
+      "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。\n  量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。...",
+      "pub_time": "2026-08-03 13:43:36  +0800",
+      "source": "36氪",
+      "category": "startup",
+      "type": "investment",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_a1cc1824150a471a80ba772bb4f40ea1@6310669_oswg96227oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.834558"
+    },
+    {
+      "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+      "url": "https://36kr.com/p/3923371035831684?f=rss",
+      "summary": "文｜张子怡\n  编辑｜袁斯来\n  36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n  「轻量智造」成立于202...",
+      "pub_time": "2026-08-03 13:40:12  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.315806"
+      "timestamp": "2026-08-04T03:22:42.834937"
     },
     {
-      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-      "url": "https://36kr.com/p/3920595518533250?f=rss",
-      "summary": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;\n  因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 Ch...",
-      "pub_time": "2026-08-01 14:37:32  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260801/v2_3937073717a846c2b4d7b5efc233fc10@16519798_oswg220467oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-08-03T03:38:49.316313"
-    },
-    {
-      "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
-      "url": "https://36kr.com/p/3920241240419720?f=rss",
-      "summary": "今日热点导览\n  字节跳动发布视频创作模型Seedance 2.5\n  长鑫科技市值突破4万亿\n  人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线\n  韩国KOSPI指数上涨18%\n  Anthropic称AI模型在测试期间误侵三家真实机构系统\n  TOP3大新闻\n  马斯克回应特斯拉剥离...",
-      "pub_time": "2026-08-01 08:38:59  +0800",
+      "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+      "url": "https://36kr.com/p/3923367465266824?f=rss",
+      "summary": "文｜张子怡\n  编辑｜袁斯来\n  从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。\n  36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突...",
+      "pub_time": "2026-08-03 13:36:21  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.316890"
+      "timestamp": "2026-08-04T03:22:42.835372"
     },
     {
-      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
-      "url": "https://36kr.com/p/3919386961177985?f=rss",
-      "summary": "文｜王欣逸\n  编辑｜张雨忻\n  &nbsp;\n  一句话介绍\n  国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。\n  主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory...",
-      "pub_time": "2026-07-31 23:23:43  +0800",
+      "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
+      "url": "https://36kr.com/p/3923317976526208?f=rss",
+      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方...",
+      "pub_time": "2026-08-03 12:46:57  +0800",
       "source": "36氪",
       "category": "startup",
       "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260731/v2_2865fd966954450d8a5aa089f8f9fe22@6162492_oswg82637oswg1000oswg230_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "timestamp": "2026-08-03T03:38:49.317383"
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_41c43f60a4644ac5ac6d2ae7b0688269@5920579_oswg843826oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "timestamp": "2026-08-04T03:22:42.835678"
     },
     {
-      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-      "url": "https://36kr.com/p/3910776673064073?f=rss",
-      "summary": "文｜王毓婵 兰杰\n  编辑｜乔芊\n  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。\n  36氪就此事向B站方面求证，对方暂无回应。\n  \n  曾爱玲\n  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或...",
-      "pub_time": "2026-07-31 18:27:38  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg1250_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-08-03T03:38:49.317923"
-    },
-    {
-      "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
-      "url": "https://36kr.com/p/3919378312670857?f=rss",
-      "summary": "大公司：\n  途牛：8月中上旬��将迎新一轮客流高峰\n  36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成...",
-      "pub_time": "2026-07-31 18:01:34  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-08-03T03:38:49.318463"
-    },
-    {
-      "title": "开云的转折：在中国，做一个AI乐观派",
-      "url": "https://36kr.com/p/3919225763540611?f=rss",
-      "summary": "作者 |&nbsp;谢芸子 黄绎达\n  编辑 |&nbsp;张帆\n  开云的转型初见成效。\n  7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。\n  更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、...",
-      "pub_time": "2026-07-31 16:58:59  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260731/v2_93f35a5ba3424ae99e3d2c185a0e3281@394564713_oswg1652050oswg1184oswg1480_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-08-03T03:38:49.318998"
-    },
-    {
-      "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
-      "url": "https://36kr.com/p/3919301778288261?f=rss",
-      "summary": "文｜张子怡\n  编辑｜袁斯来\n  随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。\n  前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker To...",
-      "pub_time": "2026-07-31 16:40:43  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-08-03T03:38:49.319564"
-    },
-    {
-      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
-      "url": "https://36kr.com/p/3919112515956355?f=rss",
-      "summary": "\n  你的创业想法，值得被看见\n  有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。\n  我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题：\n  未来，企业该如何更好地发展？\n  &nbsp;\n  为了更真实地了...",
-      "pub_time": "2026-07-31 16:24:28  +0800",
-      "source": "36氪",
-      "category": "startup",
-      "type": "investment",
-      "image": "https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-      "timestamp": "2026-08-03T03:38:49.320120"
-    },
-    {
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.328170"
+      "timestamp": "2026-08-04T03:22:42.844252"
+    },
+    {
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://armature.tech/",
+      "summary": "Hi HN! We’re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, including wha...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-04T03:22:42.844623"
+    },
+    {
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-04T03:22:42.845014"
     },
     {
       "title": "Show HN: ssh ssh.place",
@@ -362,18 +152,7 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.328827"
-    },
-    {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-03T03:38:49.329481"
+      "timestamp": "2026-08-04T03:22:42.845438"
     },
     {
       "title": "Show HN: A Handwritten Blogging Platform",
@@ -384,29 +163,40 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.330112"
+      "timestamp": "2026-08-04T03:22:42.845914"
     },
     {
-      "title": "Show HN: Mu – Tools for Agents",
-      "url": "https://github.com/micro/mu",
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.330759"
+      "timestamp": "2026-08-04T03:22:42.846342"
     },
     {
-      "title": "Show HN: Make your Framework 12 sound like a creaky door",
-      "url": "https://github.com/ArcaEge/creakwork12",
-      "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a ...",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.331488"
+      "timestamp": "2026-08-04T03:22:42.846720"
+    },
+    {
+      "title": "Show HN: Spellfolio – my stock market game with news events and inside info",
+      "url": "https://www.spellfolio.com/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-04T03:22:42.847126"
     },
     {
       "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
@@ -417,18 +207,7 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.332159"
-    },
-    {
-      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "url": "https://github.com/pg83/shitty",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-03T03:38:49.332840"
+      "timestamp": "2026-08-04T03:22:42.847526"
     },
     {
       "title": "Show HN: Bor – Open-source policy management for Linux desktops",
@@ -439,62 +218,51 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.333598"
+      "timestamp": "2026-08-04T03:22:42.848018"
     },
     {
-      "title": "Show HN: Fuse – statically typed functional programming language",
-      "url": "https://fuselang.org",
-      "summary": "Hi HN! I&#x27;ve been working on the fuse programming language, it&#x27;s a statically typed purely functional language with higher-kinder types and a...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-03T03:38:49.334274"
-    },
-    {
-      "title": "Snake 2.0 Premium",
-      "url": "https://crazier-dragon.itch.io/snake-2-premium",
-      "summary": "The ultimate classic snake game, supercharged with premium skins, game-changing power-ups, and smooth gameplay!",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzI5MDIyMzkwLnBuZw==/315x250%23c/mP3VQd.png",
-      "timestamp": "2026-08-03T03:38:49.347980"
-    },
-    {
-      "title": "我在《英雄联盟》经典模式回到过去",
-      "url": "http://www.chuapp.com/article/291525.html",
-      "summary": "我的《英雄联盟》生涯里有一个难以弥补的遗憾。\n那是S3赛季，是我玩《英雄联盟》的第二个赛季，我打到了钻石1，那时还没有宗师、大师的概念，在段位结算的最后一天夜里，我距离王者只差一场晋级赛。那场比赛输了，赛季也随之结束，也许是我此生唯一一次上王者的机会在那一刻终结。\n从那以后，我再也没打到过大师以上。那个赛季我最喜欢玩劫，多半是受了Faker的影响，一共打了600多场排位，也是我最有时间玩游戏的日子...",
+      "title": "触乐怪话：玩点儿小游戏",
+      "url": "http://www.chuapp.com/article/291527.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n上周末，我邀请朋友小白一起打周本，小白让我等一会儿，说他的还在玩小程序猴戏。\n&ldquo;微信小程序吗？&rdquo;\n他发来一张游戏截图，竖屏的，画风很古早，就像小时候上网会跳出的那种页游广告。\n&ldquo;我玩这个游戏很久了。&rdquo;他说。\n这个游戏叫《城主别慌张》，这是一款古风题材塔防小游戏。可以查到的资料是2...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-02/1156a6f0d5f7743a.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-03T03:38:49.348774"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-03/6a7073a3865ef.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-04T03:22:42.863590"
     },
     {
-      "title": "“与AI同游”：今年的ChinaJoy，把AI写进了主题",
-      "url": "http://www.chuapp.com/article/291524.html",
-      "summary": "采访：陈可安、高凌霄、周煜博\n撰稿：周煜博\n7月31日上午，ChinaJoy N4馆腾讯游戏展区，一个还在测试阶段名为&ldquo;代号：Craft&rdquo;的AI游戏创作平台，摆在展台上供玩家体验。\n触乐的编辑输入了一句提示词：&ldquo;帮我生成一个赛博朋克像素风的解谜冒险游戏。&rdquo;屏幕上跳出一个&ldquo;游戏开发助理&rdquo;，反过来问我们：&ldquo;核心玩法循环...",
+      "title": "专访战马工作室：文化差异不是问题，找准点子才是",
+      "url": "http://www.chuapp.com/article/291528.html",
+      "summary": "7月31日，战马工作室公关总监Tobias Stolz-Zwilling在ChinaJoy的活动中，进行了题为《打造品牌：&ldquo;天国：拯救&rdquo;如何在同质化竞争中找到自己的声音》的演讲。在演讲中，他主要分享了在为&ldquo;天国：拯救&rdquo;系列进行对外宣传时，是如何根据游戏贴合史实的独特风格进行线下活动设计的。游戏也因此带动了很多对历史文化感兴趣的玩家，还与现实中的文化遗...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-01/2616a6d704e833c6.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-03T03:38:49.349662"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-03/9646a704e79c931f.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-04T03:22:42.864146"
     },
     {
-      "title": "当AI开始重写小游戏生产流程，真正的变化何时发生？",
-      "url": "http://www.chuapp.com/article/291522.html",
-      "summary": "2026 ChinaJoy期间，巨量引擎小游戏行业生态发展论坛上公布了一些新消息：根据巨量引擎预测，国内小游戏市场增速进入平稳阶段，未来可能在2027年达到千亿规模。小游戏生命周期延长，长线运营、多端发行将成为头部产品的共同趋势。与此同时，巨量引擎也表示，社交分享、互动剧情玩法和AI可能成为推进小游戏增长上限的潜在趋势。\n开发者们的实际经验，一定程度上印证了平台侧得出的结论。2026年5月，一位开...",
+      "title": "对话“愤怒的小鸟”开发商：一个经典IP，如何回归中国市场",
+      "url": "http://www.chuapp.com/article/291530.html",
+      "summary": "2026年1月，芬兰罗维奥（Rovio）娱乐有限公司与金山世游宣布达成战略合作，将&ldquo;愤怒的小鸟&rdquo;重新带回中国市场。就在同一个月，双方合作开发的《愤怒的小鸟：经典归来》和《愤怒的小鸟：梦幻爆破》获批版号。上周，&ldquo;愤怒的小鸟&rdquo;新作在ChinaJoy金山世游展台登场。\n对于国内玩家来说，这是一个知名IP的回归，但对于两家公司来说，这并不仅限于&ldquo;...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-07-31/4476a6c67ff3472d.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-03T03:38:49.350451"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-03/4776a707485a5b53.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-04T03:22:42.864652"
+    },
+    {
+      "title": "在《三角洲行动》主播巅峰赛的体育馆外，等一个每天都在手机里见到的人",
+      "url": "http://www.chuapp.com/article/291529.html",
+      "summary": "8月2日下午，我刚从ChinaJoy的会场离开，转头又到了上海宝山体育馆。现在是下午3点，离《三角洲行动》主播巅峰赛S2总决赛开场还有3个小时。刚下过雨，太阳不算毒，潮湿的空气带给人一种黏糊糊的燥热。\n这时的场馆外已经聚起了不少人，检票处排起了长队，不少观众都是为了主播互动环节而来的，还有许多没抢到票的观众，靠着栏杆，探头望向主播签名处。\n\n检票处的长队\n\n这次总决赛的门票并不好买，2200个对外...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-03/2416a7062eca73ea.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-04T03:22:42.865584"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -505,7 +273,7 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-08-03T03:38:49.351223"
+      "timestamp": "2026-08-04T03:22:42.866155"
     },
     {
       "title": "触乐怪话：可能是Switch 2上唯一有用的散热器",
@@ -516,7 +284,7 @@
       "category": "game",
       "type": "art",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-31/6a6c6b4571bb5.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-03T03:38:49.352034"
+      "timestamp": "2026-08-04T03:22:42.866888"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -527,7 +295,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-08-03T03:38:49.352864"
+      "timestamp": "2026-08-04T03:22:42.867666"
     },
     {
       "title": "获1.66亿投资开发《明末》续作后，我们和夏思源聊了聊",
@@ -538,7 +306,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-02/7236a6f32047e665.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-03T03:38:49.353705"
+      "timestamp": "2026-08-04T03:22:42.868731"
     },
     {
       "title": "触乐怪话：在商场寻找新鲜事",
@@ -549,7 +317,7 @@
       "category": "game",
       "type": "tech",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-07-30/6a6afc6a91a3b.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-03T03:38:49.354555"
+      "timestamp": "2026-08-04T03:22:42.869546"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -560,63 +328,52 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-03T03:38:49.355396"
+      "timestamp": "2026-08-04T03:22:42.870168"
     },
     {
-      "title": "The Choosen one",
-      "url": "https://lilithguild.itch.io/the-choosen-one",
-      "summary": "Entry for trijam 3h game jam # 383",
+      "title": "FNF Indie Cross | Webport",
+      "url": "https://theblehlollipop.itch.io/fnf-indie-cross-webport",
+      "summary": "",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzI5MDIyNjk3LnBuZw==/315x250%23c/PxfKKK.png",
-      "timestamp": "2026-08-03T03:38:49.356272"
+      "image": "https://img.itch.zone/aW1nLzI5MDQ0NDQzLmpwZw==/315x250%23c/NX4bXP.jpg",
+      "timestamp": "2026-08-04T03:22:42.870763"
     },
     {
-      "title": "PSI WARD",
-      "url": "https://honestpawn.itch.io/psi-ward",
-      "summary": "game made in 72hours for mini jam 216",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzI5MDIyMzU1LnBuZw==/315x250%23c/n2XQYB.png",
-      "timestamp": "2026-08-03T03:38:49.357168"
-    },
-    {
-      "title": "My Merry May with be",
-      "url": "https://store.steampowered.com/app/1955730",
+      "title": "赛博女修",
+      "url": "https://store.steampowered.com/app/4650490",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955730/64c1918ff49f811aa636de56ed2c02c1f1f3a40e/header.jpg?t=1785718531",
-      "timestamp": "2026-08-03T03:38:49.358059"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650490/21257754928fa2c55e2a78095c2c612d7815fb70/header_schinese.jpg?t=1785808817",
+      "timestamp": "2026-08-04T03:22:42.871400"
     },
     {
-      "title": "Cyberpunk Inquisitor",
-      "url": "https://store.steampowered.com/app/2957350",
+      "title": "Beast of Reincarnation Deluxe DLC",
+      "url": "https://store.steampowered.com/app/4146830",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957350/a6879df4426736a86844ba16d36e38c8f79765fd/header.jpg?t=1785717029",
-      "timestamp": "2026-08-03T03:38:49.360142"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146830/51abc08e21102a96effc1c5758687b7ae8df3bd4/header.jpg?t=1785801564",
+      "timestamp": "2026-08-04T03:22:42.872014"
     },
     {
-      "title": "Soul Scroll",
-      "url": "https://store.steampowered.com/app/4314050",
+      "title": "轮回之兽",
+      "url": "https://store.steampowered.com/app/2001760",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314050/9058618e4d44130676145748c4f08b22e66790f3/header.jpg?t=1785709686",
-      "timestamp": "2026-08-03T03:38:49.361134"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1785811991",
+      "timestamp": "2026-08-04T03:22:42.872680"
     }
   ],
-  "last_cleanup": "2026-08-03T03:38:49.361153"
+  "last_cleanup": "2026-08-04T03:22:42.872696"
 }
