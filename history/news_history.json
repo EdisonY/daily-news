@@ -5,12 +5,13 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 58336,
-      "forks": 4797,
-      "watchers": 58336,
+      "stars": 96597,
+      "forks": 8989,
+      "watchers": 96597,
       "created_at": "2026-08-13T11:56:32Z",
-      "updated_at": "2026-08-14T02:29:49Z",
+      "updated_at": "2026-08-15T01:40:10Z",
       "topics": [
+        "ai-agents",
         "cordis",
         "dsh",
         "dsh-plugin"
@@ -21,19 +22,19 @@
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "58.3K",
-      "timestamp": "2026-08-14T02:30:32.311678"
+      "stars_formatted": "96.6K",
+      "timestamp": "2026-08-15T01:40:50.612131"
     },
     {
       "title": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 5545,
-      "forks": 578,
-      "watchers": 5545,
+      "stars": 8235,
+      "forks": 856,
+      "watchers": 8235,
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-14T02:29:40Z",
+      "updated_at": "2026-08-15T01:39:16Z",
       "topics": [
         "agent-skill",
         "ai",
@@ -45,43 +46,95 @@
       ],
       "license": "MIT License",
       "homepage": "https://github.com/guillaumemeyer/watermarks-remover",
-      "open_issues": 0,
+      "open_issues": 13,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "5.5K",
-      "timestamp": "2026-08-14T02:30:32.311908"
+      "stars_formatted": "8.2K",
+      "timestamp": "2026-08-15T01:40:50.612333"
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "language": "TypeScript",
+      "stars": 2050,
+      "forks": 108,
+      "watchers": 2050,
+      "created_at": "2026-08-13T16:30:50Z",
+      "updated_at": "2026-08-15T01:40:02Z",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "license": "MIT License",
+      "homepage": "https://dshdesktop.cn",
+      "open_issues": 22,
+      "default_branch": "master",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "2.0K",
+      "timestamp": "2026-08-15T01:40:50.612545"
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 1970,
+      "forks": 97,
+      "watchers": 1970,
+      "created_at": "2026-08-12T05:15:20Z",
+      "updated_at": "2026-08-15T01:38:25Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "web-ui"
+      ],
+      "license": "Apache License 2.0",
+      "homepage": "https://gallery.dsh-market.com",
+      "open_issues": 29,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "2.0K",
+      "timestamp": "2026-08-15T01:40:50.612912"
     },
     {
       "title": "antirez/h3.c",
       "url": "https://github.com/antirez/h3.c",
       "description": "MiniMax H3 inference engine for Mac computers",
       "language": "C",
-      "stars": 1784,
-      "forks": 114,
-      "watchers": 1784,
+      "stars": 1852,
+      "forks": 122,
+      "watchers": 1852,
       "created_at": "2026-08-09T09:12:47Z",
-      "updated_at": "2026-08-14T02:22:35Z",
+      "updated_at": "2026-08-15T01:23:48Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 26,
+      "open_issues": 31,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.8K",
-      "timestamp": "2026-08-14T02:30:32.312137"
+      "stars_formatted": "1.9K",
+      "timestamp": "2026-08-15T01:40:50.613258"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI",
       "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "description": "",
       "language": "TypeScript",
-      "stars": 1686,
-      "forks": 1219,
-      "watchers": 1686,
+      "stars": 1710,
+      "forks": 1225,
+      "watchers": 1710,
       "created_at": "2026-08-10T09:06:43Z",
-      "updated_at": "2026-08-14T01:52:32Z",
+      "updated_at": "2026-08-15T00:38:14Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": null,
@@ -90,315 +143,214 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "1.7K",
-      "timestamp": "2026-08-14T02:30:32.312586"
+      "timestamp": "2026-08-15T01:40:50.613767"
     },
     {
       "title": "xoreaxeaxeax/skitter-creek-bath-salts",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
       "language": "C",
-      "stars": 1054,
-      "forks": 104,
-      "watchers": 1054,
+      "stars": 1573,
+      "forks": 127,
+      "watchers": 1573,
       "created_at": "2026-08-13T13:50:42Z",
-      "updated_at": "2026-08-14T02:28:45Z",
+      "updated_at": "2026-08-15T01:02:33Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "",
-      "open_issues": 0,
+      "open_issues": 2,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-08-14T02:30:32.312975"
+      "stars_formatted": "1.6K",
+      "timestamp": "2026-08-15T01:40:50.614327"
     },
     {
-      "title": "Leutenegger/book-to-skill",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "stars": 1028,
-      "forks": 132,
-      "watchers": 1028,
-      "created_at": "2026-08-13T13:15:23Z",
-      "updated_at": "2026-08-14T02:28:27Z",
-      "topics": [
-        "agent",
-        "agent-memory",
-        "agent-skill",
-        "agent-skills",
-        "agentic",
-        "agentic-ai",
-        "agents",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "github-copilot",
-        "pdf",
-        "pdf-document",
-        "pdf-generation",
-        "pdf-parser",
-        "pdf-tools",
-        "pdf-viewer",
-        "skill-generator"
-      ],
-      "license": "MIT License",
+      "title": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": null,
+      "stars": 1325,
+      "forks": 48,
+      "watchers": 1325,
+      "created_at": "2026-08-13T09:53:33Z",
+      "updated_at": "2026-08-15T01:37:25Z",
+      "topics": [],
+      "license": "",
       "homepage": "",
       "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.0K",
-      "timestamp": "2026-08-14T02:30:32.313339"
+      "stars_formatted": "1.3K",
+      "timestamp": "2026-08-15T01:40:50.614688"
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 1176,
+      "forks": 254,
+      "watchers": 1176,
+      "created_at": "2026-08-13T13:55:31Z",
+      "updated_at": "2026-08-15T01:37:38Z",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "license": "Creative Commons Zero v1.0 Universal",
+      "homepage": "https://awesome-dsh-plugin.com",
+      "open_issues": 11,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.2K",
+      "timestamp": "2026-08-15T01:40:50.615029"
     },
     {
       "title": "gvzdv/claudish-to-english",
       "url": "https://github.com/gvzdv/claudish-to-english",
       "description": "",
       "language": "Shell",
-      "stars": 932,
-      "forks": 59,
-      "watchers": 932,
+      "stars": 1102,
+      "forks": 72,
+      "watchers": 1102,
       "created_at": "2026-08-10T18:32:23Z",
-      "updated_at": "2026-08-14T02:21:39Z",
+      "updated_at": "2026-08-15T01:39:45Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 2,
+      "open_issues": 3,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "932",
-      "timestamp": "2026-08-14T02:30:32.313752"
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-08-15T01:40:50.615739"
     },
     {
-      "title": "MengTo/kage",
-      "url": "https://github.com/MengTo/kage",
-      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-      "language": "HTML",
-      "stars": 894,
-      "forks": 158,
-      "watchers": 894,
-      "created_at": "2026-08-08T07:05:07Z",
-      "updated_at": "2026-08-14T02:27:10Z",
-      "topics": [
-        "creative-coding",
-        "generative-art",
-        "interactive-storytelling",
-        "japanese-design",
-        "threejs",
-        "webgl"
-      ],
-      "license": "",
-      "homepage": "https://mengto.github.io/kage/",
-      "open_issues": 1,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "894",
-      "timestamp": "2026-08-14T02:30:32.314147"
-    },
-    {
-      "title": "SaladDay/pi-from-scratch",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "language": "TypeScript",
-      "stars": 894,
-      "forks": 62,
-      "watchers": 894,
-      "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-14T02:17:12Z",
-      "topics": [
-        "agent-loop",
-        "ai-agent",
-        "coding-agent",
-        "llm",
-        "llm-agent",
-        "pi",
-        "pi-agent",
-        "tool-calling",
-        "typescript",
-        "typescript-tutorial"
-      ],
-      "license": "MIT License",
-      "homepage": "https://pi-from-scratch.vercel.app",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "894",
-      "timestamp": "2026-08-14T02:30:32.314558"
-    },
-    {
-      "title": "sohaibdevv/youtube-music",
-      "url": "https://github.com/sohaibdevv/youtube-music",
-      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-      "language": "TypeScript",
-      "stars": 855,
-      "forks": 0,
-      "watchers": 855,
-      "created_at": "2026-08-11T18:17:18Z",
-      "updated_at": "2026-08-13T15:22:19Z",
-      "topics": [
-        "ad-free",
-        "audio-streaming",
-        "background-playback",
-        "desktop-app",
-        "free",
-        "music",
-        "music-player",
-        "no-ads",
-        "open-source",
-        "player",
-        "playlist-manager",
-        "streaming",
-        "windows",
-        "youtube",
-        "youtube-music",
-        "yt-music"
-      ],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "855",
-      "timestamp": "2026-08-14T02:30:32.315037"
-    },
-    {
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://www.codewithbullet.com",
+      "title": "Ontario Launches Data Centre Playbook",
+      "url": "https://news.ontario.ca/en/release/1007871/ontario-launches-data-centre-playbook",
       "summary": "",
       "pub_time": "",
       "source": "Hacker News",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.318202"
+      "timestamp": "2026-08-15T01:40:50.616208"
     },
     {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Hacker News",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-08-14T02:30:32.318643"
-    },
-    {
-      "title": "Show HN: Why – a deterministic curiosity graph built on probabilistic model",
-      "url": "https://why.com",
-      "summary": "",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sou...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.326436"
+      "timestamp": "2026-08-15T01:40:50.623436"
     },
     {
-      "title": "Show HN: Millennium – Steam Homebrew",
-      "url": "https://steambrew.app/",
-      "summary": "",
+      "title": "Show HN: Ember – Redshift safe color palettes",
+      "url": "https://github.com/carpdiem/ember",
+      "summary": "Most color palettes collapse if you&#x27;ve got a strong redshift&#x2F;nightshift color filter actively suppressing green and blue channels. I made on...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.326950"
+      "timestamp": "2026-08-15T01:40:50.623851"
     },
     {
-      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "url": "https://github.com/fellowgeek/mcp-memory",
+      "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+      "url": "https://github.com/AntoineChatry/Dictata",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.327487"
+      "timestamp": "2026-08-15T01:40:50.624315"
     },
     {
-      "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
-      "url": "https://ojcp.dev/",
-      "summary": "Author here!Agents are applying to jobs for people right now, with progressively more volume, and there&#x27;s nothing built for it. So they scrape ca...",
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "url": "https://luacad.ad-si.com",
+      "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).It ships with a CLI and a...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.328027"
+      "timestamp": "2026-08-15T01:40:50.624765"
     },
     {
-      "title": "Show HN: Auto-train the harness, not the LLM. cross-model, cross-benchmark gains",
-      "url": "https://github.com/workofart/harness-training",
+      "title": "Show HN: Nikon F100 Film Camera Repair Notes",
+      "url": "https://github.com/enthdegree/f100",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.328554"
+      "timestamp": "2026-08-15T01:40:50.625355"
     },
     {
-      "title": "Show HN: YazSes – offline hold-to-talk voice dictation for Linux/macOS/Windows",
-      "url": "https://github.com/MSKazemi/yazses",
+      "title": "Show HN: Bloxwap – The Easiest Way to Trade",
+      "url": "https://bloxwap.com/trade/HYPE",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.329256"
+      "timestamp": "2026-08-15T01:40:50.625899"
     },
     {
-      "title": "Show HN: OxiSH, a modern, memory-safe SSH server",
-      "url": "https://dirkjan.ochtman.nl/writing/2026/08/13/announcing-oxish.html",
+      "title": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
+      "url": "https://getmocktail.com/",
+      "summary": "Hi HN, I built the first version of Mocktail years ago. I recently came back to the project, and after a pretty substantial rebuild, v4 is now out.Moc...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-15T01:40:50.626943"
+    },
+    {
+      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.329787"
+      "timestamp": "2026-08-15T01:40:50.627413"
     },
     {
-      "title": "Show HN: Mirage Browser, the deadest of internets. ~1000 tok/s 1998 internet",
-      "url": "https://miragebrowser.xyz/",
-      "summary": "Mirage browser is a real time, interactive retro internet simulation. You can type any website into the url bar and it will be generated at ~1000 toke...",
+      "title": "Show HN: Musical social media site where you can throw tomatoes at each other",
+      "url": "https://mazurka.cafe/",
+      "summary": "For those who never had the pleasure of using plug.dj and similar sites, the deal is that you create or join rooms where people queue up to DJ music a...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.330306"
+      "timestamp": "2026-08-15T01:40:50.627833"
     },
     {
-      "title": "Show HN: At 16K features, flat autoencoders break. Curved space doesn't",
-      "url": "https://github.com/vishal-dehurdle/hypersae",
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "url": "https://github.com/JustVugg/lumabri",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.330815"
-    },
-    {
-      "title": "Show HN: Track habits, metrics, time and whateven you think worth tracking",
-      "url": "https://habitpocket.io/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-14T02:30:32.331385"
+      "timestamp": "2026-08-15T01:40:50.628325"
     },
     {
       "title": "定档9月的《王者万象棋》，想让自己“万象更新”",
@@ -409,7 +361,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/8056a7d5e590b636.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-14T02:30:32.345603"
+      "timestamp": "2026-08-15T01:40:50.640184"
     },
     {
       "title": "在《维修物语》里，我们把那些年弄坏的机器一一修好",
@@ -420,7 +372,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/1656a7d9b86251fb.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-14T02:30:32.346234"
+      "timestamp": "2026-08-15T01:40:50.640730"
     },
     {
       "title": "从Xbox到PS5：初代《光环》的进化历程",
@@ -431,7 +383,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-12/7866a7c5d53b264f.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-14T02:30:32.346933"
+      "timestamp": "2026-08-15T01:40:50.641664"
     },
     {
       "title": "触乐怪话：登上了一座“神之山”",
@@ -442,7 +394,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-12/6a7bcbba90774.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-14T02:30:32.347565"
+      "timestamp": "2026-08-15T01:40:50.642602"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -453,18 +405,18 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-08-14T02:30:32.348374"
+      "timestamp": "2026-08-15T01:40:50.643204"
     },
     {
-      "title": "《影之刃零》预购实机视频上线：铸造“又新又旧”的武侠世界",
-      "url": "http://www.chuapp.com/article/291557.html",
-      "summary": "8月11日晚，触乐应邀来到上海，参加了《影之刃零》的闭门线下观影会。观影内容是长达11分钟的《影之刃零》预购实机视频。目前，PV已经全网公开，游戏也正式开启了预售。\n在现场，灵游坊的主创团队把这个视频称为&ldquo;又新又旧&rdquo;。不光是因为它展示了玩家见过和没见过的Boss、敌人与角色；也是因为它更完整地展现了传统武侠在《影之刃零》这个新媒介，甚至在潜在的全球受众中能够具有的面貌。\n\n...",
+      "title": "触乐怪话：拼豆的夏天",
+      "url": "http://www.chuapp.com/article/291561.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n小罗老师画得好形象啊！（图/小罗）\n\n最近我迷上了拼豆。\n这还要从一次购物计划讲起。我在社媒搜索《星露谷物语》周边想送给朋友，发现有玩家在卖自己用拼豆做的钥匙扣。拼豆和星露谷的画风实在是太搭了，只要能找到合适的拼豆色号，几乎可以还原游戏全图鉴&mdash;&mdash;可谓是一场像素风的双向奔赴。\n我扫了一眼某平台上&ldquo;星露谷物...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "art",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-12/6116a7bd6b29bdda.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-14T02:30:32.349035"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-14/4296a7ee6580654d.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-15T01:40:50.643743"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -475,7 +427,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-08-14T02:30:32.349682"
+      "timestamp": "2026-08-15T01:40:50.644759"
     },
     {
       "title": "触乐怪话：龙，可是帝王之征啊！",
@@ -486,7 +438,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-10/6a79ac03e81a8.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-14T02:30:32.351703"
+      "timestamp": "2026-08-15T01:40:50.645322"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -497,7 +449,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.352500"
+      "timestamp": "2026-08-15T01:40:50.645947"
     },
     {
       "title": "Beginner Graphics Programming Study Guide",
@@ -508,7 +460,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-14T02:30:32.353221"
+      "timestamp": "2026-08-15T01:40:50.646757"
     },
     {
       "title": "触乐怪话：赛博暹罗哪家强",
@@ -519,41 +471,41 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/6a7da5f1c628a.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-14T02:30:32.353987"
+      "timestamp": "2026-08-15T01:40:50.647353"
     },
     {
-      "title": "Blood Moon Duel",
-      "url": "https://store.steampowered.com/app/4850870",
+      "title": "Broken Divide",
+      "url": "https://store.steampowered.com/app/4525630",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4850870/ed7867ca6a84da7ed9b6e9641d1dd5c73070ad44/header.jpg?t=1786672887",
-      "timestamp": "2026-08-14T02:30:32.354712"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/3890b9a61b4bbee6c9c01ec2b80b35dab1da92c9/header.jpg?t=1786754592",
+      "timestamp": "2026-08-15T01:40:50.647944"
     },
     {
-      "title": "Shadow of Juarez",
-      "url": "https://store.steampowered.com/app/4133840",
+      "title": "FairyLand",
+      "url": "https://store.steampowered.com/app/4823970",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133840/cf5f0bd011cade17a8fa15108487e1a9dc83755e/header.jpg?t=1786672837",
-      "timestamp": "2026-08-14T02:30:32.355470"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823970/066b034d72af050c6b4d7a5c3d45cce19260f01e/header.jpg?t=1786752203",
+      "timestamp": "2026-08-15T01:40:50.648818"
     },
     {
-      "title": "Tahoe Joe",
-      "url": "https://store.steampowered.com/app/4568110",
+      "title": "The Newspapers of the day",
+      "url": "https://store.steampowered.com/app/3930370",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568110/5e1e0440c84609feebdf39c51471347b9b0a675f/header.jpg?t=1786672455",
-      "timestamp": "2026-08-14T02:30:32.356272"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930370/75bebc940018bc4ee9ca1211c57ed8728dc281f8/header.jpg?t=1786750853",
+      "timestamp": "2026-08-15T01:40:50.649436"
     }
   ],
-  "last_cleanup": "2026-08-14T02:30:32.356289"
+  "last_cleanup": "2026-08-15T01:40:50.649448"
 }
