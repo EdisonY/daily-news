@@ -5,11 +5,11 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 116062,
-      "forks": 11338,
-      "watchers": 116062,
+      "stars": 133435,
+      "forks": 13409,
+      "watchers": 133435,
       "created_at": "2026-08-13T11:56:32Z",
-      "updated_at": "2026-08-16T01:46:30Z",
+      "updated_at": "2026-08-17T01:44:41Z",
       "topics": [
         "ai-agents",
         "cordis",
@@ -22,19 +22,19 @@
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "116.1K",
-      "timestamp": "2026-08-16T01:47:06.605109"
+      "stars_formatted": "133.4K",
+      "timestamp": "2026-08-17T01:45:19.241793"
     },
     {
       "title": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 9777,
-      "forks": 1009,
-      "watchers": 9777,
+      "stars": 11645,
+      "forks": 1234,
+      "watchers": 11645,
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-16T01:45:57Z",
+      "updated_at": "2026-08-17T01:44:38Z",
       "topics": [
         "agent-skill",
         "ai",
@@ -46,23 +46,23 @@
       ],
       "license": "MIT License",
       "homepage": "https://github.com/guillaumemeyer/watermarks-remover",
-      "open_issues": 7,
+      "open_issues": 9,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "9.8K",
-      "timestamp": "2026-08-16T01:47:06.605326"
+      "stars_formatted": "11.6K",
+      "timestamp": "2026-08-17T01:45:19.242022"
     },
     {
       "title": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
       "language": "TypeScript",
-      "stars": 6009,
-      "forks": 255,
-      "watchers": 6009,
+      "stars": 9205,
+      "forks": 387,
+      "watchers": 9205,
       "created_at": "2026-08-13T16:30:50Z",
-      "updated_at": "2026-08-16T01:46:30Z",
+      "updated_at": "2026-08-17T01:44:38Z",
       "topics": [
         "deepseek",
         "deepseek-harness",
@@ -73,23 +73,23 @@
       ],
       "license": "MIT License",
       "homepage": "https://dshdesktop.cn",
-      "open_issues": 81,
+      "open_issues": 143,
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "6.0K",
-      "timestamp": "2026-08-16T01:47:06.605570"
+      "stars_formatted": "9.2K",
+      "timestamp": "2026-08-17T01:45:19.242258"
     },
     {
       "title": "awesome-dsh-plugin/awesome-dsh-plugin",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "language": "Python",
-      "stars": 3042,
-      "forks": 616,
-      "watchers": 3042,
+      "stars": 5362,
+      "forks": 885,
+      "watchers": 5362,
       "created_at": "2026-08-13T13:55:31Z",
-      "updated_at": "2026-08-16T01:45:42Z",
+      "updated_at": "2026-08-17T01:44:25Z",
       "topics": [
         "awesome",
         "awesome-list",
@@ -99,23 +99,23 @@
       ],
       "license": "Creative Commons Zero v1.0 Universal",
       "homepage": "https://awesome-dsh-plugin.com",
-      "open_issues": 47,
+      "open_issues": 105,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "3.0K",
-      "timestamp": "2026-08-16T01:47:06.605984"
+      "stars_formatted": "5.4K",
+      "timestamp": "2026-08-17T01:45:19.242618"
     },
     {
       "title": "zhu1090093659/dsh-web-ui",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "language": "TypeScript",
-      "stars": 2743,
-      "forks": 154,
-      "watchers": 2743,
+      "stars": 3487,
+      "forks": 205,
+      "watchers": 3487,
       "created_at": "2026-08-12T05:15:20Z",
-      "updated_at": "2026-08-16T01:45:03Z",
+      "updated_at": "2026-08-17T01:43:43Z",
       "topics": [
         "deepseek-harness",
         "dsh",
@@ -124,23 +124,23 @@
       ],
       "license": "Apache License 2.0",
       "homepage": "https://gallery.dsh-market.com",
-      "open_issues": 37,
+      "open_issues": 46,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.7K",
-      "timestamp": "2026-08-16T01:47:06.606369"
+      "stars_formatted": "3.5K",
+      "timestamp": "2026-08-17T01:45:19.242950"
     },
     {
       "title": "xiaobright/dsh-anchored-standard",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "language": "JavaScript",
-      "stars": 2219,
-      "forks": 69,
-      "watchers": 2219,
+      "stars": 3073,
+      "forks": 97,
+      "watchers": 3073,
       "created_at": "2026-08-14T14:06:39Z",
-      "updated_at": "2026-08-16T01:45:40Z",
+      "updated_at": "2026-08-17T01:43:16Z",
       "topics": [
         "deepseek",
         "deepseek-harness",
@@ -149,63 +149,63 @@
       ],
       "license": "Other",
       "homepage": "https://github.com/xiaobright/modeltest",
-      "open_issues": 31,
+      "open_issues": 39,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.2K",
-      "timestamp": "2026-08-16T01:47:06.606750"
+      "stars_formatted": "3.1K",
+      "timestamp": "2026-08-17T01:45:19.243291"
     },
     {
       "title": "yjh051108/dsh-routing-suite",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "language": "PowerShell",
-      "stars": 1765,
-      "forks": 44,
-      "watchers": 1765,
+      "stars": 2889,
+      "forks": 70,
+      "watchers": 2889,
       "created_at": "2026-08-14T21:20:55Z",
-      "updated_at": "2026-08-16T01:46:03Z",
+      "updated_at": "2026-08-17T01:44:43Z",
       "topics": [],
       "license": "",
       "homepage": null,
-      "open_issues": 14,
+      "open_issues": 31,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.8K",
-      "timestamp": "2026-08-16T01:47:06.607294"
+      "stars_formatted": "2.9K",
+      "timestamp": "2026-08-17T01:45:19.243677"
     },
     {
-      "title": "SMNETSTUDIO/WeChat-AI",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 1742,
-      "forks": 1246,
-      "watchers": 1742,
-      "created_at": "2026-08-10T09:06:43Z",
-      "updated_at": "2026-08-16T01:28:51Z",
+      "title": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": null,
+      "stars": 1892,
+      "forks": 75,
+      "watchers": 1892,
+      "created_at": "2026-08-13T09:53:33Z",
+      "updated_at": "2026-08-17T01:44:11Z",
       "topics": [],
-      "license": "Apache License 2.0",
-      "homepage": null,
+      "license": "",
+      "homepage": "",
       "open_issues": 0,
-      "default_branch": "master",
+      "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.7K",
-      "timestamp": "2026-08-16T01:47:06.607804"
+      "stars_formatted": "1.9K",
+      "timestamp": "2026-08-17T01:45:19.244034"
     },
     {
       "title": "xoreaxeaxeax/skitter-creek-bath-salts",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
       "language": "C",
-      "stars": 1677,
-      "forks": 136,
-      "watchers": 1677,
+      "stars": 1731,
+      "forks": 138,
+      "watchers": 1731,
       "created_at": "2026-08-13T13:50:42Z",
-      "updated_at": "2026-08-16T01:21:23Z",
+      "updated_at": "2026-08-17T00:55:33Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "",
@@ -214,38 +214,98 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "1.7K",
-      "timestamp": "2026-08-16T01:47:06.608265"
+      "timestamp": "2026-08-17T01:45:19.244415"
     },
     {
-      "title": "cordiverse/paper",
-      "url": "https://github.com/cordiverse/paper",
-      "description": "A Programming Paradigm for Spatiotemporal Composability",
-      "language": null,
-      "stars": 1635,
-      "forks": 62,
-      "watchers": 1635,
-      "created_at": "2026-08-13T09:53:33Z",
-      "updated_at": "2026-08-16T01:45:27Z",
-      "topics": [],
-      "license": "",
-      "homepage": "",
-      "open_issues": 0,
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 1678,
+      "forks": 26,
+      "watchers": 1678,
+      "created_at": "2026-08-12T13:48:50Z",
+      "updated_at": "2026-08-17T01:42:44Z",
+      "topics": [
+        "agent-skills",
+        "linting",
+        "oxlint",
+        "typescript"
+      ],
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 1,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.6K",
-      "timestamp": "2026-08-16T01:47:06.608739"
+      "stars_formatted": "1.7K",
+      "timestamp": "2026-08-17T01:45:19.252858"
     },
     {
-      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-      "url": "https://baselashraf81.github.io/eigendrum/",
-      "summary": "Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums.How it works:...",
+      "title": "The federal keyword lists that canceled billions in research funding",
+      "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.256573"
+    },
+    {
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.257050"
+    },
+    {
+      "title": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+      "url": "https://sniffnet.app/news/github-secure-open-source-fund/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.257587"
+    },
+    {
+      "title": "Show HN: Convertix – Fast, 100% in-browser media and QR tools",
+      "url": "https://convertix-fast-imager-co.blogspot.com/p/blog-page.html",
+      "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.616966"
+      "timestamp": "2026-08-17T01:45:19.265509"
+    },
+    {
+      "title": "Show HN: A visual ping utility that is pretty",
+      "url": "https://source.tube/ache/rusty-ping",
+      "summary": "As a network engineer, I use ICMP every day.\nThe default ping utility is ugly, I used a prettyping instead. But it got some bugs, isn&#x27;t configura...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.265984"
+    },
+    {
+      "title": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+      "url": "https://continuum-app.xyz/",
+      "summary": "Hey HN, I&#x27;m Charles, the solo founder of Continuum (https:&#x2F;&#x2F;continuum-app.xyz&#x2F;).Continuum is a financial planning web app for peop...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.266493"
     },
     {
       "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
@@ -256,95 +316,95 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.617398"
+      "timestamp": "2026-08-17T01:45:19.267060"
     },
     {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "title": "Show HN: Flynt.js – 2.2kb, zero-build, CSP-safe reactivity library for MPAs",
+      "url": "https://github.com/marsbos/flynt.js",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.617992"
+      "timestamp": "2026-08-17T01:45:19.267578"
     },
     {
-      "title": "Show HN: ElevenMusic Sounds, loop library that grows as other people generate",
-      "url": "https://elevenmusic.io/sounds",
+      "title": "Show HN: Interactive component to map fibre breaks (OTDR)",
+      "url": "https://react-networks-lib.rackout.net/otdr-strip",
+      "summary": "Added an OTDR trace component as the latest in my component library for datacentre&#x2F;network apps. Mainly for my own use in rackout.",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.268141"
+    },
+    {
+      "title": "Show HN: PageSieve, a web scraping browser extension",
+      "url": "https://julius383.github.io/PageSieve/",
+      "summary": "PageSieve[1] is a browser extension for scraping data from different websites from within your browser. Currently it&#x27;s  Firefox only but I am ope...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.268639"
+    },
+    {
+      "title": "Show HN: Hacker News Top Stories as Feeds to Use with RSS/Atom with Summaries",
+      "url": "https://textlog.cc/u/hn10",
+      "summary": "Hey all, I’ve made this bot, it fetches every story that enters the HN Top 10, summarizes it with AI to a tweet-sized textlog note and publishes it. t...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-17T01:45:19.269143"
+    },
+    {
+      "title": "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
+      "url": "https://github.com/mldsveda/PyScrappy",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.618557"
+      "timestamp": "2026-08-17T01:45:19.269627"
     },
     {
-      "title": "Show HN: Bribes.fyi – Compare bribes statistics department wise",
-      "url": "https://bribes.fyi/compare",
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "url": "https://wildstatic.com/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.618998"
+      "timestamp": "2026-08-17T01:45:19.270124"
     },
     {
-      "title": "Show HN: Every MUNI, BART and Caltrain in SF on a Live Map",
-      "url": "https://github.com/UtpalJayNadiger/wheres-my-muni",
-      "summary": "",
+      "title": "Castle Attack 2026",
+      "url": "https://thebillings.itch.io/castle-attack-2026",
+      "summary": "Get blasted away by all these levels, designed by high schoolers!",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-16T01:47:06.619640"
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI2NzE1MTUzLnBuZw==/315x250%23c/IfyknA.png",
+      "timestamp": "2026-08-17T01:45:19.282591"
     },
     {
-      "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
-      "url": "https://silentshark.app/",
-      "summary": "I posted an early beta of this game a few months ago: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48180924 - May 2026 (45 comments) and today ...",
+      "title": "腾讯投资的国产3A单机，为何要做小众的高速战斗？",
+      "url": "http://www.chuapp.com/article/291565.html",
+      "summary": "推开这扇石门，就能走进阿瓦隆与现代伦敦交织的世界&mdash;&mdash;眼前的试玩大厅以大英博物馆圆形阅览室为原型，&ldquo;亚瑟王传说&rdquo;里的石中剑，就立于正中央。\n\n试玩会现场\n\n&ldquo;欢迎来到《湮灭之潮》首次线下试玩会的现场。&rdquo;开发组对试玩者说。\n8月15日，《湮灭之潮》在成都开启了为期两天、试玩规模超千人的线下试玩会。成都音乐公园东郊记忆的一角立起了一...",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-16T01:47:06.620192"
-    },
-    {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
-      "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sou...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-16T01:47:06.620807"
-    },
-    {
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "url": "https://app.deltix.ai",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-16T01:47:06.621346"
-    },
-    {
-      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
-      "url": "https://hypnagogic-quasicrystals.github.io/",
-      "summary": "Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution.Not all co...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-16T01:47:06.621865"
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-16/4016a819c19bf2f3.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-17T01:45:19.283300"
     },
     {
       "title": "触乐本周行业大事：腾讯、吉比特Q2及上半年业绩发布，信宸资本入局灵犀互娱收购，甄子丹助阵《影之刃零》预售开启",
@@ -355,7 +415,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-14/2846a7f35f493861.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-16T01:47:06.635711"
+      "timestamp": "2026-08-17T01:45:19.283986"
     },
     {
       "title": "定档9月的《王者万象棋》，想让自己“万象更新”",
@@ -366,51 +426,29 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/8056a7d5e590b636.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-16T01:47:06.636301"
+      "timestamp": "2026-08-17T01:45:19.284675"
     },
     {
-      "title": "在《维修物语》里，我们把那些年弄坏的机器一一修好",
-      "url": "http://www.chuapp.com/article/291562.html",
-      "summary": "8月6日，试玩版就获得了颇多好评的《维修物语》终于上线，在短短两天内就获得了高达97%的好评如潮，评论数首日就逼近千条，第二天直接迅速破两千，官方也证实销量迅速逼近了十万份。对于一款小体量的游戏来说，这无疑是值得肯定的巨大成功。\n\n制作组发布公告\n\n\n在我动笔的8月11日，全区评价情况已经如图\n\n那么，《维修物语》的魅力究竟在哪里？或者说这款游戏是否该立刻入库？且容我细细道来&mdash;&mda...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/1656a7d9b86251fb.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-16T01:47:06.637084"
-    },
-    {
-      "title": "从Xbox到PS5：初代《光环》的进化历程",
-      "url": "http://www.chuapp.com/article/291558.html",
-      "summary": "2001年，初代《光环》在Xbox主机上发售，为主机第一人称射击游戏奠定了标准。2011年，《光环：十周年版》在Xbox 360主机上发售，这是一款充满缺陷的复刻版。为了弥补缺陷，玩家们自力更生，在2012年至2019年连载更新了内容更丰富的《SPV3》复刻战役MOD。2026年7月28日，《光环：战役进化》在PC、PS5和Xbox Series S/X上正式发售，这一次复刻使用了虚幻引擎5。《战...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-12/7866a7c5d53b264f.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-16T01:47:06.637735"
-    },
-    {
-      "title": "3D Printer Manager",
-      "url": "https://store.steampowered.com/app/2498780",
-      "summary": "",
-      "pub_time": "",
-      "source": "Steam",
-      "category": "game",
-      "type": "art",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2498780/f57d1e7994eac11bebf8299e6c59a2692a557d7c/header.jpg?t=1786837482",
-      "timestamp": "2026-08-16T01:47:06.638434"
-    },
-    {
-      "title": "Kollaps",
-      "url": "https://staatseigentum.itch.io/kollaps",
-      "summary": "From meteoroid to black hole, and then twice more. A pixel-art idle game with no ads and no shop.",
+      "title": "Books for brunch",
+      "url": "https://klonrat.itch.io/books-for-brunch",
+      "summary": "Eat a book in this two minute visual novel.",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI5MzAxNjkxLnBuZw==/315x250%23c/pg3FgU.png",
-      "timestamp": "2026-08-16T01:47:06.639077"
+      "image": "https://img.itch.zone/aW1nLzI5MzI1MjA3LnBuZw==/315x250%23c/FAeopO.png",
+      "timestamp": "2026-08-17T01:45:19.285266"
+    },
+    {
+      "title": "​Our Life: Beginnings & Always",
+      "url": "https://gbpatch.itch.io/our-life",
+      "summary": "Grow from childhood to adulthood with the lonely boy next door in this near-fully customizable visual novel.",
+      "pub_time": "",
+      "source": "itch.io Top Rated",
+      "category": "game",
+      "type": "art",
+      "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
+      "timestamp": "2026-08-17T01:45:19.285889"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -421,7 +459,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-08-16T01:47:06.639933"
+      "timestamp": "2026-08-17T01:45:19.286454"
     },
     {
       "title": "触乐怪话：龙，可是帝王之征啊！",
@@ -432,7 +470,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-10/6a79ac03e81a8.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-16T01:47:06.640793"
+      "timestamp": "2026-08-17T01:45:19.287208"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -443,7 +481,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.641545"
+      "timestamp": "2026-08-17T01:45:19.287874"
     },
     {
       "title": "Beginner Graphics Programming Study Guide",
@@ -454,7 +492,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.642408"
+      "timestamp": "2026-08-17T01:45:19.288485"
     },
     {
       "title": "触乐怪话：赛博暹罗哪家强",
@@ -465,52 +503,52 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/6a7da5f1c628a.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-16T01:47:06.643112"
+      "timestamp": "2026-08-17T01:45:19.289088"
     },
     {
-      "title": "A fortuitous decade as an indie software developer",
-      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
-      "summary": "",
+      "title": "What Kills a Game? Why do game developers do this?",
+      "url": "https://gamedev.net/forums/topic/720291-what-kills-a-game-why-do-game-developers-do-this",
+      "summary": "Why do game developers make bad games? I’m commenting on this as an indie developer.",
       "pub_time": "",
-      "source": "Hacker News",
+      "source": "GameDev.net",
       "category": "game",
       "type": "indie",
       "image": "",
-      "timestamp": "2026-08-16T01:47:06.643848"
+      "timestamp": "2026-08-17T01:45:19.289755"
     },
     {
-      "title": "One Day To Live",
-      "url": "https://store.steampowered.com/app/4206840",
+      "title": "Dave's Questions",
+      "url": "https://store.steampowered.com/app/4484750",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4206840/2d4fd6f482bb2bf409b4a112482a190c6d089b6b/header.jpg?t=1786841886",
-      "timestamp": "2026-08-16T01:47:06.644585"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484750/f01bc449b3b31f104b9260857da8f5b4d7927aa0/header.jpg?t=1786915822",
+      "timestamp": "2026-08-17T01:45:19.290502"
     },
     {
-      "title": "Bear With Me: The Pizza Chronicles (Prequel)",
-      "url": "https://store.steampowered.com/app/4913420",
+      "title": "Lunch Break Dodgeball",
+      "url": "https://store.steampowered.com/app/4968140",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913420/fbe92306f2560cf9f0d614710f72984ba25b47c0/header.jpg?t=1786829449",
-      "timestamp": "2026-08-16T01:47:06.645299"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968140/692c115944fd8146b48930b36f5e1fa714041c13/header.jpg?t=1786913227",
+      "timestamp": "2026-08-17T01:45:19.291325"
     },
     {
-      "title": "Libera Nos a Malo",
-      "url": "https://store.steampowered.com/app/4902060",
+      "title": "The Leather Maker",
+      "url": "https://store.steampowered.com/app/4805820",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902060/b7fdd85c1c1f2afc8229abe24876bff8af20c216/header.jpg?t=1786815678",
-      "timestamp": "2026-08-16T01:47:06.646220"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4805820/c40c400dcb5798e4e5c28d1284301f7cb8d8fda1/header.jpg?t=1786911501",
+      "timestamp": "2026-08-17T01:45:19.292024"
     }
   ],
-  "last_cleanup": "2026-08-16T01:47:06.646236"
+  "last_cleanup": "2026-08-17T01:45:19.292037"
 }
