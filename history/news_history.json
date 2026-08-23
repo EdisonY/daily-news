@@ -5,11 +5,11 @@
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "language": null,
-      "stars": 3494,
-      "forks": 172,
-      "watchers": 3494,
+      "stars": 3785,
+      "forks": 180,
+      "watchers": 3785,
       "created_at": "2026-08-18T13:59:23Z",
-      "updated_at": "2026-08-22T01:26:37Z",
+      "updated_at": "2026-08-23T01:34:40Z",
       "topics": [
         "codex",
         "codex-skill",
@@ -19,43 +19,43 @@
       ],
       "license": "MIT License",
       "homepage": "https://ipaslogo.com",
-      "open_issues": 3,
+      "open_issues": 4,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "3.5K",
-      "timestamp": "2026-08-22T01:39:38.133689"
+      "stars_formatted": "3.8K",
+      "timestamp": "2026-08-23T01:49:34.325282"
     },
     {
       "title": "yetone/cumora",
       "url": "https://github.com/yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "language": "TypeScript",
-      "stars": 2858,
-      "forks": 346,
-      "watchers": 2858,
+      "stars": 2901,
+      "forks": 350,
+      "watchers": 2901,
       "created_at": "2026-08-17T09:13:52Z",
-      "updated_at": "2026-08-21T22:49:56Z",
+      "updated_at": "2026-08-23T00:01:30Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "https://cumora.ai",
-      "open_issues": 7,
+      "open_issues": 6,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "2.9K",
-      "timestamp": "2026-08-22T01:39:38.133920"
+      "timestamp": "2026-08-23T01:49:34.325573"
     },
     {
       "title": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars": 2130,
-      "forks": 228,
-      "watchers": 2130,
+      "stars": 2335,
+      "forks": 268,
+      "watchers": 2335,
       "created_at": "2026-08-17T00:44:59Z",
-      "updated_at": "2026-08-22T01:34:44Z",
+      "updated_at": "2026-08-23T01:34:25Z",
       "topics": [
         "ag-ui",
         "agent-governance",
@@ -67,82 +67,49 @@
       ],
       "license": "MIT License",
       "homepage": "https://www.copilotkit.ai/openbot",
-      "open_issues": 20,
+      "open_issues": 29,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.1K",
-      "timestamp": "2026-08-22T01:39:38.134157"
+      "stars_formatted": "2.3K",
+      "timestamp": "2026-08-23T01:49:34.325823"
     },
     {
-      "title": "cinderline/northcinder",
-      "url": "https://github.com/cinderline/northcinder",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "language": "JavaScript",
-      "stars": 1203,
-      "forks": 5,
-      "watchers": 1203,
-      "created_at": "2026-08-17T11:42:31Z",
-      "updated_at": "2026-08-21T08:31:39Z",
+      "title": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "language": "HTML",
+      "stars": 1918,
+      "forks": 196,
+      "watchers": 1918,
+      "created_at": "2026-08-21T11:56:39Z",
+      "updated_at": "2026-08-23T01:45:34Z",
       "topics": [
-        "agentic-commerce",
-        "human-in-the-loop",
-        "local-first",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "privacy",
-        "self-hosted",
-        "shopping-agent",
-        "typescript"
+        "react",
+        "shaders",
+        "threejs",
+        "ui-components",
+        "webgl"
       ],
       "license": "MIT License",
-      "homepage": null,
-      "open_issues": 0,
+      "homepage": "https://threeui.com",
+      "open_issues": 4,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.2K",
-      "timestamp": "2026-08-22T01:39:38.134618"
-    },
-    {
-      "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
-      "language": null,
-      "stars": 1036,
-      "forks": 67,
-      "watchers": 1036,
-      "created_at": "2026-08-16T11:38:42Z",
-      "updated_at": "2026-08-21T22:12:27Z",
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "benchmark",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "license": "Other",
-      "homepage": null,
-      "open_issues": 13,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.0K",
-      "timestamp": "2026-08-22T01:39:38.135036"
+      "stars_formatted": "1.9K",
+      "timestamp": "2026-08-23T01:49:34.326194"
     },
     {
       "title": "wang2122/sprix-sage-router",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "language": "Python",
-      "stars": 1009,
+      "stars": 1243,
       "forks": 12,
-      "watchers": 1009,
+      "watchers": 1243,
       "created_at": "2026-08-18T04:08:11Z",
-      "updated_at": "2026-08-21T18:20:02Z",
+      "updated_at": "2026-08-22T16:02:27Z",
       "topics": [
         "a2a",
         "agent-orchestration",
@@ -159,19 +126,50 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.0K",
-      "timestamp": "2026-08-22T01:39:38.135433"
+      "stars_formatted": "1.2K",
+      "timestamp": "2026-08-23T01:49:34.326592"
+    },
+    {
+      "title": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "language": "JavaScript",
+      "stars": 1205,
+      "forks": 6,
+      "watchers": 1205,
+      "created_at": "2026-08-17T11:42:31Z",
+      "updated_at": "2026-08-22T18:51:06Z",
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "privacy",
+        "self-hosted",
+        "shopping-agent",
+        "typescript"
+      ],
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 2,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.2K",
+      "timestamp": "2026-08-23T01:49:34.326904"
     },
     {
       "title": "vvxw/deploy-vercel",
       "url": "https://github.com/vvxw/deploy-vercel",
       "description": "Install Command：npm install",
       "language": "JavaScript",
-      "stars": 991,
-      "forks": 200,
-      "watchers": 991,
+      "stars": 1124,
+      "forks": 234,
+      "watchers": 1124,
       "created_at": "2026-08-18T13:25:45Z",
-      "updated_at": "2026-08-22T01:34:44Z",
+      "updated_at": "2026-08-23T01:43:12Z",
       "topics": [],
       "license": "",
       "homepage": "",
@@ -179,19 +177,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "991",
-      "timestamp": "2026-08-22T01:39:38.135819"
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-08-23T01:49:34.327239"
     },
     {
       "title": "Leutenegger/watermarks-remover",
       "url": "https://github.com/Leutenegger/watermarks-remover",
       "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
       "language": "Python",
-      "stars": 929,
+      "stars": 934,
       "forks": 95,
-      "watchers": 929,
+      "watchers": 934,
       "created_at": "2026-08-19T15:20:24Z",
-      "updated_at": "2026-08-21T09:08:00Z",
+      "updated_at": "2026-08-22T21:16:46Z",
       "topics": [
         "claude",
         "claude-code",
@@ -218,8 +216,8 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "929",
-      "timestamp": "2026-08-22T01:39:38.136257"
+      "stars_formatted": "934",
+      "timestamp": "2026-08-23T01:49:34.327611"
     },
     {
       "title": "Leutenegger/vanity-eth",
@@ -239,18 +237,18 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "803",
-      "timestamp": "2026-08-22T01:39:38.136787"
+      "timestamp": "2026-08-23T01:49:34.328000"
     },
     {
       "title": "browser-use/macos-harness",
       "url": "https://github.com/browser-use/macos-harness",
       "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "language": "Python",
-      "stars": 687,
-      "forks": 45,
-      "watchers": 687,
+      "stars": 709,
+      "forks": 49,
+      "watchers": 709,
       "created_at": "2026-08-17T00:22:20Z",
-      "updated_at": "2026-08-22T01:37:35Z",
+      "updated_at": "2026-08-23T00:59:25Z",
       "topics": [
         "accessibility",
         "agent",
@@ -262,23 +260,23 @@
       ],
       "license": "MIT License",
       "homepage": "https://github.com/browser-use/macos-harness",
-      "open_issues": 6,
+      "open_issues": 7,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "687",
-      "timestamp": "2026-08-22T01:39:38.137255"
+      "stars_formatted": "709",
+      "timestamp": "2026-08-23T01:49:34.328400"
     },
     {
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "url": "https://github.com/runvendo/vendo",
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
       "summary": "",
       "pub_time": "",
       "source": "Hacker News",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.137941"
+      "timestamp": "2026-08-23T01:49:34.328929"
     },
     {
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
@@ -289,51 +287,51 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.147340"
+      "timestamp": "2026-08-23T01:49:34.337802"
     },
     {
-      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-      "url": "https://github.com/peterkelly/rex",
-      "summary": "https:&#x2F;&#x2F;peterkelly.github.io&#x2F;rex&#x2F;",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-22T01:39:38.147879"
-    },
-    {
-      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-      "summary": "Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a f...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-22T01:39:38.148438"
-    },
-    {
-      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-      "url": "https://github.com/proliferate-ai/proliferate",
-      "summary": "Hi HN- I&#x27;m Pablo, the founder of Proliferate (YC S25)!Proliferate (https:&#x2F;&#x2F;github.com&#x2F;proliferate-ai&#x2F;proliferate) is an open-...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-22T01:39:38.148979"
-    },
-    {
-      "title": "Show HN: Declarative-forms – await an object the way prompt() awaits a string",
-      "url": "https://wolfoo2931.github.io/declarative-forms/",
+      "title": "Show HN: terminal-code – VS Code inside the terminal",
+      "url": "https://terminal-code.com",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.149554"
+      "timestamp": "2026-08-23T01:49:34.338338"
+    },
+    {
+      "title": "Show HN: Make your logo extra bright on HDR screens",
+      "url": "https://www.soverybright.com/",
+      "summary": "Certain logos started standing out to me on LinkedIn as brighter&#x2F;whiter than everything else around them.I dug in and found out this is accomplis...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-23T01:49:34.338948"
+    },
+    {
+      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
+      "url": "https://loginwithone.com/",
+      "summary": "This project has been kicking around in my head since I first heard about the webauthn PRF extension in early 2024. I&#x27;ve slowly chipped away at i...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-23T01:49:34.339421"
+    },
+    {
+      "title": "Show HN: Rotation via Double Reflection",
+      "url": "https://static.laszlokorte.de/rotor-reflect/",
+      "summary": "While studying Geometric Algebra I have built some interactive visualization to demonstrate how geometric transformations (rotation, scaling, translat...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-23T01:49:34.339926"
     },
     {
       "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
@@ -344,51 +342,73 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.150142"
+      "timestamp": "2026-08-23T01:49:34.340391"
     },
     {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "summary": "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah.I&#x27;ve been working almost exclusively with coding agents since Ja...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-22T01:39:38.150645"
-    },
-    {
-      "title": "Show HN: Oasis - Giving Agents Situational Awareness",
-      "url": "https://joinoasis.com",
+      "title": "Show HN: Zcomplete – Shell Typo Correction",
+      "url": "https://github.com/omarfakih1/zcomplete",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.151191"
+      "timestamp": "2026-08-23T01:49:34.340911"
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).The idea is basically Git...",
+      "title": "Show HN: Built a CLI to find and disable telemetry for package.json dependencies",
+      "url": "https://github.com/apvarun/no-telemetry",
+      "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.151776"
+      "timestamp": "2026-08-23T01:49:34.341410"
     },
     {
-      "title": "Show HN: Zroar – Serialized Roaring Bitmaps in Zig",
-      "url": "https://github.com/manishrjain/zroar",
-      "summary": "zroar is a ground-up implementation of Roaring Bitmaps data structure in Zig. zroar stores both the keys and (array, bitmap) containers in a single fl...",
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+      "summary": "Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a f...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.152562"
+      "timestamp": "2026-08-23T01:49:34.341943"
+    },
+    {
+      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+      "url": "https://github.com/peterkelly/rex",
+      "summary": "https:&#x2F;&#x2F;peterkelly.github.io&#x2F;rex&#x2F;",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-23T01:49:34.342463"
+    },
+    {
+      "title": "Puzzles Flowers",
+      "url": "https://store.steampowered.com/app/4961740",
+      "summary": "",
+      "pub_time": "",
+      "source": "Steam",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961740/293c8afb09a198848945c1df7cd88c85fca13b64/header.jpg?t=1787410476",
+      "timestamp": "2026-08-23T01:49:34.356189"
+    },
+    {
+      "title": "触乐本周行业大事：阿里百亿出售灵犀互娱落定，完美世界半年报发布，浙江省第三届智力运动会将电竞列为正式项目",
+      "url": "http://www.chuapp.com/article/291580.html",
+      "summary": "\n■ 阿里超百亿出售灵犀互娱，信宸资本接手，管理团队留任\n\n8月17日，灵犀互娱CEO周炳枢发布内部信，确认阿里巴巴集团与中信资本旗下的信宸资本已正式达成交易协议，阿里巴巴出让所持有的灵犀互娱全部股份，信宸资本成为新任股东。据多方报道，本次交易价格超过15亿美元（约合人民币101亿元），是今年以来国内游戏市场规模最大的股权并购案。\n周炳枢在内部信中写道，整个交易&ldquo;全程在友好、平稳、共赢...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-21/8556a87db60041e5.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-23T01:49:34.356881"
     },
     {
       "title": "触乐怪话：打工是不可能上瘾的！",
@@ -399,7 +419,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-21/6a87f2fb75a91.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.167318"
+      "timestamp": "2026-08-23T01:49:34.357511"
     },
     {
       "title": "当AI工具不完全稳定，它们是如何影响人的？",
@@ -410,29 +430,18 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-21/3056a87fe16d8b33.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.167966"
+      "timestamp": "2026-08-23T01:49:34.358167"
     },
     {
-      "title": "从冯骥的创作十条谈谈“黑神话”系列和游戏科学",
-      "url": "http://www.chuapp.com/article/291578.html",
-      "summary": "有一件事情聪明人和笨蛋都会做，那就是说出一些看起来很智慧的话。游戏行业里说箴言的设计师当然也不少，比如宫本茂就有各种名言流传于世，比如他刚说过：&ldquo;团队如果总是问&lsquo;这能马上赚钱吗&rsquo;，就永远无法创造出真正独特或有广泛吸引力的东西。&rdquo; 听起来让人心中充满斗志。然而另一个问题在于，云山雾罩也好，言之凿凿也罢，说一些难以被证伪的话又实在太容易了，所以就导致一些...",
+      "title": "​Our Life: Beginnings & Always",
+      "url": "https://gbpatch.itch.io/our-life",
+      "summary": "Grow from childhood to adulthood with the lonely boy next door in this near-fully customizable visual novel.",
       "pub_time": "",
-      "source": "触乐",
+      "source": "itch.io Top Rated",
       "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-21/9626a87b49a19080.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.168589"
-    },
-    {
-      "title": "这款生活模拟新游，治好了我的时间焦虑",
-      "url": "http://www.chuapp.com/article/291574.html",
-      "summary": "今天，是我重回《星砂岛》生活的第8天。我需要为修建车站的工人蒸一屉小笼包。\n但我突然想沿着环海公路走一圈。滑板车轮压过水泥路发出沙沙的声音，不知不觉，天空由绯红转向了暗蓝。月亮悬挂头顶，家园路标已经远去，内心却逐渐平静下来。它让我想起一段从前在海边骑车的悠闲时光。\n游戏也允许玩家开个小差。我感到一丝惬意。毕竟，现在很多休闲经营游戏有些名不副实，层层任务、限时活动，让放松变成了另一种负担。但《星砂岛...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-19/3836a8569123b9fa.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.169351"
+      "type": "art",
+      "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
+      "timestamp": "2026-08-23T01:49:34.358847"
     },
     {
       "title": "触乐怪话：想去博物馆",
@@ -443,18 +452,18 @@
       "category": "game",
       "type": "art",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-17/6a82d8f10fc61.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.170035"
+      "timestamp": "2026-08-23T01:49:34.359518"
     },
     {
-      "title": "触乐怪话：拼豆的夏天",
-      "url": "http://www.chuapp.com/article/291561.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n小罗老师画得好形象啊！（图/小罗）\n\n最近我迷上了拼豆。\n这还要从一次购物计划讲起。我在社媒搜索《星露谷物语》周边想送给朋友，发现有玩家在卖自己用拼豆做的钥匙扣。拼豆和星露谷的画风实在是太搭了，只要能找到合适的拼豆色号，几乎可以还原游戏全图鉴&mdash;&mdash;可谓是一场像素风的双向奔赴。\n我扫了一眼某平台上&ldquo;星露谷物...",
+      "title": "Adventures With Anxiety!",
+      "url": "https://ncase.itch.io/anxiety",
+      "summary": "An interactive story about anxiety. You play *as* the anxiety",
       "pub_time": "",
-      "source": "触乐",
+      "source": "itch.io Top Rated",
       "category": "game",
-      "type": "art",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-14/4296a7ee6580654d.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.170676"
+      "type": "narrative",
+      "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
+      "timestamp": "2026-08-23T01:49:34.360210"
     },
     {
       "title": "触乐怪话：龙，可是帝王之征啊！",
@@ -465,7 +474,18 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-10/6a79ac03e81a8.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.171507"
+      "timestamp": "2026-08-23T01:49:34.360900"
+    },
+    {
+      "title": "Pegasus Lander",
+      "url": "https://impulsive-solutions.itch.io/pegasus-lander",
+      "summary": "Based on the Lunar Lander arcade game. This is a test project for me to learn Godot.",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "tech",
+      "image": "https://img.itch.zone/aW1nLzI5NDYxMDkzLnBuZw==/315x250%23c/%2B3bbU9.png",
+      "timestamp": "2026-08-23T01:49:34.361621"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -476,29 +496,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-22T01:39:38.172262"
-    },
-    {
-      "title": "Beginner Graphics Programming Study Guide",
-      "url": "https://gamedev.net/tutorials/programming/graphics/beginner-graphics-programming-study-guide-r6168",
-      "summary": "IntroductionAboutThis is a roadmap for learning basic graphics programming on one’s own, from free online resources. While graphics as a field isn’t tied to any specific programming language, tool, pl...",
-      "pub_time": "",
-      "source": "GameDev.net",
-      "category": "game",
-      "type": "tech",
-      "image": "",
-      "timestamp": "2026-08-22T01:39:38.173004"
-    },
-    {
-      "title": "you should not be here",
-      "url": "https://anokta.itch.io/you-should-not-be-here",
-      "summary": "Nightmare on Dev Street Jam Entry",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzI5NDI4MzE2LnBuZw==/315x250%23c/l6WqAC.png",
-      "timestamp": "2026-08-22T01:39:38.173713"
+      "timestamp": "2026-08-23T01:49:34.362327"
     },
     {
       "title": "触乐怪话：赛博暹罗哪家强",
@@ -509,41 +507,52 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/6a7da5f1c628a.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-22T01:39:38.174491"
+      "timestamp": "2026-08-23T01:49:34.363073"
     },
     {
-      "title": "Realms Of Wands",
-      "url": "https://store.steampowered.com/app/4989300",
+      "title": "Pyramid — a live multiplayer game about trust, not luck (free, browser-based)",
+      "url": "https://gamedev.net/forums/topic/720316-pyramid-a-live-multiplayer-game-about-trust-not-luck-free-browser-based",
+      "summary": "Hey everyone — solo dev here, sharing something I've been building outside my day job.Pyramid is a live multiplayer game built around one core question: do you trust that more strangers will keep join...",
+      "pub_time": "",
+      "source": "GameDev.net",
+      "category": "game",
+      "type": "indie",
+      "image": "",
+      "timestamp": "2026-08-23T01:49:34.363823"
+    },
+    {
+      "title": "Grim Reach Idle",
+      "url": "https://store.steampowered.com/app/4915450",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989300/7eb99d50c48201b7084b5be3bcf71c6331b5e77c/header.jpg?t=1787354972",
-      "timestamp": "2026-08-22T01:39:38.175239"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915450/45b4d1f0053f1d6e459a438ca1aa15ba63e3c315/header.jpg?t=1787435645",
+      "timestamp": "2026-08-23T01:49:34.364600"
     },
     {
-      "title": "Empire Eleven 2026",
-      "url": "https://store.steampowered.com/app/4502700",
+      "title": "Endless Descent",
+      "url": "https://store.steampowered.com/app/3395860",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502700/46428c8b472a90350ca005250442f59aef204e10/header.jpg?t=1787351407",
-      "timestamp": "2026-08-22T01:39:38.176083"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3395860/header.jpg?t=1787426350",
+      "timestamp": "2026-08-23T01:49:34.365382"
     },
     {
-      "title": "Pavlov Shack",
-      "url": "https://store.steampowered.com/app/3504270",
+      "title": "Kritzel Krieg",
+      "url": "https://store.steampowered.com/app/4765200",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504270/65358c725f92240b4c0f15eb8647ec5a230cc31d/header.jpg?t=1787352893",
-      "timestamp": "2026-08-22T01:39:38.176876"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765200/59be84f3a77ac56f201551c2886924641267857e/header.jpg?t=1787412797",
+      "timestamp": "2026-08-23T01:49:34.366177"
     }
   ],
-  "last_cleanup": "2026-08-22T01:39:38.176915"
+  "last_cleanup": "2026-08-23T01:49:34.366192"
 }
