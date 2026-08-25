@@ -1,403 +1,158 @@
 {
   "news": [
     {
-      "title": "s1dashu/ip-as-logo-skill",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "language": null,
-      "stars": 3915,
-      "forks": 190,
-      "watchers": 3915,
-      "created_at": "2026-08-18T13:59:23Z",
-      "updated_at": "2026-08-24T01:44:24Z",
-      "topics": [
-        "codex",
-        "codex-skill",
-        "image-generation",
-        "logo-design",
-        "mascot-design"
-      ],
-      "license": "MIT License",
-      "homepage": "https://ipaslogo.com",
-      "open_issues": 7,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "3.9K",
-      "timestamp": "2026-08-24T01:46:57.849247"
-    },
-    {
-      "title": "MengTo/threeui",
-      "url": "https://github.com/MengTo/threeui",
-      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-      "language": "HTML",
-      "stars": 2936,
-      "forks": 292,
-      "watchers": 2936,
-      "created_at": "2026-08-21T11:56:39Z",
-      "updated_at": "2026-08-24T01:45:02Z",
-      "topics": [
-        "react",
-        "shaders",
-        "threejs",
-        "ui-components",
-        "webgl"
-      ],
-      "license": "MIT License",
-      "homepage": "https://threeui.com",
-      "open_issues": 5,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "2.9K",
-      "timestamp": "2026-08-24T01:46:57.849438"
-    },
-    {
-      "title": "wang2122/sprix-sage-router",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "language": "Python",
-      "stars": 1413,
-      "forks": 23,
-      "watchers": 1413,
-      "created_at": "2026-08-18T04:08:11Z",
-      "updated_at": "2026-08-24T01:17:35Z",
-      "topics": [
-        "a2a",
-        "agent-orchestration",
-        "agent-routing",
-        "ai-agents",
-        "multi-agent-systems",
-        "python",
-        "sprix-ai",
-        "task-scheduling"
-      ],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.4K",
-      "timestamp": "2026-08-24T01:46:57.849591"
-    },
-    {
-      "title": "vvxw/deploy-vercel",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "description": "Install Command：npm install",
-      "language": "JavaScript",
-      "stars": 1216,
-      "forks": 258,
-      "watchers": 1216,
-      "created_at": "2026-08-18T13:25:45Z",
-      "updated_at": "2026-08-24T01:18:15Z",
-      "topics": [],
-      "license": "",
-      "homepage": "",
-      "open_issues": 5,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.2K",
-      "timestamp": "2026-08-24T01:46:57.849931"
-    },
-    {
-      "title": "duty1g/x64dbg-mcp-server",
-      "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra...",
-      "language": "Zig",
-      "stars": 903,
-      "forks": 90,
-      "watchers": 903,
-      "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-24T01:45:48Z",
-      "topics": [
-        "ai-agents",
-        "ai-debugging",
-        "binary-analysis",
-        "claude",
-        "claude-code",
-        "malware-analysis",
-        "malware-research",
-        "malware-scanner",
-        "mcp",
-        "mcp-server",
-        "mcp-servers",
-        "x64dbg",
-        "x64dbg-mcp",
-        "x64dbg-plugin",
-        "x64dbg-tools",
-        "xdbg",
-        "zig",
-        "zig-lang",
-        "ziglang"
-      ],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "903",
-      "timestamp": "2026-08-24T01:46:57.850184"
-    },
-    {
-      "title": "ShadowAqueduct/watermark-remover",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "language": "Python",
-      "stars": 760,
-      "forks": 72,
-      "watchers": 760,
-      "created_at": "2026-08-23T21:14:28Z",
-      "updated_at": "2026-08-24T00:36:27Z",
-      "topics": [
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex",
-        "codex-cli",
-        "codex-skill",
-        "codex-skills",
-        "watermark"
-      ],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 6,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "760",
-      "timestamp": "2026-08-24T01:46:57.850491"
-    },
-    {
-      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "language": "JavaScript",
-      "stars": 726,
-      "forks": 28,
-      "watchers": 726,
-      "created_at": "2026-08-18T03:13:51Z",
-      "updated_at": "2026-08-24T01:33:57Z",
-      "topics": [
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "floating-widget",
-        "plugin"
-      ],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 14,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "726",
-      "timestamp": "2026-08-24T01:46:57.850818"
-    },
-    {
-      "title": "DenisSergeevitch/desktop-fly",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-      "language": "Swift",
-      "stars": 704,
-      "forks": 43,
-      "watchers": 704,
-      "created_at": "2026-08-18T17:29:17Z",
-      "updated_at": "2026-08-23T23:46:31Z",
-      "topics": [],
-      "license": "Other",
-      "homepage": null,
-      "open_issues": 6,
-      "default_branch": "master",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "704",
-      "timestamp": "2026-08-24T01:46:57.851125"
-    },
-    {
-      "title": "cclank/lanshu-create-ai-presenter-video",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "language": "Python",
-      "stars": 668,
-      "forks": 106,
-      "watchers": 668,
-      "created_at": "2026-08-20T13:40:06Z",
-      "updated_at": "2026-08-24T01:41:35Z",
-      "topics": [
-        "ai-video",
-        "codex",
-        "codex-skill",
-        "digital-human",
-        "video-generation"
-      ],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "668",
-      "timestamp": "2026-08-24T01:46:57.858527"
-    },
-    {
-      "title": "missuo/herdrm",
-      "url": "https://github.com/missuo/herdrm",
-      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
-      "language": "Swift",
-      "stars": 612,
-      "forks": 37,
-      "watchers": 612,
-      "created_at": "2026-08-19T06:55:39Z",
-      "updated_at": "2026-08-24T01:42:42Z",
-      "topics": [],
-      "license": "",
-      "homepage": null,
-      "open_issues": 2,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "612",
-      "timestamp": "2026-08-24T01:46:57.858817"
-    },
-    {
-      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+      "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
       "summary": "",
       "pub_time": "",
       "source": "Hacker News",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.859188"
+      "timestamp": "2026-08-25T01:41:35.530103"
     },
     {
-      "title": "Show HN: Own the Day – Own a page for 24 hours, starting at $1",
-      "url": "https://ownthe.day",
+      "title": "Andreessen Horowitz is investing billions into a bleak future",
+      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-25T01:41:35.530301"
+    },
+    {
+      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-25T01:41:35.530496"
+    },
+    {
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "summary": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create&#x2F;append&#x2F;read&#x2F;long-p...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-25T01:41:35.538590"
+    },
+    {
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.864323"
+      "timestamp": "2026-08-25T01:41:35.538812"
     },
     {
-      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "url": "https://skylens.yantraai.app/",
+      "title": "Show HN: Pyrift – static analyser for silent Python/PyPy behaviour differences",
+      "url": "https://github.com/BHUVANSH855/pyrift",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.864630"
+      "timestamp": "2026-08-25T01:41:35.539340"
     },
     {
-      "title": "Show HN: Dev // Cyber Toolkit – a free floating dev/cybersecurity widget",
-      "url": "https://dev-cyber-toolkit.netlify.app",
+      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+      "url": "https://glassbox.codecanary.org",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.865003"
+      "timestamp": "2026-08-25T01:41:35.539671"
     },
     {
-      "title": "Show HN: USB – A universal skill bridge for AI agents",
-      "url": "https://github.com/PeepSick/usb",
+      "title": "Show HN: Flostep – Diagrams people can actually walkthrough",
+      "url": "https://flostep.dev/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.865335"
+      "timestamp": "2026-08-25T01:41:35.540046"
     },
     {
-      "title": "Show HN: Mnemosyne Local hierarchical memory engine for AI agents (MCP Native)",
-      "url": "https://github.com/M4F-S/mnemosyne",
+      "title": "Show HN: How to Mentally Calculate the Day of the Week for Any Date",
+      "url": "https://tinkerandsee.com/weekday/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.865667"
+      "timestamp": "2026-08-25T01:41:35.541274"
     },
     {
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "url": "https://www.pianoify.net/",
-      "summary": "GPU powered models to convert any song to piano",
+      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "url": "https://github.com/getkern/kern",
+      "summary": "I built kern because I needed a fast, zero-daemon tool to set CPU&#x2F;RAM limits and run isolated tasks without the overhead of Docker. It&#x27;s a s...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.865993"
+      "timestamp": "2026-08-25T01:41:35.541590"
     },
     {
-      "title": "Show HN: FramePin – Turn screen recordings into beautiful interactive guides",
-      "url": "https://framepin.com/",
+      "title": "Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT",
+      "url": "https://www.lpulite.com",
+      "summary": "We had no guide or course that teaches chip design at our university. We had taken a digital logic course, but were disappointed with the fact that th...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-25T01:41:35.541915"
+    },
+    {
+      "title": "Show HN: See how much your AI knows about you",
+      "url": "https://www.withcorpus.com/knows",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.866320"
+      "timestamp": "2026-08-25T01:41:35.542257"
     },
     {
-      "title": "Show HN: Know the true cost of egg freezing upfront",
-      "url": "https://eggfreezingfacts.org/",
+      "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
+      "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.866731"
+      "timestamp": "2026-08-25T01:41:35.542617"
     },
     {
-      "title": "Show HN: Cartopolis, 3D virtual world (Rust/Bevy/OSM)",
-      "url": "https://news.ycombinator.com/item?id=49411624",
-      "summary": "Cartopolis is an attempt to recreate a FOSS Secondlife&#x2F;OpenSimulator-like experience on top of OpenStreetmap data and 3DBAG(Nl-only pointcloud da...",
+      "title": "《诡秘之主》：中规中矩，但万一有用呢？",
+      "url": "http://www.chuapp.com/article/291581.html",
+      "summary": "8月21日，我终于走进了廷根。\n这是快手旗下弹指宇宙开发的欧式古风神秘学MMO《诡秘之主》公测的日子。它从内测开始就把噱头拉得很足：UE5引擎打造，耗资12亿，还有它背靠的这个极受欢迎的IP有大量的原著粉丝。有很多书迷无论之前是否玩过MMO，都会为了这个略带克系风味的蒸汽朋克世界，还有里面熟悉的角色前来尝试。\n我对《诡秘之主》原著只是略有了解，但对目前国产MMO中较为少见的欧式风格和&ldquo;...",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-24T01:46:57.867138"
-    },
-    {
-      "title": "Show HN: Doop – open-source live canvas for AI agents to design",
-      "url": "https://github.com/kgoedecke/doop",
-      "summary": "Doop is an open source alternative to Paper.design or Pen.dev. AI agents can collaborate and design on the same canvas and Doop will build up context ...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-24T01:46:57.867475"
-    },
-    {
-      "title": "Puzzles Colors",
-      "url": "https://store.steampowered.com/app/4961800",
-      "summary": "",
-      "pub_time": "",
-      "source": "Steam",
+      "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961800/123173ad3539981410d85ac9b6c5b9b3252219f9/header.jpg?t=1787515469",
-      "timestamp": "2026-08-24T01:46:57.874489"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-24/8846a8beec38cd73.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-25T01:41:35.557393"
     },
     {
       "title": "触乐本周行业大事：阿里百亿出售灵犀互娱落定，完美世界半年报发布，浙江省第三届智力运动会将电竞列为正式项目",
@@ -408,7 +163,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-21/8556a87db60041e5.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-24T01:46:57.874867"
+      "timestamp": "2026-08-25T01:41:35.557741"
     },
     {
       "title": "触乐怪话：打工是不可能上瘾的！",
@@ -419,7 +174,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-21/6a87f2fb75a91.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-24T01:46:57.875329"
+      "timestamp": "2026-08-25T01:41:35.558192"
     },
     {
       "title": "当AI工具不完全稳定，它们是如何影响人的？",
@@ -430,40 +185,29 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-21/3056a87fe16d8b33.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-24T01:46:57.875724"
+      "timestamp": "2026-08-25T01:41:35.558748"
     },
     {
-      "title": "Truth Universally Acknowledged - Silver Heart",
-      "url": "https://store.steampowered.com/app/4951300",
-      "summary": "",
+      "title": "​Our Life: Beginnings & Always",
+      "url": "https://gbpatch.itch.io/our-life",
+      "summary": "Grow from childhood to adulthood with the lonely boy next door in this near-fully customizable visual novel.",
       "pub_time": "",
-      "source": "Steam",
+      "source": "itch.io Top Rated",
       "category": "game",
       "type": "art",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951300/6b253278e6fdad18b87d70ed18fa9e4e921b5852/header.jpg?t=1787496454",
-      "timestamp": "2026-08-24T01:46:57.876162"
+      "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
+      "timestamp": "2026-08-25T01:41:35.559201"
     },
     {
-      "title": "KeyPet",
-      "url": "https://zepar0504.itch.io/keypet",
-      "summary": "A pixel desk pet that fights when you type. Leave it on your desktop — every keystroke fuels the action.",
+      "title": "触乐怪话：想去博物馆",
+      "url": "http://www.chuapp.com/article/291569.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n在外面排大队真的好晒！（图/小罗）\n\n最近，国家博物馆有一些相当有趣的展览，比如展出隋代一系列文物的&ldquo;李静训和她的时代&rdquo;，&ldquo;双星耀世&mdash;&mdash;三星堆金沙遗址古蜀文明展&rdquo;以及&ldquo;叩问永恒&mdash;&mdash;庞贝的探索与发觉&rdquo;。家里人一直计划着和我...",
       "pub_time": "",
-      "source": "itch.io",
+      "source": "触乐",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI5NDg4ODIxLnBuZw==/315x250%23c/zY740v.png",
-      "timestamp": "2026-08-24T01:46:57.876535"
-    },
-    {
-      "title": "Message Not Delivered",
-      "url": "https://shrimplicity-games.itch.io/message-not-delivered",
-      "summary": "A personal interactive narrative about grief, distance, memory, and the messages that remain.",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "narrative",
-      "image": "https://img.itch.zone/aW1nLzI5NDg5MDkwLnBuZw==/315x250%23c/rhkckb.png",
-      "timestamp": "2026-08-24T01:46:57.877032"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-17/6a82d8f10fc61.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-25T01:41:35.559646"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -474,7 +218,18 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-08-24T01:46:57.877535"
+      "timestamp": "2026-08-25T01:41:35.560112"
+    },
+    {
+      "title": "触乐怪话：宇宙尽头的餐馆",
+      "url": "http://www.chuapp.com/article/291582.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n想象一下就非常美味（图/小罗）\n\n上周某天晚上10点，我和家人想找一家餐馆填饱肚子。搜索一番，一家餐厅吸引了我，它叫&ldquo;宇宙尽头的餐馆&rdquo;。\n这是一家私房餐馆。它的门面不大，就开在社区楼下，每天下午4点开始营业，直到凌晨。店里常售家常小菜，也卖些精酿啤酒。老板是一对情侣，分别叫卓曦和点点。店里还有只叫久久的小狗。它刚刚...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "narrative",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-24/6a8c0d735fefb.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-25T01:41:35.560569"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -485,7 +240,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.877919"
+      "timestamp": "2026-08-25T01:41:35.561016"
     },
     {
       "title": "Beginner Graphics Programming Study Guide",
@@ -496,7 +251,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-24T01:46:57.878404"
+      "timestamp": "2026-08-25T01:41:35.561571"
     },
     {
       "title": "触乐怪话：赛博暹罗哪家强",
@@ -507,41 +262,41 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-08-13/6a7da5f1c628a.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-24T01:46:57.878800"
+      "timestamp": "2026-08-25T01:41:35.562110"
     },
     {
-      "title": "OverlayGG: Game Guide Overlay",
-      "url": "https://store.steampowered.com/app/4747010",
+      "title": "Chuck Bonesteel & The Alien Apocalypse",
+      "url": "https://store.steampowered.com/app/3098780",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747010/834c8fc9be7ecdf3379c6b8f9061f7a8092a7ef2/header.jpg?t=1787520968",
-      "timestamp": "2026-08-24T01:46:57.879281"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098780/b492e4b61bc883d4bd59706eba88735215692838/header.jpg?t=1787613966",
+      "timestamp": "2026-08-25T01:41:35.562626"
     },
     {
-      "title": "Cow",
-      "url": "https://store.steampowered.com/app/4745980",
+      "title": "龙的传人",
+      "url": "https://store.steampowered.com/app/4499760",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745980/cd46c014e43e648da40eaa5a2aa24a25a3446eb4/header.jpg?t=1787525536",
-      "timestamp": "2026-08-24T01:46:57.879763"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499760/5f8cc3bf1e79af69971fd5755a5e253ea67dd90e/header.jpg?t=1787608593",
+      "timestamp": "2026-08-25T01:41:35.563132"
     },
     {
-      "title": "Digline",
-      "url": "https://store.steampowered.com/app/4607290",
+      "title": "No One Prays in Ovruch",
+      "url": "https://store.steampowered.com/app/5026670",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607290/bd77e9f454dd1df6fecc78544d95badc81e0c5b4/header.jpg?t=1787512321",
-      "timestamp": "2026-08-24T01:46:57.880205"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026670/5f77d3134d4878d2265ef095911bc685e12559e2/header.jpg?t=1787603941",
+      "timestamp": "2026-08-25T01:41:35.563717"
     }
   ],
-  "last_cleanup": "2026-08-24T01:46:57.880212"
+  "last_cleanup": "2026-08-25T01:41:35.563732"
 }
