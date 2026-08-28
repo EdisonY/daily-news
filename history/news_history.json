@@ -1,41 +1,15 @@
 {
   "news": [
     {
-      "title": "MengTo/threeui",
-      "url": "https://github.com/MengTo/threeui",
-      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-      "language": "HTML",
-      "stars": 4249,
-      "forks": 422,
-      "watchers": 4249,
-      "created_at": "2026-08-21T11:56:39Z",
-      "updated_at": "2026-08-27T08:28:06Z",
-      "topics": [
-        "react",
-        "shaders",
-        "threejs",
-        "ui-components",
-        "webgl"
-      ],
-      "license": "MIT License",
-      "homepage": "https://threeui.com",
-      "open_issues": 6,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "4.2K",
-      "timestamp": "2026-08-27T08:50:18.978961"
-    },
-    {
       "title": "b-nnett/grok-bot-0.18-reconstructed",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "language": "TypeScript",
-      "stars": 3230,
-      "forks": 3182,
-      "watchers": 3230,
+      "stars": 3392,
+      "forks": 3270,
+      "watchers": 3392,
       "created_at": "2026-08-23T20:53:01Z",
-      "updated_at": "2026-08-27T08:48:58Z",
+      "updated_at": "2026-08-28T10:38:55Z",
       "topics": [],
       "license": "",
       "homepage": null,
@@ -43,39 +17,59 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "3.2K",
-      "timestamp": "2026-08-27T08:50:18.979190"
+      "stars_formatted": "3.4K",
+      "timestamp": "2026-08-28T11:03:16.653432"
+    },
+    {
+      "title": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": "",
+      "language": "TeX",
+      "stars": 3267,
+      "forks": 522,
+      "watchers": 3267,
+      "created_at": "2026-08-27T11:28:44Z",
+      "updated_at": "2026-08-28T11:02:17Z",
+      "topics": [],
+      "license": "",
+      "homepage": null,
+      "open_issues": 424,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "3.3K",
+      "timestamp": "2026-08-28T11:03:16.653674"
     },
     {
       "title": "tobi/walgit",
       "url": "https://github.com/tobi/walgit",
       "description": "",
       "language": "Rust",
-      "stars": 2160,
-      "forks": 116,
-      "watchers": 2160,
+      "stars": 2274,
+      "forks": 120,
+      "watchers": 2274,
       "created_at": "2026-08-23T22:28:01Z",
-      "updated_at": "2026-08-27T08:49:02Z",
+      "updated_at": "2026-08-28T10:46:01Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 8,
+      "open_issues": 19,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.2K",
-      "timestamp": "2026-08-27T08:50:18.979415"
+      "stars_formatted": "2.3K",
+      "timestamp": "2026-08-28T11:03:16.653894"
     },
     {
       "title": "duty1g/x64dbg-mcp-server",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra...",
       "language": "Zig",
-      "stars": 1487,
-      "forks": 146,
-      "watchers": 1487,
+      "stars": 1623,
+      "forks": 165,
+      "watchers": 1623,
       "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-27T08:48:42Z",
+      "updated_at": "2026-08-28T10:34:21Z",
       "topics": [
         "ai-agents",
         "ai-debugging",
@@ -103,19 +97,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.5K",
-      "timestamp": "2026-08-27T08:50:18.979803"
+      "stars_formatted": "1.6K",
+      "timestamp": "2026-08-28T11:03:16.654279"
     },
     {
       "title": "ApodexAI/FrontierAgent",
       "url": "https://github.com/ApodexAI/FrontierAgent",
       "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "language": "Python",
-      "stars": 1048,
-      "forks": 86,
-      "watchers": 1048,
+      "stars": 1187,
+      "forks": 98,
+      "watchers": 1187,
       "created_at": "2026-08-22T05:07:35Z",
-      "updated_at": "2026-08-27T08:38:42Z",
+      "updated_at": "2026-08-28T10:59:12Z",
       "topics": [
         "agent-orchestration",
         "agentic-ai",
@@ -128,23 +122,23 @@
       ],
       "license": "Apache License 2.0",
       "homepage": "https://www.apodex.ai",
-      "open_issues": 2,
+      "open_issues": 1,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.0K",
-      "timestamp": "2026-08-27T08:50:18.980121"
+      "stars_formatted": "1.2K",
+      "timestamp": "2026-08-28T11:03:16.654547"
     },
     {
       "title": "nateherkai/scroll-craft",
       "url": "https://github.com/nateherkai/scroll-craft",
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "language": "JavaScript",
-      "stars": 1040,
-      "forks": 167,
-      "watchers": 1040,
+      "stars": 1119,
+      "forks": 179,
+      "watchers": 1119,
       "created_at": "2026-08-22T15:25:08Z",
-      "updated_at": "2026-08-27T08:45:40Z",
+      "updated_at": "2026-08-28T10:44:43Z",
       "topics": [
         "accessibility",
         "agent-skills",
@@ -168,19 +162,39 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.0K",
-      "timestamp": "2026-08-27T08:50:18.980445"
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-08-28T11:03:16.654881"
+    },
+    {
+      "title": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "language": "Python",
+      "stars": 955,
+      "forks": 120,
+      "watchers": 955,
+      "created_at": "2026-08-27T14:20:58Z",
+      "updated_at": "2026-08-28T10:59:45Z",
+      "topics": [],
+      "license": "Other",
+      "homepage": "https://praxist.sapient.inc/en/docs",
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "955",
+      "timestamp": "2026-08-28T11:03:16.655272"
     },
     {
       "title": "bryllim/workout-guide",
       "url": "https://github.com/bryllim/workout-guide",
       "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
       "language": "Astro",
-      "stars": 879,
-      "forks": 139,
-      "watchers": 879,
+      "stars": 946,
+      "forks": 150,
+      "watchers": 946,
       "created_at": "2026-08-24T02:14:20Z",
-      "updated_at": "2026-08-27T08:24:46Z",
+      "updated_at": "2026-08-28T10:45:08Z",
       "topics": [
         "exercise",
         "expo",
@@ -196,19 +210,39 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "879",
-      "timestamp": "2026-08-27T08:50:18.980817"
+      "stars_formatted": "946",
+      "timestamp": "2026-08-28T11:03:16.655609"
+    },
+    {
+      "title": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "language": "TypeScript",
+      "stars": 913,
+      "forks": 7,
+      "watchers": 913,
+      "created_at": "2026-08-26T06:09:58Z",
+      "updated_at": "2026-08-28T10:53:20Z",
+      "topics": [],
+      "license": "",
+      "homepage": "https://openhiggsfield.ai",
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "913",
+      "timestamp": "2026-08-28T11:03:16.656228"
     },
     {
       "title": "ShadowAqueduct/watermark-remover",
       "url": "https://github.com/ShadowAqueduct/watermark-remover",
       "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "language": "Python",
-      "stars": 811,
-      "forks": 76,
-      "watchers": 811,
+      "stars": 822,
+      "forks": 78,
+      "watchers": 822,
       "created_at": "2026-08-23T21:14:28Z",
-      "updated_at": "2026-08-27T08:32:01Z",
+      "updated_at": "2026-08-28T08:28:46Z",
       "topics": [
         "claude-ai",
         "claude-code",
@@ -226,57 +260,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "811",
-      "timestamp": "2026-08-27T08:50:18.981189"
+      "stars_formatted": "822",
+      "timestamp": "2026-08-28T11:03:16.656625"
     },
     {
-      "title": "wide-trace/open-higgsfield",
-      "url": "https://github.com/wide-trace/open-higgsfield",
-      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "language": "TypeScript",
-      "stars": 683,
-      "forks": 1,
-      "watchers": 683,
-      "created_at": "2026-08-26T06:09:58Z",
-      "updated_at": "2026-08-27T08:45:42Z",
-      "topics": [],
-      "license": "",
-      "homepage": "https://openhiggsfield.ai",
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "683",
-      "timestamp": "2026-08-27T08:50:18.981606"
-    },
-    {
-      "title": "themartiano/try-omarchy",
-      "url": "https://github.com/themartiano/try-omarchy",
-      "description": "Try Omarchy on Apple Silicon without any setup.",
-      "language": "Shell",
-      "stars": 597,
-      "forks": 23,
-      "watchers": 597,
-      "created_at": "2026-08-23T21:55:30Z",
-      "updated_at": "2026-08-27T08:41:12Z",
-      "topics": [
-        "apple-silicon",
-        "archlinux",
-        "community",
-        "linux",
-        "macos",
-        "omarchy",
-        "qemu",
-        "virtualization"
-      ],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 7,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "597",
-      "timestamp": "2026-08-27T08:50:18.982028"
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.661531"
     },
     {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
@@ -287,29 +283,51 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-27T08:50:18.986865"
+      "timestamp": "2026-08-28T11:03:16.662057"
     },
     {
-      "title": "Stripe acquires Clerky",
-      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "title": "M5Stack Launches PaperMono",
+      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
       "summary": "",
       "pub_time": "",
       "source": "Hacker News",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-27T08:50:18.987391"
+      "timestamp": "2026-08-28T11:03:16.662551"
     },
     {
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "title": "Bootstrappable Builds: How and Why",
+      "url": "https://lwn.net/Articles/1088279/",
       "summary": "",
       "pub_time": "",
       "source": "Hacker News",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-27T08:50:18.987878"
+      "timestamp": "2026-08-28T11:03:16.663053"
+    },
+    {
+      "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+      "url": "https://news.ycombinator.com/item?id=49466715",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.663547"
+    },
+    {
+      "title": "Launching Route 53 Files",
+      "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.664161"
     },
     {
       "title": "AWS Acquires DuckLabs",
@@ -320,7 +338,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-27T08:50:18.988361"
+      "timestamp": "2026-08-28T11:03:16.664656"
     },
     {
       "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
@@ -331,183 +349,161 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-08-27T08:50:18.988883"
+      "timestamp": "2026-08-28T11:03:16.665176"
     },
     {
-      "title": "A Man Who Saw Humanity from Two Billion Years Away",
-      "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Hacker News",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-08-27T08:50:18.989402"
-    },
-    {
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "summary": "",
-      "pub_time": "",
-      "source": "Hacker News",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-08-27T08:50:18.990023"
-    },
-    {
-      "title": "Show HN: Build your own theme park",
-      "url": "https://www.magicpatterns.com/theme-park",
-      "summary": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’l...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-27T08:50:18.998227"
-    },
-    {
-      "title": "Show HN: Forgot the Command? Stay in the Terminal",
-      "url": "https://humansh.com/",
-      "summary": "Describe what you need, HumanSH writes the command directly into your terminal for review — no chatbot tab, no copy-paste, no lost flow.",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-27T08:50:18.998791"
-    },
-    {
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "summary": "We&#x27;ve been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a n...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-27T08:50:18.999420"
-    },
-    {
-      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
-      "url": "https://github.com/apvcode/Termux-Dev",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-27T08:50:18.999984"
+      "timestamp": "2026-08-28T11:03:16.672883"
     },
     {
-      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "url": "https://tarjan.itch.io/thoreaubasic",
-      "summary": "I started writing Thoreau BASIC because I wanted a small, old-fashioned BASIC interpreter: line numbers, immediate mode, simple graphics, strings, arr...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-27T08:50:19.000558"
-    },
-    {
-      "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-      "url": "https://rupertlinacre.com/buslens/",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-27T08:50:19.001138"
+      "timestamp": "2026-08-28T11:03:16.673474"
     },
     {
-      "title": "Show HN: Every push-up becomes an attack in a camera-counted RPG game",
-      "url": "https://pushup.quest/",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "summary": "Hi HN, we built an open source model gateway. It&#x27;s a single place to manage our own self hosted, frontier, and open source models in one place.It...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.674086"
+    },
+    {
+      "title": "Show HN: Voronoi Go",
+      "url": "https://voronoigo.com/",
+      "summary": "I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a commu...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.674660"
+    },
+    {
+      "title": "Show HN: FnScribe – Open-source, offline dictation for macOS",
+      "url": "https://github.com/AlgorithmicResearchGroup/fnscribe",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-27T08:50:19.001721"
+      "timestamp": "2026-08-28T11:03:16.675273"
     },
     {
-      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "summary": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.",
+      "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+      "url": "https://github.com/opslane/opslane",
+      "summary": "Hey HN,I’m Abhishek. I&#x27;m building Opslane, an open-source agent that identifies user-facing issues and investigates them. It only creates a PR if...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-27T08:50:19.002304"
+      "timestamp": "2026-08-28T11:03:16.675862"
     },
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "summary": "I&#x27;m a master&#x27;s engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that w...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-08-27T08:50:19.002919"
-    },
-    {
-      "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
-      "url": "https://github.com/SWUFE-DB-Group/TexLite",
+      "title": "Show HN: Scheduled Claude Code agents that cost nothing on a quiet day",
+      "url": "https://github.com/shadok-ai/shadok-ai",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-08-27T08:50:19.003547"
+      "timestamp": "2026-08-28T11:03:16.676514"
     },
     {
-      "title": "Astaria: Retro Online Text RPG",
-      "url": "https://astaria04.itch.io/astaria",
-      "summary": "A multiplayer, fantasy, text-based RPG. Explore dungeons, level up, and chat in a living, retro online world.",
+      "title": "Show HN: Use Spot Instance Fearlessly",
+      "url": "https://github.com/softcane/spot-vortex-agent",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.677133"
+    },
+    {
+      "title": "Show HN: Beckon, distinct sounds for what your AI coding agent needs",
+      "url": "https://github.com/Isa1asN/beckon",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.677755"
+    },
+    {
+      "title": "Show HN: A lightweight, stateless database for agent memory",
+      "url": "https://polign.com/blog-edge-agent-memory",
+      "summary": "I&#x27;ve been working on Polign and built a small prototype around something I&#x27;ve been thinking about with agent memory. I have built a lightwei...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-08-28T11:03:16.678391"
+    },
+    {
+      "title": "Citrus Strike",
+      "url": "https://r-man009.itch.io/citrus-strike",
+      "summary": "One Orange One Board 20 AWESOME LEVELS!",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzI5NTYxMjk2LnBuZw==/315x250%23c/CPbN6o.png",
-      "timestamp": "2026-08-27T08:50:19.014668"
+      "image": "https://img.itch.zone/aW1nLzI5NTg1ODM5LnBuZw==/315x250%23c/SGR8R2.png",
+      "timestamp": "2026-08-28T11:03:16.688536"
     },
     {
-      "title": "触乐怪话：斯普拉遁天下第一",
-      "url": "http://www.chuapp.com/article/291588.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n蛮颓人讲起道理，谁敢不买（图/小罗）\n\n前一阵任天堂公布最新一季财报，Switch 2发售13个月销量达到了2368万台，这一成绩是非常出色非常厉害的。但国内关于Switch 2的讨论似乎没有那么&ldquo;热&rdquo;，我觉得很多Switch初代玩家都在&ldquo;观望&rdquo;。\nSwitch初代首发的游戏《塞尔达传说：旷...",
+      "title": "Reach for the Sky",
+      "url": "https://djomi.itch.io/reach-for-the-sky",
+      "summary": "FPS Platformer game inspired by Neon White",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI5NTY4OTU0LnBuZw==/315x250%23c/IshamF.png",
+      "timestamp": "2026-08-28T11:03:16.689284"
+    },
+    {
+      "title": "NEONPRISM",
+      "url": "https://sqabden.itch.io/neonprism",
+      "summary": "Turn the mirrors, split the beam, mix the colours — light every receiver. 120 neon laser puzzles.",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI5NTg1NzU4LnBuZw==/315x250%23c/hSdibw.png",
+      "timestamp": "2026-08-28T11:03:16.689965"
+    },
+    {
+      "title": "触乐怪话：热爱UE5",
+      "url": "http://www.chuapp.com/article/291596.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n最近有不少号称使用UE5的游戏接连推出，视觉效果乍一看都非常惊艳。但我却越来越对这类风格略感疲劳。\n一方面是我的口味本来就更倾向于更特立独行的美术风格，而这在大量走写实、影视化风格的高投入商业游戏中本身就很少见。\n就拿恰好也推出了新作的&ldquo;锈湖&rdquo;系列来说，这个系列一直采用的是一种比例失调的简笔画风格，人物...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-26/6a8e3766af5f1.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-27T08:50:19.015407"
-    },
-    {
-      "title": "科隆开幕夜上最有班味的射击新游，给PvE赛道带来了新的“卷法”",
-      "url": "http://www.chuapp.com/article/291593.html",
-      "summary": "玩家呼唤PvE游戏，可能从《Left4Dead》开始。但直到现在，&ldquo;玩家合作通关&rdquo;的PvE游戏总处于一种间歇性供给不良的处境中。市面上隔三岔五就会出现一款很受欢迎的PvE合作射击游戏，这种趋势已经延伸到更多产品的设计中。但与之相对，这个品类似乎很难形成持久、稳定和影响力广泛的产品系列。两个成功产品之间往往有那么一段时间的间隔&mdash;&mdash;自《绝地潜兵2》之后，...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-26/5856a8ee79ab0a23.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-27T08:50:19.016161"
-    },
-    {
-      "title": "属于我们的开放世界游戏——《无限大》定档",
-      "url": "http://www.chuapp.com/article/291592.html",
-      "summary": "科隆游戏展开展第一天的上午，触乐试玩了网易即将推出的《无限大》。\n试玩版本分为两个部分，其一为剧情部分，其二为开放世界探索部分。游戏平台为PC，我们使用手柄进行游戏。去年10月，触乐曾在TGS上试玩过《无限大》。相较于当年的版本而言，本次科隆游戏展提供的《无限大》试玩版本显然更为成熟，如果说当年TGS上的《无限大》试玩版本还更多地接近一种&ldquo;概念呈现&rdquo;的话，那么在本次科隆游戏...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-26/5766a8ebb2c33723.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-27T08:50:19.016888"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-28/6a915d33675ca.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-28T11:03:16.690668"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -518,29 +514,18 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-08-27T08:50:19.017647"
+      "timestamp": "2026-08-28T11:03:16.691454"
     },
     {
-      "title": "触乐怪话：采访了一位AI",
-      "url": "http://www.chuapp.com/article/291584.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n上周，我和许多人分别聊了聊，重新深刻地感受到编辑这份工作的重量。我的聊天对象往往会因为身份而给予我很大的信任，把自身的经历无保留地交给我。这常常使我感到责任重大，而沟通本身又实在有趣。从个人角度，这是一个&ldquo;I人&rdquo;摒弃所有内向套上装甲开始战斗的高光时刻；从内容角度，每个人心里最深层的故事往往都有着相当的厚...",
+      "title": "听预告片里的音乐，就能知道GTA6讲了一个什么样的故事",
+      "url": "http://www.chuapp.com/article/291597.html",
+      "summary": "今天凌晨，R星公布了《GTA6》的最终版本预告片，这支长达26分钟的预告，透露了太多信息。不过，作为一个音乐的狂热爱好者，我觉得这支预告里音乐讲述的&ldquo;故事&rdquo;比画面还更丰富。\n&ldquo;GTA&rdquo;系列作品是美国文化的集大成之作。它在某种意义上是电子游戏这一文化载体的最佳缩影&mdash;&mdash;它汲取了来自美国流行文化里无数具有影响力的产品、犯罪小说、影视...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "art",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-25/6a8d5c8414c42.jpg?imageView2/2/w/700",
-      "timestamp": "2026-08-27T08:50:19.018411"
-    },
-    {
-      "title": "捉迷藏 - 剧情&配音追加！",
-      "url": "https://store.steampowered.com/app/4851770",
-      "summary": "",
-      "pub_time": "",
-      "source": "Steam",
-      "category": "game",
-      "type": "narrative",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851770/17dcbdcdc4afb3d5ba517cb7eb3b99478408a18f/header_schinese.jpg?t=1787814773",
-      "timestamp": "2026-08-27T08:50:19.019187"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-28/9466a9145c4a967a.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-28T11:03:16.692229"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -551,7 +536,18 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-08-27T08:50:19.019971"
+      "timestamp": "2026-08-28T11:03:16.693013"
+    },
+    {
+      "title": "触乐怪话：宇宙尽头的餐馆",
+      "url": "http://www.chuapp.com/article/291582.html",
+      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n想象一下就非常美味（图/小罗）\n\n上周某天晚上10点，我和家人想找一家餐馆填饱肚子。搜索一番，一家餐厅吸引了我，它叫&ldquo;宇宙尽头的餐馆&rdquo;。\n这是一家私房餐馆。它的门面不大，就开在社区楼下，每天下午4点开始营业，直到凌晨。店里常售家常小菜，也卖些精酿啤酒。老板是一对情侣，分别叫卓曦和点点。店里还有只叫久久的小狗。它刚刚...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "narrative",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-08-24/6a8c0d735fefb.jpg?imageView2/2/w/700",
+      "timestamp": "2026-08-28T11:03:16.693785"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -562,7 +558,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-27T08:50:19.020760"
+      "timestamp": "2026-08-28T11:03:16.694589"
     },
     {
       "title": "Beginner Graphics Programming Study Guide",
@@ -573,52 +569,41 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-08-27T08:50:19.021575"
+      "timestamp": "2026-08-28T11:03:16.695567"
     },
     {
-      "title": "Untitled BGJ 2026.2 Game (WIP)",
-      "url": "https://tiews.itch.io/untitled-bgj-20262-game",
-      "summary": "A crappy game made for Brackey's Game Jam 2026.2 -- Place your pieces and protect against them",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzI5NTYyNTYwLnBuZw==/315x250%23c/RnCaLD.png",
-      "timestamp": "2026-08-27T08:50:19.022521"
-    },
-    {
-      "title": "生死问答",
-      "url": "https://store.steampowered.com/app/4246780",
+      "title": "Pastimes",
+      "url": "https://store.steampowered.com/app/5052210",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246780/35ddeab7afea912771b5cc55b6676b3cacfb3dec/header_schinese.jpg?t=1787818675",
-      "timestamp": "2026-08-27T08:50:19.023367"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052210/359ab2ee258d600860c0a7311e69a8df5971fe71/header.jpg?t=1787911397",
+      "timestamp": "2026-08-28T11:03:16.696409"
     },
     {
-      "title": "Reborn",
-      "url": "https://store.steampowered.com/app/4338190",
+      "title": "Board Game Society",
+      "url": "https://store.steampowered.com/app/3037040",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338190/3ddbf0823f90ac1092cd179d4a73881cbf201c86/header_schinese.jpg?t=1787818559",
-      "timestamp": "2026-08-27T08:50:19.024226"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037040/55f4aee7acd124c8fe763b9578110cd793001212/header.jpg?t=1787911449",
+      "timestamp": "2026-08-28T11:03:16.697242"
     },
     {
-      "title": "Planet Genesis 2",
-      "url": "https://store.steampowered.com/app/5072730",
+      "title": "Mr Twiddle's Wee Diddy Farm",
+      "url": "https://store.steampowered.com/app/4873200",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072730/2ed75da54185fbad78a1a9c72128edb3078c7cbc/header.jpg?t=1787817953",
-      "timestamp": "2026-08-27T08:50:19.025083"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873200/36f35ebaee0cae6aa58f46cdd81dba10d6c934f2/header.jpg?t=1787910539",
+      "timestamp": "2026-08-28T11:03:16.698108"
     }
   ],
-  "last_cleanup": "2026-08-27T08:50:19.025100"
+  "last_cleanup": "2026-08-28T11:03:16.698126"
 }
