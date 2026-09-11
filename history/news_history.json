@@ -5,11 +5,11 @@
       "url": "https://github.com/ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "language": "TypeScript",
-      "stars": 2872,
-      "forks": 700,
-      "watchers": 2872,
+      "stars": 3115,
+      "forks": 755,
+      "watchers": 3115,
       "created_at": "2026-09-05T00:24:43Z",
-      "updated_at": "2026-09-10T04:04:22Z",
+      "updated_at": "2026-09-11T03:59:18Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "https://human-atlas-seven.vercel.app",
@@ -17,39 +17,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.9K",
-      "timestamp": "2026-09-10T04:15:59.954089"
-    },
-    {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "language": "Python",
-      "stars": 2033,
-      "forks": 2550,
-      "watchers": 2033,
-      "created_at": "2026-09-04T15:00:53Z",
-      "updated_at": "2026-09-10T03:18:45Z",
-      "topics": [],
-      "license": "GNU Affero General Public License v3.0",
-      "homepage": null,
-      "open_issues": 3,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "2.0K",
-      "timestamp": "2026-09-10T04:15:59.954294"
+      "stars_formatted": "3.1K",
+      "timestamp": "2026-09-11T04:15:28.587723"
     },
     {
       "title": "openai/NavierStokesAndEuler",
       "url": "https://github.com/openai/NavierStokesAndEuler",
       "description": "Lean certificates accompanying Navier-Stokes and Euler results",
       "language": "Lean",
-      "stars": 1587,
-      "forks": 148,
-      "watchers": 1587,
+      "stars": 1727,
+      "forks": 169,
+      "watchers": 1727,
       "created_at": "2026-09-08T10:53:38Z",
-      "updated_at": "2026-09-10T04:14:33Z",
+      "updated_at": "2026-09-11T03:59:41Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": "",
@@ -57,39 +37,59 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.6K",
-      "timestamp": "2026-09-10T04:15:59.954506"
+      "stars_formatted": "1.7K",
+      "timestamp": "2026-09-11T04:15:28.587905"
+    },
+    {
+      "title": "sdli1995/dlssg_for_sm86",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "description": "Here is a dlssg for RTX30 Series GPU ",
+      "language": null,
+      "stars": 1483,
+      "forks": 88,
+      "watchers": 1483,
+      "created_at": "2026-09-07T16:16:48Z",
+      "updated_at": "2026-09-11T04:12:16Z",
+      "topics": [],
+      "license": "",
+      "homepage": null,
+      "open_issues": 70,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.5K",
+      "timestamp": "2026-09-11T04:15:28.588064"
     },
     {
       "title": "vinzdg/codenotch",
       "url": "https://github.com/vinzdg/codenotch",
       "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
       "language": "Swift",
-      "stars": 1292,
-      "forks": 201,
-      "watchers": 1292,
+      "stars": 1397,
+      "forks": 219,
+      "watchers": 1397,
       "created_at": "2026-09-05T14:55:35Z",
-      "updated_at": "2026-09-10T03:52:50Z",
+      "updated_at": "2026-09-11T04:03:54Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 31,
+      "open_issues": 19,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.3K",
-      "timestamp": "2026-09-10T04:15:59.954873"
+      "stars_formatted": "1.4K",
+      "timestamp": "2026-09-11T04:15:28.588422"
     },
     {
       "title": "EverettFish/holo-card-studio",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill...",
       "language": "Python",
-      "stars": 1258,
-      "forks": 183,
-      "watchers": 1258,
+      "stars": 1348,
+      "forks": 194,
+      "watchers": 1348,
       "created_at": "2026-09-07T00:41:18Z",
-      "updated_at": "2026-09-10T04:14:14Z",
+      "updated_at": "2026-09-11T04:12:04Z",
       "topics": [],
       "license": "Other",
       "homepage": null,
@@ -98,18 +98,18 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "1.3K",
-      "timestamp": "2026-09-10T04:15:59.955119"
+      "timestamp": "2026-09-11T04:15:28.588735"
     },
     {
-      "title": "anthropics/fermats-last-theorem",
-      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "title": "Edge0-AI/Edge0",
+      "url": "https://github.com/Edge0-AI/Edge0",
       "description": "",
-      "language": "Lean",
-      "stars": 1003,
-      "forks": 83,
-      "watchers": 1003,
-      "created_at": "2026-09-04T14:21:04Z",
-      "updated_at": "2026-09-10T03:22:54Z",
+      "language": "Python",
+      "stars": 1069,
+      "forks": 85,
+      "watchers": 1069,
+      "created_at": "2026-09-08T13:41:47Z",
+      "updated_at": "2026-09-11T04:13:10Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": null,
@@ -117,39 +117,39 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.0K",
-      "timestamp": "2026-09-10T04:15:59.955480"
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-09-11T04:15:28.589002"
     },
     {
-      "title": "sdli1995/dlssg_for_sm86",
-      "url": "https://github.com/sdli1995/dlssg_for_sm86",
-      "description": "Here is a dlssg for RTX30 Series GPU ",
-      "language": null,
-      "stars": 808,
-      "forks": 50,
-      "watchers": 808,
-      "created_at": "2026-09-07T16:16:48Z",
-      "updated_at": "2026-09-10T04:14:59Z",
+      "title": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style",
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "language": "HTML",
+      "stars": 1067,
+      "forks": 146,
+      "watchers": 1067,
+      "created_at": "2026-09-05T21:57:22Z",
+      "updated_at": "2026-09-11T04:12:17Z",
       "topics": [],
       "license": "",
       "homepage": null,
-      "open_issues": 39,
-      "default_branch": "main",
+      "open_issues": 1,
+      "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "808",
-      "timestamp": "2026-09-10T04:15:59.955814"
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-09-11T04:15:28.589304"
     },
     {
       "title": "donvito/codex-astra-luna-orchestrator",
       "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
       "description": "Use Astra as orchestrator and Luna for subagents in Codex",
       "language": "Python",
-      "stars": 788,
-      "forks": 62,
-      "watchers": 788,
+      "stars": 930,
+      "forks": 69,
+      "watchers": 930,
       "created_at": "2026-09-05T16:03:06Z",
-      "updated_at": "2026-09-10T04:12:51Z",
+      "updated_at": "2026-09-11T04:07:09Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": "",
@@ -157,48 +157,92 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "788",
-      "timestamp": "2026-09-10T04:15:59.956163"
+      "stars_formatted": "930",
+      "timestamp": "2026-09-11T04:15:28.589610"
     },
     {
-      "title": "KJGX66F/usque-custom-pro",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "language": "JavaScript",
-      "stars": 725,
-      "forks": 1108,
-      "watchers": 725,
-      "created_at": "2026-09-04T01:15:28Z",
-      "updated_at": "2026-09-10T03:45:13Z",
+      "title": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "description": "",
+      "language": "PHP",
+      "stars": 917,
+      "forks": 0,
+      "watchers": 917,
+      "created_at": "2026-09-11T02:13:29Z",
+      "updated_at": "2026-09-11T04:14:01Z",
       "topics": [],
       "license": "",
-      "homepage": "https://usque-custom-pro.pages.dev/",
-      "open_issues": 4,
+      "homepage": null,
+      "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "725",
-      "timestamp": "2026-09-10T04:15:59.956494"
+      "stars_formatted": "917",
+      "timestamp": "2026-09-11T04:15:28.589909"
     },
     {
-      "title": "yang0/handraw-style",
-      "url": "https://github.com/yang0/handraw-style",
-      "description": "手绘风格编号画廊与双语提示词 Skill",
-      "language": "HTML",
-      "stars": 674,
-      "forks": 94,
-      "watchers": 674,
-      "created_at": "2026-09-05T21:57:22Z",
-      "updated_at": "2026-09-10T04:14:27Z",
+      "title": "iamzulx/crypto-rag",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "language": "Python",
+      "stars": 899,
+      "forks": 1,
+      "watchers": 899,
+      "created_at": "2026-09-05T06:20:08Z",
+      "updated_at": "2026-09-11T01:34:37Z",
       "topics": [],
-      "license": "",
+      "license": "MIT License",
       "homepage": null,
       "open_issues": 0,
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "674",
-      "timestamp": "2026-09-10T04:15:59.957031"
+      "stars_formatted": "899",
+      "timestamp": "2026-09-11T04:15:28.590264"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.597267"
+    },
+    {
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.597582"
+    },
+    {
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.597943"
+    },
+    {
+      "title": "YouTube had a bug – I used ChatGPT to investigate",
+      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.598345"
     },
     {
       "title": "Shopify acquires Tailwind",
@@ -209,7 +253,7 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-09-10T04:15:59.959686"
+      "timestamp": "2026-09-11T04:15:28.598677"
     },
     {
       "title": "Apple Watch Series 12",
@@ -220,7 +264,73 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-09-10T04:15:59.960159"
+      "timestamp": "2026-09-11T04:15:28.598997"
+    },
+    {
+      "title": "Show HN: Self Host Your Own Minecraft Java Server with Ease",
+      "url": "https://github.com/5TN1rcZRS79VAEFuUCRB/MCPersist",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.605734"
+    },
+    {
+      "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+      "url": "https://vertumnus.fyi",
+      "summary": "The origin of this project was me, as a casual farmers&#x27; market attendee, grossly misremembering the start date of early girl tomatoes. Ironically...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.606095"
+    },
+    {
+      "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+      "url": "https://asm-editor.specy.app/",
+      "summary": "Asm Editor is an open-source browser IDE for writing, running, and debugging assembly.It currently supports M68K, Z80, MIPS, RISC-V (32- and 64-bit), ...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.606530"
+    },
+    {
+      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "url": "https://usefeyn.com/blog/multimatte/",
+      "summary": "Hey HN, I&#x27;m Shreyash from Feyn. We help companies build custom models from their data.Today we&#x27;re releasing MultiMatte, a background removal...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.606974"
+    },
+    {
+      "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
+      "url": "https://ayles.github.io/doom-in-kernel/",
+      "summary": "Some time ago my coworker who was working on first version of Perforator (https:&#x2F;&#x2F;github.com&#x2F;yandex&#x2F;perforator) kept talking about...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.607412"
+    },
+    {
+      "title": "Show HN: Kern Agent – See inside your agent's brain",
+      "url": "https://github.com/oguzbilgic/kern-ai",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.607824"
     },
     {
       "title": "Show HN: What if the speed of light was 5 km/h?",
@@ -231,7 +341,18 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-10T04:15:59.968352"
+      "timestamp": "2026-09-11T04:15:28.608266"
+    },
+    {
+      "title": "Show HN: Filament – Fast data movement engine in Go",
+      "url": "https://github.com/galaxy-io/filament",
+      "summary": "Hi, I&#x27;m Leon one of the cofounders of Galaxy. We just open sourced Filament, our data movement engine.Its written in Go and Apache 2.0 licensed. ...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-11T04:15:28.608657"
     },
     {
       "title": "Show HN: Compute polynomials twice as fast",
@@ -242,106 +363,40 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-10T04:15:59.968845"
+      "timestamp": "2026-09-11T04:15:28.609193"
     },
     {
-      "title": "Show HN: Oz – a Vim-style terminal editor written in Zig",
-      "url": "https://github.com/niT-Tin/oz",
+      "title": "Show HN: Learn programming by building something you want",
+      "url": "https://codeset.ai/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-10T04:15:59.969395"
+      "timestamp": "2026-09-11T04:15:28.703787"
     },
     {
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "url": "https://github.com/OtoDock/oto-dock",
-      "summary": "Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it a...",
+      "title": "腾讯游戏的长期战略：拥抱AI、理性投资，打造长青游戏",
+      "url": "http://www.chuapp.com/article/291627.html",
+      "summary": "编者按：在刚刚过去的2026年科隆国际游戏展上，一大批中国厂商站上舞台C位，吸引了玩家和从业者的广泛关注，其中腾讯更成为了人们瞩目的焦点。本届科隆展期间，腾讯游戏国际业务运营、战略与合规副总裁朱永毅时隔一年再次接受外媒GameIndustry.biz专访，详细介绍了腾讯游戏的长远战略，包括继续深耕服务型游戏领域，打造长青游戏，以更加审慎、理性的方式投资海外工作室，加强不同团队之间的联系和协作，以及...",
       "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-10T04:15:59.969844"
-    },
-    {
-      "title": "Show HN: They chose your competitor. Find out why",
-      "url": "https://drop.space",
-      "summary": "See what people love, hate, and wish was better. Then give them a reason to choose you.",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-10T04:15:59.970375"
-    },
-    {
-      "title": "Show HN: NYC rideshare market analysis (2019 – 2026)",
-      "url": "https://github.com/omarirfa/rideshare_market",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-10T04:15:59.970913"
-    },
-    {
-      "title": "Show HN: Find your next client on X",
-      "url": "https://tiny.opencreators.ai",
-      "summary": "Your next customer\nis talking on X.\nTiny finds the right posts. You start the conversation.",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-10T04:15:59.971415"
-    },
-    {
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-10T04:15:59.971944"
-    },
-    {
-      "title": "Show HN: Copperhead – Cursor for circuit boards",
-      "url": "https://copperhead.sh/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-10T04:15:59.972425"
-    },
-    {
-      "title": "Show HN: Rdltr – Inbox zero for your reading list",
-      "url": "https://rdltr.app/",
-      "summary": "Hi HN, for the past few months I’ve been working on a read later app called RDLTR (https:&#x2F;&#x2F;rdltr.app). The whole thing started because I had...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-10T04:15:59.973006"
-    },
-    {
-      "title": "Don't Touch The Grass",
-      "url": "https://lucasmon.itch.io/dont-touch-the-grass",
-      "summary": "Grab the coin, deliver it, don't step on the grass. A fast, ten-level 3D platformer",
-      "pub_time": "",
-      "source": "itch.io",
+      "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzI5ODg2MzM0LnBuZw==/315x250%23c/u4%2BpGz.png",
-      "timestamp": "2026-09-10T04:15:59.985365"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-09-10/2316aa2c76d91491.png?imageView2/2/w/700",
+      "timestamp": "2026-09-11T04:15:28.713646"
+    },
+    {
+      "title": "和“蛙儿子”告别",
+      "url": "http://www.chuapp.com/article/291625.html",
+      "summary": "《旅行青蛙：中国之旅》宣布即将停运停服的消息传来，许多还在养蛙的玩家都忙了起来。哪怕知道三个月后账号里所有的资料都会清零，他们还是努力在社交网络上发帖，和同好们交换着自己还没有收集到的明信片，把喜欢的场景截图留念。游戏里平时屯起来的高级食物都拿了出来，没有兑换的家具和装饰也都赶紧兑换了。蛙在装饰精致的小屋里吃饭睡觉的样子也全都被留存下来。\n\n玩家花殇分享给我蛙蛙踢被子的场面\n\n他们更像是在为蛙准备...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-09-10/8696aa2580398ff1.jpg?imageView2/2/w/700",
+      "timestamp": "2026-09-11T04:15:28.714197"
     },
     {
       "title": "Workbuddy联动《和平精英》，AI如何连接游戏生态？",
@@ -352,7 +407,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-08/4256a9fabf70ca17.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-10T04:15:59.985971"
+      "timestamp": "2026-09-11T04:15:28.714786"
     },
     {
       "title": "《旅行青蛙：中国之旅》宣布停服：8年之后的告别",
@@ -363,29 +418,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-08/5376a9fdbc92cffb.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-10T04:15:59.986580"
-    },
-    {
-      "title": "触乐怪话：治疗“文压抑”",
-      "url": "http://www.chuapp.com/article/291618.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n图/小罗\n\n因为最近的选题，我接触了不少武侠游戏和它们周边的人们。在聊天的过程中，多少都会聊到&ldquo;自我表达&rdquo;的问题。这涉及到的一部分问题是：独立游戏和单机游戏，在满足市场需求之前，更多人会把它当作满足自我表达的某种渠道。\n比如，在武侠游戏圈子里最近有个比较热的梗是&ldquo;无绿帽，不武侠&rdquo;。\n\n虽然算...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-09-07/6a9e92be269e0.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-10T04:15:59.987201"
-    },
-    {
-      "title": "Feed The Beast",
-      "url": "https://themethlab.itch.io/feed-the-beast",
-      "summary": "Outplay the Beast. Win your head start. Survive the Hunt........",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "art",
-      "image": "https://img.itch.zone/aW1nLzI5ODg2ODAxLnBuZw==/315x250%23c/bqS0AC.png",
-      "timestamp": "2026-09-10T04:15:59.987862"
+      "timestamp": "2026-09-11T04:15:28.715309"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -396,7 +429,18 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-09-10T04:15:59.988504"
+      "timestamp": "2026-09-11T04:15:28.715823"
+    },
+    {
+      "title": "Doki Doki Literature Club!",
+      "url": "https://teamsalvato.itch.io/ddlc",
+      "summary": "Will you write the way into her heart?",
+      "pub_time": "",
+      "source": "itch.io Top Rated",
+      "category": "game",
+      "type": "art",
+      "image": "https://img.itch.zone/aW1hZ2UvMTA2NTk5LzU4NjAxMi5naWY=/315x250%23c/ZFe38m.gif",
+      "timestamp": "2026-09-11T04:15:28.716339"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -407,7 +451,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-09-10T04:15:59.989198"
+      "timestamp": "2026-09-11T04:15:28.716916"
     },
     {
       "title": "触乐怪话：播客初体验",
@@ -418,7 +462,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-04/6a9a7b2642e62.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-10T04:15:59.989881"
+      "timestamp": "2026-09-11T04:15:28.717463"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -429,7 +473,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-09-10T04:15:59.990574"
+      "timestamp": "2026-09-11T04:15:28.717997"
     },
     {
       "title": "Beginner Graphics Programming Study Guide",
@@ -440,52 +484,52 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-09-10T04:15:59.991285"
+      "timestamp": "2026-09-11T04:15:28.718567"
     },
     {
-      "title": "About how KPI ANCHORED me at office",
-      "url": "https://notfound123.itch.io/about-how-kpi-anchored-me-at-office",
-      "summary": "Game for CIGA Game Jam 2026",
+      "title": "Lighthouse",
+      "url": "https://fartychicken.itch.io/lighthouse",
+      "summary": "​Golden Mile Games submission to the GCU Warm Up Jam 26-27",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzI5ODg2OTk1LnBuZw==/315x250%23c/qM219r.png",
-      "timestamp": "2026-09-10T04:15:59.992013"
+      "image": "https://img.itch.zone/aW1nLzI5OTA4NjA1LnBuZw==/315x250%23c/A4gJLP.png",
+      "timestamp": "2026-09-11T04:15:28.719121"
     },
     {
-      "title": "白金档案 PLATiNA :: LAB",
-      "url": "https://store.steampowered.com/app/3430470",
+      "title": "Riruri Tachibana : Reincarnated",
+      "url": "https://store.steampowered.com/app/3874890",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430470/cb2450471e7907a6643889a6c3e1f36049600b59/header_schinese.jpg?t=1789009248",
-      "timestamp": "2026-09-10T04:15:59.992732"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3874890/0c5a7c5160169358f379b0168e81a6a762f43b0c/header.jpg?t=1789096606",
+      "timestamp": "2026-09-11T04:15:28.719746"
     },
     {
-      "title": "フルーティモ！ジューシーナイトライド",
-      "url": "https://store.steampowered.com/app/4399580",
+      "title": "夜园游记",
+      "url": "https://store.steampowered.com/app/3649690",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399580/3c2e5139b72c84bce73ace1e6ae7167b55ed68d4/header.jpg?t=1789012645",
-      "timestamp": "2026-09-10T04:15:59.993480"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3649690/e3b7f6b8b342e7616cc0b7a1d347bcae9cf4dc13/header_schinese.jpg?t=1789094343",
+      "timestamp": "2026-09-11T04:15:28.721409"
     },
     {
-      "title": "籃下王者",
-      "url": "https://store.steampowered.com/app/5093740",
+      "title": "Gunmetal Orbit",
+      "url": "https://store.steampowered.com/app/4975430",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5093740/8e2e50db7d70b607cb779fc895a3b846b34746ec/header.jpg?t=1789008905",
-      "timestamp": "2026-09-10T04:15:59.994256"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975430/6492f1a98d6aa85608ab4dd8708b16236e81e91e/header.jpg?t=1789091753",
+      "timestamp": "2026-09-11T04:15:28.722007"
     }
   ],
-  "last_cleanup": "2026-09-10T04:15:59.994272"
+  "last_cleanup": "2026-09-11T04:15:28.722019"
 }
