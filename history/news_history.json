@@ -1,15 +1,35 @@
 {
   "news": [
     {
+      "title": "ai-sucks-butt/ai-sucks-butt",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "description": "If you think AI sucks, star the repo.",
+      "language": "Python",
+      "stars": 1973,
+      "forks": 0,
+      "watchers": 1973,
+      "created_at": "2026-09-14T04:02:58Z",
+      "updated_at": "2026-09-17T04:33:39Z",
+      "topics": [],
+      "license": "",
+      "homepage": null,
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "2.0K",
+      "timestamp": "2026-09-17T04:34:50.847543"
+    },
+    {
       "title": "Chuloo/mural",
       "url": "https://github.com/Chuloo/mural",
       "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
       "language": "Kotlin",
-      "stars": 1068,
-      "forks": 224,
-      "watchers": 1068,
+      "stars": 1268,
+      "forks": 249,
+      "watchers": 1268,
       "created_at": "2026-09-12T11:51:08Z",
-      "updated_at": "2026-09-16T04:27:12Z",
+      "updated_at": "2026-09-17T04:16:23Z",
       "topics": [
         "ios",
         "language-learning",
@@ -22,68 +42,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.1K",
-      "timestamp": "2026-09-16T04:29:13.159360"
-    },
-    {
-      "title": "sumimakito/Mac-Duo",
-      "url": "https://github.com/sumimakito/Mac-Duo",
-      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "language": "Swift",
-      "stars": 917,
-      "forks": 66,
-      "watchers": 917,
-      "created_at": "2026-09-10T18:55:39Z",
-      "updated_at": "2026-09-16T02:54:30Z",
-      "topics": [
-        "flip",
-        "iphone",
-        "iphoneduo",
-        "mac",
-        "macos",
-        "menubar",
-        "menubar-app",
-        "menubarapp"
-      ],
-      "license": "Apache License 2.0",
-      "homepage": "",
-      "open_issues": 29,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "917",
-      "timestamp": "2026-09-16T04:29:13.159562"
-    },
-    {
-      "title": "ai-sucks-butt/ai-sucks-butt",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "description": "If you think AI sucks, star the repo.",
-      "language": "Python",
-      "stars": 895,
-      "forks": 0,
-      "watchers": 895,
-      "created_at": "2026-09-14T04:02:58Z",
-      "updated_at": "2026-09-16T04:28:35Z",
-      "topics": [],
-      "license": "",
-      "homepage": null,
-      "open_issues": 0,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "895",
-      "timestamp": "2026-09-16T04:29:13.159753"
+      "stars_formatted": "1.3K",
+      "timestamp": "2026-09-17T04:34:50.847718"
     },
     {
       "title": "yifanzhang-pro/recurrent-looped-tranformer",
       "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
       "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
       "language": "HTML",
-      "stars": 835,
-      "forks": 81,
-      "watchers": 835,
+      "stars": 863,
+      "forks": 84,
+      "watchers": 863,
       "created_at": "2026-09-12T19:02:46Z",
-      "updated_at": "2026-09-16T03:30:46Z",
+      "updated_at": "2026-09-17T03:42:19Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer",
@@ -91,19 +62,19 @@
       "default_branch": "master",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "835",
-      "timestamp": "2026-09-16T04:29:13.160064"
+      "stars_formatted": "863",
+      "timestamp": "2026-09-17T04:34:50.847864"
     },
     {
       "title": "kruzovic7/ai-data-extractor",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "language": "Python",
-      "stars": 823,
-      "forks": 132,
-      "watchers": 823,
+      "stars": 827,
+      "forks": 133,
+      "watchers": 827,
       "created_at": "2026-09-11T18:12:58Z",
-      "updated_at": "2026-09-16T02:52:12Z",
+      "updated_at": "2026-09-17T02:08:48Z",
       "topics": [
         "ai",
         "ai-data-extraction",
@@ -116,59 +87,39 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "823",
-      "timestamp": "2026-09-16T04:29:13.160324"
-    },
-    {
-      "title": "angusdevgo/IDM_Pro_Tool",
-      "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
-      "description": "IDM激活与状态维护工具",
-      "language": "C#",
-      "stars": 715,
-      "forks": 181,
-      "watchers": 715,
-      "created_at": "2026-09-10T09:39:06Z",
-      "updated_at": "2026-09-16T03:50:32Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "",
-      "open_issues": 3,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "715",
-      "timestamp": "2026-09-16T04:29:13.167364"
+      "stars_formatted": "827",
+      "timestamp": "2026-09-17T04:34:50.848172"
     },
     {
       "title": "zjwzcx/Awesome-Astra-Embodied-AI",
       "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
       "description": "GPT-6 Astra for embodied AI and robotics.",
       "language": null,
-      "stars": 708,
-      "forks": 13,
-      "watchers": 708,
+      "stars": 785,
+      "forks": 14,
+      "watchers": 785,
       "created_at": "2026-09-12T12:20:24Z",
-      "updated_at": "2026-09-16T04:21:22Z",
+      "updated_at": "2026-09-17T04:27:08Z",
       "topics": [],
       "license": "",
       "homepage": "",
-      "open_issues": 1,
+      "open_issues": 2,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "708",
-      "timestamp": "2026-09-16T04:29:13.167671"
+      "stars_formatted": "785",
+      "timestamp": "2026-09-17T04:34:50.848427"
     },
     {
       "title": "eternityspring/reelbench-skills",
       "url": "https://github.com/eternityspring/reelbench-skills",
       "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
       "language": "HTML",
-      "stars": 698,
-      "forks": 92,
-      "watchers": 698,
+      "stars": 709,
+      "forks": 93,
+      "watchers": 709,
       "created_at": "2026-09-11T04:55:49Z",
-      "updated_at": "2026-09-16T03:31:18Z",
+      "updated_at": "2026-09-17T03:24:15Z",
       "topics": [
         "ai-video",
         "claude-skills",
@@ -182,39 +133,39 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "698",
-      "timestamp": "2026-09-16T04:29:13.167963"
+      "stars_formatted": "709",
+      "timestamp": "2026-09-17T04:34:50.848648"
     },
     {
-      "title": "nftechie/stonkfly",
-      "url": "https://github.com/nftechie/stonkfly",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "language": "Python",
-      "stars": 693,
-      "forks": 114,
-      "watchers": 693,
-      "created_at": "2026-09-10T02:40:30Z",
-      "updated_at": "2026-09-16T02:59:40Z",
+      "title": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Co...",
+      "language": "Rust",
+      "stars": 690,
+      "forks": 19,
+      "watchers": 690,
+      "created_at": "2026-09-12T18:20:00Z",
+      "updated_at": "2026-09-17T04:29:10Z",
       "topics": [],
-      "license": "MIT License",
+      "license": "Apache License 2.0",
       "homepage": null,
-      "open_issues": 2,
+      "open_issues": 0,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "693",
-      "timestamp": "2026-09-16T04:29:13.168268"
+      "stars_formatted": "690",
+      "timestamp": "2026-09-17T04:34:50.848925"
     },
     {
       "title": "rizqinrr/viserys-agent",
       "url": "https://github.com/rizqinrr/viserys-agent",
       "description": "",
       "language": "JavaScript",
-      "stars": 652,
+      "stars": 660,
       "forks": 2,
-      "watchers": 652,
+      "watchers": 660,
       "created_at": "2026-09-12T16:51:29Z",
-      "updated_at": "2026-09-15T14:08:46Z",
+      "updated_at": "2026-09-17T02:06:08Z",
       "topics": [],
       "license": "",
       "homepage": null,
@@ -222,19 +173,70 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "652",
-      "timestamp": "2026-09-16T04:29:13.168591"
+      "stars_formatted": "660",
+      "timestamp": "2026-09-17T04:34:50.849195"
     },
     {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+      "title": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "description": "",
+      "language": "PHP",
+      "stars": 646,
+      "forks": 1,
+      "watchers": 646,
+      "created_at": "2026-09-11T02:13:29Z",
+      "updated_at": "2026-09-13T09:31:50Z",
+      "topics": [],
+      "license": "",
+      "homepage": null,
+      "open_issues": 0,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "646",
+      "timestamp": "2026-09-17T04:34:50.849488"
+    },
+    {
+      "title": "nilbuild/page-mascot",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "language": "Python",
+      "stars": 643,
+      "forks": 57,
+      "watchers": 643,
+      "created_at": "2026-09-14T06:55:59Z",
+      "updated_at": "2026-09-17T04:22:56Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": "https://koboyo.com/page-mascot",
+      "open_issues": 1,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "643",
+      "timestamp": "2026-09-17T04:34:50.849749"
+    },
+    {
+      "title": "Douglas Adams and the exterminated Doctor Who adventure",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
       "summary": "",
       "pub_time": "",
       "source": "Hacker News",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.169001"
+      "timestamp": "2026-09-17T04:34:50.851763"
+    },
+    {
+      "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+      "url": "https://restarted.io/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Hacker News",
+      "category": "startup",
+      "type": "investment",
+      "image": "",
+      "timestamp": "2026-09-17T04:34:50.852001"
     },
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -245,7 +247,40 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.175598"
+      "timestamp": "2026-09-17T04:34:50.857371"
+    },
+    {
+      "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
+      "url": "https://attalambda.com",
+      "summary": "I made a programming language!I call it AttaLambda.The idea is this: a usable Lisp-shaped language where all the meaningful computation is done in unt...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-17T04:34:50.857629"
+    },
+    {
+      "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+      "url": "https://restarted.io/",
+      "summary": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 (https:&#x2F;&#x2F;news.ycombinator.com&#x2F...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-17T04:34:50.857972"
+    },
+    {
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-09-17T04:34:50.858255"
     },
     {
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
@@ -256,18 +291,18 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.175957"
+      "timestamp": "2026-09-17T04:34:50.858564"
     },
     {
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "summary": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it a...",
+      "title": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+      "url": "https://seasonmap.app",
+      "summary": "Author here. I&#x27;m trying to visit every country and I&#x27;ve been to 158 so far.Before I decide where to travel, I&#x27;d ask a local friend whic...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.177276"
+      "timestamp": "2026-09-17T04:34:50.858865"
     },
     {
       "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
@@ -278,128 +313,95 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.177660"
+      "timestamp": "2026-09-17T04:34:50.859204"
     },
     {
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "summary": "Hi HN - long-time lurker (since 2012!), first time poster.Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in th...",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "summary": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it a...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.178011"
+      "timestamp": "2026-09-17T04:34:50.859530"
     },
     {
-      "title": "Show HN: Check if your IP has appeared in a residential proxy network",
-      "url": "https://haveibeenproxied.com/",
+      "title": "Show HN: Collected every single \"What are you working on\" project into a website",
+      "url": "https://what-are-you-working-on-62u6b.reachpad.app/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.178388"
+      "timestamp": "2026-09-17T04:34:50.859839"
     },
     {
-      "title": "Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration",
-      "url": "https://github.com/Thurbeen/thurbox",
+      "title": "Show HN: Kosmic Kart – Mario Kart-style racing with friends in the browser",
+      "url": "https://kosmi.io/kosmic-kart/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.178854"
+      "timestamp": "2026-09-17T04:34:50.860228"
     },
     {
-      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
-      "url": "https://poltora.dev/redis",
+      "title": "Battle Blocks 3: Harvest Havoc",
+      "url": "https://tinfoildegreepepper.itch.io/battle-blocks-3-harvest-havoc",
       "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-16T04:29:13.179309"
-    },
-    {
-      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-      "url": "https://github.com/greentfrapp/panel",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-16T04:29:13.179686"
-    },
-    {
-      "title": "Show HN: A chess analyzer that runs in the browser",
-      "url": "https://github.com/huytd/whyblunder/",
-      "summary": "I play chess casually and usually struggle to figure out why Lichess analysis say my move is a blunder. Almost all the analysis tools will just sugges...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-09-16T04:29:13.180066"
-    },
-    {
-      "title": "Arcade Tank Fight",
-      "url": "https://yijiali.itch.io/arcade-tank-fight",
-      "summary": "A local 2-player tank battle with unique projectiles and powerups.",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzMwMDI1Mjg1LnBuZw==/315x250%23c/Ommk7f.png",
-      "timestamp": "2026-09-16T04:29:13.189013"
+      "image": "https://img.itch.zone/aW1nLzMwMDI1MDgzLnBuZw==/315x250%23c/wk5iQc.png",
+      "timestamp": "2026-09-17T04:34:50.865314"
     },
     {
-      "title": "《inZOI》制作人群访：做得艰难但不后悔",
-      "url": "http://www.chuapp.com/article/291633.html",
-      "summary": "自2025年3月28日在Steam上线抢先体验版以来，生活模拟游戏《inZOI》经历了极大的系统改版甚至重制。这款游戏有些命途多舛。韩国游戏公司KRAFTON从宣布涉足生活模拟这个品类开始，就受到了很多关注；何况《inZOI》一直以相对写实的风格和打造更生动丰富的世界为卖点。\n不过，游戏的抢先体验版在功能和生活模拟深度上一直遭到诟病，在线玩家数量也一度出现大幅下滑。而且，除了单机版之外，游戏还在同...",
+      "title": "Gridbound (Demo)",
+      "url": "https://skidaddledev.itch.io/gridbound",
+      "summary": "A fantasy puzzle-strategy game of alchemy, essence, and clever grid optimization.",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzIzMDU1NDc1LnBuZw==/315x250%23c/xQ3trv.png",
+      "timestamp": "2026-09-17T04:34:50.865663"
+    },
+    {
+      "title": "Outblight",
+      "url": "https://megurte.itch.io/outblight",
+      "summary": "Turn-based clash battle roguelite",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "gameplay",
+      "image": "https://img.itch.zone/aW1nLzI5NzY1OTIyLmpwZw==/315x250%23c/U1Hur5.jpg",
+      "timestamp": "2026-09-17T04:34:50.866024"
+    },
+    {
+      "title": "《Warframe》持续长青的秘密，藏在这次玩家见面会上",
+      "url": "http://www.chuapp.com/article/291643.html",
+      "summary": "\n■ 别开生面的见面会\n\n9月12日西安，《Warframe》（星际战甲）官方线下活动TennoVIP化身为了一场&ldquo;中式游园会&rdquo;。\n玩家消费一张入场时免费分发的&ldquo;星际货币&rdquo;，就可以体验版画拓印，或者用非遗剪纸创作属于自己的星际战甲图样；也可以转动转盘，随机抽取星际主题糖画。人气最高的套圈摊位前更是排起长队：每位玩家有三次机会，套中哪个战甲，就能把它的...",
       "pub_time": "",
       "source": "触乐",
       "category": "game",
       "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-09-14/4446aa75fd02e4e8.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-16T04:29:13.189449"
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-09-16/7006aaa4e4ec9183.jpg?imageView2/2/w/700",
+      "timestamp": "2026-09-17T04:34:50.866378"
     },
     {
-      "title": "触乐怪话：“你的时间不多了”",
-      "url": "http://www.chuapp.com/article/291638.html",
-      "summary": "\n\n触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。\n\n\n已拔管，等重生&hellip;&hellip;（图/小罗）\n\n今天是9月15日，在这个时候，《EA Sports FC 26》的生命周期走完了。当然，你拥有这个游戏，理论上还是可以玩很久。单机模式大概可以永远玩下去，在线模式也还有四五年光景，只要在线服务器还开着，能在&ldquo;鬼服&rdquo;里匹配到人。只是作为历来&ldquo;F...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-09-15/6aa9194451695.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-16T04:29:13.190036"
-    },
-    {
-      "title": "米哈游宣布停运的AI数字人，被一群玩家“赛博永生”了",
-      "url": "http://www.chuapp.com/article/291639.html",
-      "summary": "&nbsp;&ldquo;你会说爱我吗？&rdquo;\n&ldquo;会的，不过不是现在，等你下次买葱油饼回来的时候当面说。&rdquo;女孩坐在钢琴前注视着镜头。\n&ldquo;这个视频回复还蛮&hellip;&hellip;感人的？&rdquo;我斟酌着用词，对发来视频的核桃说。\n&ldquo;是的，&rdquo;核桃看起来情绪起伏不大，&ldquo;这段视频可以用（在文章里），我的名字和确切...",
-      "pub_time": "",
-      "source": "触乐",
-      "category": "game",
-      "type": "gameplay",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-09-15/3386aa8db4adc5b8.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-16T04:29:13.190494"
-    },
-    {
-      "title": "Market Open",
-      "url": "https://algovisionhq.itch.io/market-open",
-      "summary": "A pixel fighting game - pick your trader, pick your spirit, 100 loadouts.",
+      "title": "Merdge 3D",
+      "url": "https://starr-architect.itch.io/merdge-3d",
+      "summary": "Starr_Architect Game",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzMwMDI1Mzg4LnBuZw==/315x250%23c/g8eVF2.png",
-      "timestamp": "2026-09-16T04:29:13.190972"
+      "image": "https://img.itch.zone/aW1nLzMwMDQzNjI0LnBuZw==/315x250%23c/L4EKUD.png",
+      "timestamp": "2026-09-17T04:34:50.866717"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -410,7 +412,7 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-09-16T04:29:13.191421"
+      "timestamp": "2026-09-17T04:34:50.867098"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -421,7 +423,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-09-16T04:29:13.191930"
+      "timestamp": "2026-09-17T04:34:50.867459"
     },
     {
       "title": "触乐怪话：播客初体验",
@@ -432,7 +434,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-04/6a9a7b2642e62.jpg?imageView2/2/w/700",
-      "timestamp": "2026-09-16T04:29:13.192414"
+      "timestamp": "2026-09-17T04:34:50.867825"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -443,7 +445,7 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.192924"
+      "timestamp": "2026-09-17T04:34:50.868221"
     },
     {
       "title": "Beginner Graphics Programming Study Guide",
@@ -454,63 +456,41 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-09-16T04:29:13.193472"
+      "timestamp": "2026-09-17T04:34:50.868634"
     },
     {
-      "title": "alchaholchemist (works?)",
-      "url": "https://joughei.itch.io/alchaholchemist-works",
-      "summary": "the other one was broken but its too late for the jam so im putting this one here cause its too good for no one to see",
-      "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "indie",
-      "image": "https://img.itch.zone/aW1nLzMwMDI1NTc4LnBuZw==/315x250%23c/5KqYof.png",
-      "timestamp": "2026-09-16T04:29:13.194030"
-    },
-    {
-      "title": "Indie devs and publishers hit in Gamescom equipment thefts",
-      "url": "https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts",
-      "summary": "Thieves obtained access to Gamescom's Indie Arena and business area and stole a number of laptops and Steam Decks from smaller exhibitors.",
-      "pub_time": "",
-      "source": "Game Developer",
-      "category": "game",
-      "type": "indie",
-      "image": "",
-      "timestamp": "2026-09-16T04:29:13.194565"
-    },
-    {
-      "title": "Oops! You're the Hero!",
-      "url": "https://store.steampowered.com/app/3166160",
+      "title": "江山美人",
+      "url": "https://store.steampowered.com/app/2877420",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3166160/1b0239964ad7ede8010861f92f7c7c737c482a6f/header.jpg?t=1789528083",
-      "timestamp": "2026-09-16T04:29:13.195124"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877420/header.jpg?t=1789615855",
+      "timestamp": "2026-09-17T04:34:50.869024"
     },
     {
-      "title": "箭域卡战",
-      "url": "https://store.steampowered.com/app/5011490",
+      "title": "灵山未至",
+      "url": "https://store.steampowered.com/app/4944390",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5011490/014a7243961d01fbd11d253f85649ea3ad8c7572/header.jpg?t=1789524010",
-      "timestamp": "2026-09-16T04:29:13.195691"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944390/7416f6c1a99d7ad7d06b6854ce30fadab15906c0/header.jpg?t=1789614906",
+      "timestamp": "2026-09-17T04:34:50.869460"
     },
     {
-      "title": "伊莫",
-      "url": "https://store.steampowered.com/app/4126040",
+      "title": "DJMAX RESPECT V - Dungeon & Fighter PACK",
+      "url": "https://store.steampowered.com/app/5201910",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789523496",
-      "timestamp": "2026-09-16T04:29:13.237368"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201910/017d09e6469208e187bd9c0e6fa3caaf1f447ac8/header.jpg?t=1789614029",
+      "timestamp": "2026-09-17T04:34:50.869883"
     }
   ],
-  "last_cleanup": "2026-09-16T04:29:13.237392"
+  "last_cleanup": "2026-09-17T04:34:50.869889"
 }
