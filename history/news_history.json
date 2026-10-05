@@ -1,44 +1,15 @@
 {
   "news": [
     {
-      "title": "KKKKhazix/AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "language": "TypeScript",
-      "stars": 5511,
-      "forks": 1438,
-      "watchers": 5511,
-      "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-04T05:27:32Z",
-      "topics": [
-        "ai",
-        "content-curation",
-        "llm",
-        "mcp",
-        "news-aggregator",
-        "rss",
-        "self-hosted",
-        "typescript"
-      ],
-      "license": "MIT License",
-      "homepage": "https://aihot.news",
-      "open_issues": 21,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "5.5K",
-      "timestamp": "2026-10-04T05:31:03.585295"
-    },
-    {
       "title": "rehan-remade/universal-modder",
       "url": "https://github.com/rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 2687,
-      "forks": 237,
-      "watchers": 2687,
+      "stars": 3310,
+      "forks": 291,
+      "watchers": 3310,
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-04T05:28:19Z",
+      "updated_at": "2026-10-05T05:12:45Z",
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -53,43 +24,43 @@
       ],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 13,
+      "open_issues": 15,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.7K",
-      "timestamp": "2026-10-04T05:31:03.585504"
+      "stars_formatted": "3.3K",
+      "timestamp": "2026-10-05T05:14:01.258532"
     },
     {
       "title": "CopilotKit/OpenDots",
       "url": "https://github.com/CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "language": "TypeScript",
-      "stars": 2658,
-      "forks": 327,
-      "watchers": 2658,
+      "stars": 3265,
+      "forks": 430,
+      "watchers": 3265,
       "created_at": "2026-09-29T17:13:58Z",
-      "updated_at": "2026-10-04T05:28:38Z",
+      "updated_at": "2026-10-05T05:09:41Z",
       "topics": [],
       "license": "MIT License",
       "homepage": "https://www.copilotkit.ai/opendots",
-      "open_issues": 31,
+      "open_issues": 60,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.7K",
-      "timestamp": "2026-10-04T05:31:03.585658"
+      "stars_formatted": "3.3K",
+      "timestamp": "2026-10-05T05:14:01.258773"
     },
     {
       "title": "feder-cr/dots",
       "url": "https://github.com/feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "language": "Python",
-      "stars": 2577,
-      "forks": 436,
-      "watchers": 2577,
+      "stars": 2605,
+      "forks": 437,
+      "watchers": 2605,
       "created_at": "2026-09-29T23:06:00Z",
-      "updated_at": "2026-10-04T05:29:11Z",
+      "updated_at": "2026-10-05T04:18:50Z",
       "topics": [
         "ai-agent",
         "ai-agents",
@@ -119,58 +90,18 @@
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "2.6K",
-      "timestamp": "2026-10-04T05:31:03.589369"
-    },
-    {
-      "title": "wy51ai/floorplan-3d",
-      "url": "https://github.com/wy51ai/floorplan-3d",
-      "description": "",
-      "language": "HTML",
-      "stars": 1365,
-      "forks": 281,
-      "watchers": 1365,
-      "created_at": "2026-09-29T02:57:30Z",
-      "updated_at": "2026-10-04T04:02:04Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 5,
-      "default_branch": "master",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.4K",
-      "timestamp": "2026-10-04T05:31:03.589774"
-    },
-    {
-      "title": "firelex/jeff",
-      "url": "https://github.com/firelex/jeff",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "language": "Python",
-      "stars": 1351,
-      "forks": 64,
-      "watchers": 1351,
-      "created_at": "2026-09-28T16:18:39Z",
-      "updated_at": "2026-10-04T00:47:11Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": "https://jeffhub.ai",
-      "open_issues": 5,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.4K",
-      "timestamp": "2026-10-04T05:31:03.590174"
+      "timestamp": "2026-10-05T05:14:01.259017"
     },
     {
       "title": "nanaism/yomiyasu",
       "url": "https://github.com/nanaism/yomiyasu",
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stars": 1340,
-      "forks": 29,
-      "watchers": 1340,
+      "stars": 1423,
+      "forks": 32,
+      "watchers": 1423,
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-04T05:14:27Z",
+      "updated_at": "2026-10-05T05:12:23Z",
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -189,53 +120,113 @@
       ],
       "license": "MIT License",
       "homepage": "",
-      "open_issues": 0,
+      "open_issues": 2,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "1.3K",
-      "timestamp": "2026-10-04T05:31:03.590637"
+      "stars_formatted": "1.4K",
+      "timestamp": "2026-10-05T05:14:01.259501"
     },
     {
-      "title": "edenfunf/reelmimic",
-      "url": "https://github.com/edenfunf/reelmimic",
-      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "language": "JavaScript",
-      "stars": 1142,
-      "forks": 149,
-      "watchers": 1142,
-      "created_at": "2026-09-28T19:14:59Z",
-      "updated_at": "2026-10-04T05:24:36Z",
-      "topics": [
-        "2d-animation",
-        "ai-agents",
-        "ai-video",
-        "animation",
-        "claude-code",
-        "codex",
-        "multi-agent",
-        "style-transfer",
-        "video-generation"
-      ],
+      "title": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "description": "",
+      "language": "HTML",
+      "stars": 1397,
+      "forks": 287,
+      "watchers": 1397,
+      "created_at": "2026-09-29T02:57:30Z",
+      "updated_at": "2026-10-05T04:54:23Z",
+      "topics": [],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 30,
+      "open_issues": 5,
+      "default_branch": "master",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.4K",
+      "timestamp": "2026-10-05T05:14:01.259953"
+    },
+    {
+      "title": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 1249,
+      "forks": 230,
+      "watchers": 1249,
+      "created_at": "2026-10-02T18:21:23Z",
+      "updated_at": "2026-10-05T05:11:07Z",
+      "topics": [],
+      "license": "Apache License 2.0",
+      "homepage": "gadgets.muse.ai",
+      "open_issues": 39,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.2K",
+      "timestamp": "2026-10-05T05:14:01.260317"
+    },
+    {
+      "title": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 1147,
+      "forks": 81,
+      "watchers": 1147,
+      "created_at": "2026-10-02T09:57:40Z",
+      "updated_at": "2026-10-05T05:12:58Z",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ],
+      "license": "MIT License",
+      "homepage": "",
+      "open_issues": 12,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
       "stars_formatted": "1.1K",
-      "timestamp": "2026-10-04T05:31:03.591140"
+      "timestamp": "2026-10-05T05:14:01.260742"
+    },
+    {
+      "title": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "language": "Python",
+      "stars": 1113,
+      "forks": 56,
+      "watchers": 1113,
+      "created_at": "2026-09-29T01:29:57Z",
+      "updated_at": "2026-10-05T05:12:47Z",
+      "topics": [],
+      "license": "MIT License",
+      "homepage": null,
+      "open_issues": 9,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "1.1K",
+      "timestamp": "2026-10-05T05:14:01.261199"
     },
     {
       "title": "CAPCOM-TD-OSS/REDox",
       "url": "https://github.com/CAPCOM-TD-OSS/REDox",
       "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
       "language": "C#",
-      "stars": 993,
-      "forks": 27,
-      "watchers": 993,
+      "stars": 1036,
+      "forks": 29,
+      "watchers": 1036,
       "created_at": "2026-09-30T10:20:07Z",
-      "updated_at": "2026-10-04T05:21:29Z",
+      "updated_at": "2026-10-05T05:02:53Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": null,
@@ -243,39 +234,83 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "993",
-      "timestamp": "2026-10-04T05:31:03.591563"
+      "stars_formatted": "1.0K",
+      "timestamp": "2026-10-05T05:14:01.261657"
     },
     {
-      "title": "facebookincubator/muse-gadget-sdk",
-      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-      "description": "Open source SDK to build Muse gadgets",
-      "language": "C",
-      "stars": 932,
-      "forks": 157,
-      "watchers": 932,
-      "created_at": "2026-10-02T18:21:23Z",
-      "updated_at": "2026-10-04T05:29:37Z",
+      "title": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "description": "",
+      "language": "Rust",
+      "stars": 1026,
+      "forks": 110,
+      "watchers": 1026,
+      "created_at": "2026-09-30T13:37:48Z",
+      "updated_at": "2026-10-05T05:12:36Z",
       "topics": [],
       "license": "Apache License 2.0",
-      "homepage": "gadgets.muse.ai",
+      "homepage": null,
       "open_issues": 34,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "932",
-      "timestamp": "2026-10-04T05:31:03.592088"
+      "stars_formatted": "1.0K",
+      "timestamp": "2026-10-05T05:14:01.262133"
     },
     {
-      "title": "Billions of triangles redux",
-      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "url": "https://niklasroy.com/gtc/",
+      "summary": "This is a functional 30-minute pendulum clock entirely from discarded materials—cardboard, zip ties, tape, a yardstick, and a paperclip escapement, bu...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-10-05T05:14:01.271639"
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
       "summary": "",
       "pub_time": "",
-      "source": "Hacker News",
-      "category": "startup",
-      "type": "investment",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.592654"
+      "timestamp": "2026-10-05T05:14:01.272273"
+    },
+    {
+      "title": "Show HN: Ramen – self-hosted multi-zone MCP server for Kubernetes(Rust & Python)",
+      "url": "https://github.com/bkraad47/ramen",
+      "summary": "",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-10-05T05:14:01.272916"
+    },
+    {
+      "title": "Show HN: Build with Python – a beginner course where your code draws",
+      "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+      "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-10-05T05:14:01.273454"
+    },
+    {
+      "title": "Show HN: HyperCMD, write CLI applications using plain HTML",
+      "url": "https://github.com/fusor-rs/hypercmd",
+      "summary": "I&#x27;ve been working on this repo, it allows you to write CLI applications using plain HTML. For the behavioral side, you write the states&#x2F;beha...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-10-05T05:14:01.274016"
     },
     {
       "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
@@ -286,7 +321,7 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.600477"
+      "timestamp": "2026-10-05T05:14:01.274568"
     },
     {
       "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
@@ -297,18 +332,7 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.600993"
-    },
-    {
-      "title": "Show HN: SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
-      "url": "https://arxiv.org/abs/2608.08253",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-04T05:31:03.601687"
+      "timestamp": "2026-10-05T05:14:01.275159"
     },
     {
       "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
@@ -319,95 +343,51 @@
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.602262"
+      "timestamp": "2026-10-05T05:14:01.275731"
     },
     {
-      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-      "url": "https://github.com/graphene-data/graphene",
-      "summary": "My friend and I have worked at a number of BI companies and thought: Can’t a coding agent do most of this now?Almost. They just need a context&#x2F;se...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-04T05:31:03.602774"
-    },
-    {
-      "title": "Show HN: Second Strike, a 200-player world war on a 3D globe in the browser",
-      "url": "https://secondstrike.io/",
+      "title": "Show HN: xxWikiJS knowledge base from your docs, answers with verified citations",
+      "url": "https://gmaterni.github.io/wikijs/wikijs.html",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.603404"
+      "timestamp": "2026-10-05T05:14:01.276328"
     },
     {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in ...",
+      "title": "Show HN: An eBPF kernel guard for vTPM access",
+      "url": "https://github.com/bschaatsbergen/tpmlsm",
+      "summary": "A kernel guard I prototyped after eBPF and vTPM work for a customer, where we use the TPM to protect the private keys for mTLS. Any process running as...",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.604013"
+      "timestamp": "2026-10-05T05:14:01.276953"
     },
     {
-      "title": "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-      "url": "https://getjpm.sh/",
-      "summary": "",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-04T05:31:03.604593"
-    },
-    {
-      "title": "Show HN: NetworkX and pyarrow = 6-7x memory savings",
-      "url": "https://github.com/networkx/networkx/discussions/8933",
-      "summary": "Writes will be slower though. That&#x27;s the trade-off for all columnar tech in general. You can enjoy the savings for a read-only network and switch...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-04T05:31:03.605165"
-    },
-    {
-      "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-      "url": "https://github.com/kitao/pyxel",
-      "summary": "Hi HN, I&#x27;m the creator of Pyxel, a free, MIT-licensed retro game engine for Python. I&#x27;ve been developing it since 2018, and it recently pass...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-04T05:31:03.605711"
-    },
-    {
-      "title": "Cozy Puzzle",
-      "url": "https://leonavas.itch.io/cozy-puzzle",
-      "summary": "",
+      "title": "Rooklite",
+      "url": "https://eliasguyd.itch.io/rooklite",
+      "summary": "Free demo of a chess roguelite: every battle is a small board inside a map that is a chessboard too.",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzMwNTE5NDYzLnBuZw==/315x250%23c/6w483W.png",
-      "timestamp": "2026-10-04T05:31:03.614780"
+      "image": "https://img.itch.zone/aW1nLzMwNTU3MjEyLnBuZw==/315x250%23c/mQ%2B6DJ.png",
+      "timestamp": "2026-10-05T05:14:01.288005"
     },
     {
-      "title": "Zeu´s Path",
-      "url": "https://goramirez.itch.io/zeus",
-      "summary": "Guide Zeus’s lightning through 35 puzzles. Master mirrors, clouds, and timing to prepare for the Titans.",
+      "title": "Coin Circus — Minigame 1",
+      "url": "https://wanqiliang.itch.io/coin-circus-minigame-1",
+      "summary": "A first-person parkour level with coins, spikes, and a golden finish.",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzMwNTIwMTg4LnBuZw==/315x250%23c/6ge5%2Ff.png",
-      "timestamp": "2026-10-04T05:31:03.615404"
+      "image": "https://img.itch.zone/aW1nLzMwNTU3NzI3LnBuZw==/315x250%23c/%2Bm64ka.png",
+      "timestamp": "2026-10-05T05:14:01.288738"
     },
     {
       "title": "战马工作室成立15年，创始人从来不走寻常路",
@@ -418,7 +398,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-30/8036abceeb6bb3a6.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-04T05:31:03.616071"
+      "timestamp": "2026-10-05T05:14:01.289411"
     },
     {
       "title": "十一假期玩什么：摄影冒险新旅程，空战奇兵再起飞，跟过劳上班族一起看海",
@@ -429,18 +409,18 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-29/7076abb2da81ca06.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-04T05:31:03.616707"
+      "timestamp": "2026-10-05T05:14:01.290128"
     },
     {
-      "title": "Pumpkin Girl",
-      "url": "https://shizuka-aieda.itch.io/pumpkingirl",
-      "summary": "horror, visual novel, short, browser playable, halloween, english",
+      "title": "Dash City",
+      "url": "https://nothinnice3gmailcom.itch.io/dash-city",
+      "summary": "Deliver food & Plum Mobile phones around a 3D city with Illegal Methodman — The Food Plug delivery game.",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzMwNTIwMDgwLnBuZw==/315x250%23c/vZwyOq.png",
-      "timestamp": "2026-10-04T05:31:03.617399"
+      "image": "https://img.itch.zone/aW1nLzMwNTU0MTI2LnBuZw==/315x250%23c/FwoU6f.png",
+      "timestamp": "2026-10-05T05:14:01.290831"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -451,7 +431,7 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-10-04T05:31:03.618018"
+      "timestamp": "2026-10-05T05:14:01.291506"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -462,7 +442,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-10-04T05:31:03.618659"
+      "timestamp": "2026-10-05T05:14:01.292509"
     },
     {
       "title": "触乐怪话：说不定我们可以把调查报道做成游戏？",
@@ -473,7 +453,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-24/6ab4ce0e3b863.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-04T05:31:03.619492"
+      "timestamp": "2026-10-05T05:14:01.293273"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -484,18 +464,18 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.620162"
+      "timestamp": "2026-10-05T05:14:01.294029"
     },
     {
-      "title": "Beginner Graphics Programming Study Guide",
-      "url": "https://gamedev.net/tutorials/programming/graphics/beginner-graphics-programming-study-guide-r6168",
-      "summary": "IntroductionAboutThis is a roadmap for learning basic graphics programming on one’s own, from free online resources. While graphics as a field isn’t tied to any specific programming language, tool, pl...",
+      "title": "A Unity handover should survive a second machine",
+      "url": "https://gamedev.net/blogs/entry/2298465-a-unity-handover-should-survive-a-second-machine",
+      "summary": "A game opening on its original developer's computer is a useful demonstration. It is not yet a reproducible handover. That machine can hide the exact editor installation, a locally cached dependency, ...",
       "pub_time": "",
       "source": "GameDev.net",
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-10-04T05:31:03.620844"
+      "timestamp": "2026-10-05T05:14:01.294790"
     },
     {
       "title": "“TapTap玩聚节”是如何办成的？",
@@ -506,52 +486,41 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-10-01/3976abe6bb8d9554.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-04T05:31:03.621502"
+      "timestamp": "2026-10-05T05:14:01.295586"
     },
     {
-      "title": "AI can clone your indie game, but not its soul",
-      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-      "summary": "",
-      "pub_time": "",
-      "source": "Hacker News",
-      "category": "game",
-      "type": "indie",
-      "image": "https://pbs.twimg.com/media/HTo6GQqXkAE6wKP?format=webp&amp;name=large",
-      "timestamp": "2026-10-04T05:31:03.622214"
-    },
-    {
-      "title": "Demon Lord: Clicker",
-      "url": "https://store.steampowered.com/app/1742110",
+      "title": "Chamele-Guess",
+      "url": "https://store.steampowered.com/app/5142570",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742110/425194813dc404cdf4c74e4bfe38bdcbf92c7b4d/header.jpg?t=1791064529",
-      "timestamp": "2026-10-04T05:31:03.622888"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142570/386cdeb8b6b661d1ad342a8ba1d719fe0e7585e5/header.jpg?t=1791172639",
+      "timestamp": "2026-10-05T05:14:01.296383"
     },
     {
-      "title": "Nobody Clocks Out",
-      "url": "https://store.steampowered.com/app/5262000",
+      "title": "Hexcavate",
+      "url": "https://store.steampowered.com/app/5239340",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262000/c84de2c60e00c72d0ff8591f357503b979b3ab29/header.jpg?t=1791049571",
-      "timestamp": "2026-10-04T05:31:03.623561"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5239340/763a61c3e9cd9e244e3121eb8c7b372857cd9cbc/header.jpg?t=1791155586",
+      "timestamp": "2026-10-05T05:14:01.297240"
     },
     {
-      "title": "神笔：鱼",
-      "url": "https://store.steampowered.com/app/5006170",
+      "title": "FussyCraft Survival: Sandbox",
+      "url": "https://store.steampowered.com/app/4729900",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006170/1def9a0b5b086e95ba48656c2b00b38c72438fb4/header.jpg?t=1791040897",
-      "timestamp": "2026-10-04T05:31:03.624410"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729900/ae8b1abd82fa70bf0cab9cf78c1651c120eee27e/header.jpg?t=1791148774",
+      "timestamp": "2026-10-05T05:14:01.298071"
     }
   ],
-  "last_cleanup": "2026-10-04T05:31:03.624420"
+  "last_cleanup": "2026-10-05T05:14:01.298087"
 }
