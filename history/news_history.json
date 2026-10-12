@@ -5,11 +5,11 @@
       "url": "https://github.com/openai/math",
       "description": "",
       "language": "Lean",
-      "stars": 13755,
-      "forks": 1520,
-      "watchers": 13755,
+      "stars": 14161,
+      "forks": 1595,
+      "watchers": 14161,
       "created_at": "2026-10-06T21:47:02Z",
-      "updated_at": "2026-10-11T05:18:01Z",
+      "updated_at": "2026-10-12T05:28:36Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": null,
@@ -17,39 +17,64 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "13.8K",
-      "timestamp": "2026-10-11T05:23:42.916001"
+      "stars_formatted": "14.2K",
+      "timestamp": "2026-10-12T05:35:23.012449"
     },
     {
       "title": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "language": "Rust",
-      "stars": 3362,
-      "forks": 992,
-      "watchers": 3362,
+      "stars": 6610,
+      "forks": 1868,
+      "watchers": 6610,
       "created_at": "2026-10-07T08:34:24Z",
-      "updated_at": "2026-10-11T05:22:15Z",
+      "updated_at": "2026-10-12T05:34:38Z",
       "topics": [],
       "license": "Apache License 2.0",
       "homepage": "https://getartcraft.com/apps/wordcraft",
-      "open_issues": 265,
+      "open_issues": 255,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "3.4K",
-      "timestamp": "2026-10-11T05:23:42.916247"
+      "stars_formatted": "6.6K",
+      "timestamp": "2026-10-12T05:35:23.012649"
+    },
+    {
+      "title": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "language": "JavaScript",
+      "stars": 3919,
+      "forks": 310,
+      "watchers": 3919,
+      "created_at": "2026-10-08T10:12:49Z",
+      "updated_at": "2026-10-12T05:34:33Z",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "license": "MIT License",
+      "homepage": "https://skills.wheresryan.sh/anatomy",
+      "open_issues": 3,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "3.9K",
+      "timestamp": "2026-10-12T05:35:23.012862"
     },
     {
       "title": "alchaincyf/huashu-art-motion",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "language": "JavaScript",
-      "stars": 3263,
-      "forks": 357,
-      "watchers": 3263,
+      "stars": 3437,
+      "forks": 387,
+      "watchers": 3437,
       "created_at": "2026-10-06T04:49:37Z",
-      "updated_at": "2026-10-11T05:17:44Z",
+      "updated_at": "2026-10-12T05:32:00Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
@@ -57,19 +82,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "3.3K",
-      "timestamp": "2026-10-11T05:23:42.916478"
+      "stars_formatted": "3.4K",
+      "timestamp": "2026-10-12T05:35:23.013377"
     },
     {
       "title": "mhtsec/ARTEX",
       "url": "https://github.com/mhtsec/ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "language": "Go",
-      "stars": 2973,
-      "forks": 5390,
-      "watchers": 2973,
+      "stars": 3310,
+      "forks": 5730,
+      "watchers": 3310,
       "created_at": "2026-10-08T05:33:06Z",
-      "updated_at": "2026-10-11T05:12:54Z",
+      "updated_at": "2026-10-12T05:33:01Z",
       "topics": [],
       "license": "GNU Affero General Public License v3.0",
       "homepage": null,
@@ -77,59 +102,99 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "3.0K",
-      "timestamp": "2026-10-11T05:23:42.927738"
+      "stars_formatted": "3.3K",
+      "timestamp": "2026-10-12T05:35:23.013841"
     },
     {
       "title": "zhongerxin/iPhone-use",
       "url": "https://github.com/zhongerxin/iPhone-use",
       "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "language": "Python",
-      "stars": 2674,
-      "forks": 268,
-      "watchers": 2674,
+      "stars": 3173,
+      "forks": 319,
+      "watchers": 3173,
       "created_at": "2026-10-06T15:09:33Z",
-      "updated_at": "2026-10-11T05:21:24Z",
+      "updated_at": "2026-10-12T05:21:59Z",
       "topics": [],
       "license": "MIT License",
       "homepage": null,
-      "open_issues": 13,
+      "open_issues": 15,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.7K",
-      "timestamp": "2026-10-11T05:23:42.928396"
+      "stars_formatted": "3.2K",
+      "timestamp": "2026-10-12T05:35:23.014234"
+    },
+    {
+      "title": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "language": "Rust",
+      "stars": 3120,
+      "forks": 1299,
+      "watchers": 3120,
+      "created_at": "2026-10-07T05:18:16Z",
+      "updated_at": "2026-10-12T05:34:23Z",
+      "topics": [],
+      "license": "Apache License 2.0",
+      "homepage": "",
+      "open_issues": 200,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "3.1K",
+      "timestamp": "2026-10-12T05:35:23.014672"
+    },
+    {
+      "title": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "language": "Rust",
+      "stars": 2831,
+      "forks": 1304,
+      "watchers": 2831,
+      "created_at": "2026-10-07T05:22:31Z",
+      "updated_at": "2026-10-12T05:33:12Z",
+      "topics": [],
+      "license": "Apache License 2.0",
+      "homepage": null,
+      "open_issues": 105,
+      "default_branch": "main",
+      "source": "GitHub",
+      "category": "github",
+      "stars_formatted": "2.8K",
+      "timestamp": "2026-10-12T05:35:23.015065"
     },
     {
       "title": "nullmoth/nvidia-macos-driver",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
       "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
       "language": "Rust",
-      "stars": 2341,
-      "forks": 213,
-      "watchers": 2341,
+      "stars": 2590,
+      "forks": 236,
+      "watchers": 2590,
       "created_at": "2026-10-07T08:13:12Z",
-      "updated_at": "2026-10-11T05:22:10Z",
+      "updated_at": "2026-10-12T05:31:24Z",
       "topics": [],
       "license": "Other",
       "homepage": "https://nullmothsystems.com",
-      "open_issues": 95,
+      "open_issues": 125,
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.3K",
-      "timestamp": "2026-10-11T05:23:42.929438"
+      "stars_formatted": "2.6K",
+      "timestamp": "2026-10-12T05:35:23.015509"
     },
     {
       "title": "LosaLosSantos/aurelio-finance",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "language": "Python",
-      "stars": 2095,
-      "forks": 215,
-      "watchers": 2095,
+      "stars": 2388,
+      "forks": 289,
+      "watchers": 2388,
       "created_at": "2026-10-06T20:14:19Z",
-      "updated_at": "2026-10-11T04:33:32Z",
+      "updated_at": "2026-10-12T05:33:47Z",
       "topics": [
         "ai",
         "dividends",
@@ -152,79 +217,19 @@
       "default_branch": "main",
       "source": "GitHub",
       "category": "github",
-      "stars_formatted": "2.1K",
-      "timestamp": "2026-10-11T05:23:42.930014"
+      "stars_formatted": "2.4K",
+      "timestamp": "2026-10-12T05:35:23.015931"
     },
     {
-      "title": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "language": "Rust",
-      "stars": 1959,
-      "forks": 839,
-      "watchers": 1959,
-      "created_at": "2026-10-07T05:22:31Z",
-      "updated_at": "2026-10-11T05:21:21Z",
-      "topics": [],
-      "license": "Apache License 2.0",
-      "homepage": null,
-      "open_issues": 184,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "2.0K",
-      "timestamp": "2026-10-11T05:23:42.930698"
-    },
-    {
-      "title": "storytold/gridcraft",
-      "url": "https://github.com/storytold/gridcraft",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "language": "Rust",
-      "stars": 1949,
-      "forks": 741,
-      "watchers": 1949,
-      "created_at": "2026-10-07T05:18:16Z",
-      "updated_at": "2026-10-11T05:22:09Z",
-      "topics": [],
-      "license": "Apache License 2.0",
-      "homepage": "",
-      "open_issues": 114,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.9K",
-      "timestamp": "2026-10-11T05:23:42.931295"
-    },
-    {
-      "title": "noahdunnagan/fsearch",
-      "url": "https://github.com/noahdunnagan/fsearch",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-      "language": "Rust",
-      "stars": 1669,
-      "forks": 109,
-      "watchers": 1669,
-      "created_at": "2026-10-08T17:50:33Z",
-      "updated_at": "2026-10-11T05:22:11Z",
-      "topics": [],
-      "license": "MIT License",
-      "homepage": null,
-      "open_issues": 8,
-      "default_branch": "main",
-      "source": "GitHub",
-      "category": "github",
-      "stars_formatted": "1.7K",
-      "timestamp": "2026-10-11T05:23:42.931882"
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
       "summary": "",
       "pub_time": "",
       "source": "Hacker News",
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.936873"
+      "timestamp": "2026-10-12T05:35:23.018901"
     },
     {
       "title": "Cloudflare acquires Deno",
@@ -235,161 +240,117 @@
       "category": "startup",
       "type": "investment",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.937602"
+      "timestamp": "2026-10-12T05:35:23.019419"
     },
     {
-      "title": "Supreme Court: 401(k) case over private funds and underperformance",
-      "url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-      "summary": "",
-      "pub_time": "",
-      "source": "Hacker News",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-10-11T05:23:42.938255"
-    },
-    {
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "summary": "",
-      "pub_time": "",
-      "source": "Hacker News",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-10-11T05:23:42.939010"
-    },
-    {
-      "title": "MrBeast 'spends millions reverse engineering the algorithms on each platform'",
-      "url": "https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas",
-      "summary": "",
-      "pub_time": "",
-      "source": "Hacker News",
-      "category": "startup",
-      "type": "investment",
-      "image": "",
-      "timestamp": "2026-10-11T05:23:42.939702"
-    },
-    {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "url": "https://hangul.ink/blog/hangul-day",
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.948476"
+      "timestamp": "2026-10-12T05:35:23.026666"
     },
     {
-      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "url": "https://github.com/moritzwilksch/diffle",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://github.com/plimsollmark/plimsoll",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.949691"
+      "timestamp": "2026-10-12T05:35:23.027208"
     },
     {
-      "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
-      "url": "https://littleguys.hervalicio.us",
+      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+      "url": "https://github.com/swimmingbrain/brainotes",
+      "summary": "In August, I posted here about TeXbrain, a LaTeX editor that runs completely in the browser, with no need for an account or server. (I didn&#x27;t exc...",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-10-12T05:35:23.027696"
+    },
+    {
+      "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+      "url": "https://github.com/qufei1993/skills-hub",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.950508"
+      "timestamp": "2026-10-12T05:35:23.028241"
     },
     {
-      "title": "Show HN: Proton Drive for Linux",
-      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "summary": "Hello everyone, I wanted to share this small project that I have.\nIt&#x27;s born out of a necessity that I had, because Proton doesn&#x27;t ship a Lin...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-11T05:23:42.951234"
-    },
-    {
-      "title": "Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
-      "url": "https://github.com/academa-labs/manimgx",
-      "summary": "Video as code took off with the Opus 5.5 release. People now make videos by writing code, with Remotion, HyperFrames and others.We wanted the same for...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-11T05:23:42.951912"
-    },
-    {
-      "title": "Show HN: Free LED pixel-pitch and display-size calculators (open source)",
-      "url": "https://boardsy.co.uk/free-exhibition-display-tools/",
+      "title": "Show HN: Clotr, a browser extension that warns you before you send PII",
+      "url": "https://github.com/clotr-app/clotr/releases/tag/v1.3.0",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.952602"
+      "timestamp": "2026-10-12T05:35:23.028737"
     },
     {
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
+      "title": "Show HN: If MIT OCW Was Like Cable TV",
+      "url": "https://rahulch.site/mitocwtv/",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.953311"
+      "timestamp": "2026-10-12T05:35:23.029356"
     },
     {
-      "title": "Show HN: TruthBeacon – Open-source Discord moderation app in Tauri and Rust",
-      "url": "https://github.com/boredpolymath/truth-beacon",
+      "title": "Show HN: Preloop – GitHub Actions locally in microvms and SSH/pause failures",
+      "url": "https://github.com/preloopdev/preloop",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.954121"
+      "timestamp": "2026-10-12T05:35:23.029868"
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.carrier-explode also conta...",
-      "pub_time": "",
-      "source": "Show HN",
-      "category": "opportunity",
-      "type": "low_cost",
-      "image": "",
-      "timestamp": "2026-10-11T05:23:42.954893"
-    },
-    {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "title": "Show HN: LLMxRay an open-source observability tool for LLMs",
+      "url": "https://github.com/LogneBudo/llmxray",
       "summary": "",
       "pub_time": "",
       "source": "Show HN",
       "category": "opportunity",
       "type": "low_cost",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.955703"
+      "timestamp": "2026-10-12T05:35:23.030423"
     },
     {
-      "title": "Four Stops, Four Drinks — Free Logic Grid Puzzle",
-      "url": "https://quiet-signal.itch.io/four-stops-four-drinks",
-      "summary": "Match four friends, places, drinks and times using seven clues. One free browser puzzle.",
+      "title": "Show HN: SecuBuzz – Factual 60-word cybersecurity briefs and CISA zero-day radar",
+      "url": "https://secubuzz.com/",
+      "summary": "",
       "pub_time": "",
-      "source": "itch.io",
-      "category": "game",
-      "type": "gameplay",
-      "image": "https://img.itch.zone/aW1nLzMwNzQ2OTcyLnBuZw==/315x250%23c/aOinN8.png",
-      "timestamp": "2026-10-11T05:23:42.967924"
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-10-12T05:35:23.030955"
+    },
+    {
+      "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
+      "url": "https://www.seodata.dev/",
+      "summary": "Updated API with faster responses and added MCP 2.0",
+      "pub_time": "",
+      "source": "Show HN",
+      "category": "opportunity",
+      "type": "low_cost",
+      "image": "",
+      "timestamp": "2026-10-12T05:35:23.031544"
     },
     {
       "title": "触乐本周行业大事：《王者荣耀》中国队名古屋亚运会卫冕，《三角洲行动》官宣日活破5800万",
@@ -400,7 +361,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-10-09/1246ac8e2b3d117b.png?imageView2/2/w/700",
-      "timestamp": "2026-10-11T05:23:42.969285"
+      "timestamp": "2026-10-12T05:35:23.045048"
     },
     {
       "title": "为什么草莓音乐节会做一场游戏展？",
@@ -411,7 +372,7 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-10-09/6746ac8a11bad457.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-11T05:23:42.970285"
+      "timestamp": "2026-10-12T05:35:23.045753"
     },
     {
       "title": "触乐夜话：购买了游戏圈的未来",
@@ -422,18 +383,29 @@
       "category": "game",
       "type": "gameplay",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-10-09/6ac88e94049dc.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-11T05:23:42.971113"
+      "timestamp": "2026-10-12T05:35:23.046416"
     },
     {
-      "title": "Untitled and Uninvited",
-      "url": "https://runegm.itch.io/untitleduninvited",
-      "summary": "Jimmy's Party",
+      "title": "《影之刃零》前瞻：一次相当完备的探索与战斗之旅",
+      "url": "http://www.chuapp.com/article/291679.html",
+      "summary": "9月3日，触乐应灵游坊邀请，参加了《影之刃零》的闭门线下试玩会。这次试玩的重要之处在于，活动中提供的版本可以说与即将发售的版本没有太大区别。在约5个小时的试玩过程中，我们较为完整地体验到了故事开场、剧情CG、关卡设计与Boss战，甚至还有手柄反馈这类细节，流程涵盖整个第一章的大地图、隐藏图、隐藏Boss，少量第二章内容以及两个后期Boss。\n如果说，之前灵游坊零星放出的试玩还会让人有种管中窥豹的感...",
+      "pub_time": "",
+      "source": "触乐",
+      "category": "game",
+      "type": "gameplay",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-10-08/1216ac7b5e63fb54.jpg?imageView2/2/w/700",
+      "timestamp": "2026-10-12T05:35:23.047065"
+    },
+    {
+      "title": "Wicklight",
+      "url": "https://rxvy.itch.io/wicklight",
+      "summary": "Your head is the last flame in the world. Throw it. A free 3D pixel-art adventure for Linux.",
       "pub_time": "",
       "source": "itch.io",
       "category": "game",
       "type": "art",
-      "image": "https://img.itch.zone/aW1nLzMwNzEzMTM4LnBuZw==/315x250%23c/nfzETQ.png",
-      "timestamp": "2026-10-11T05:23:42.971975"
+      "image": "https://img.itch.zone/aW1nLzMwNzg2ODI5LnBuZw==/315x250%23c/Zy6I9E.png",
+      "timestamp": "2026-10-12T05:35:23.047773"
     },
     {
       "title": "​Our Life: Beginnings & Always",
@@ -444,7 +416,7 @@
       "category": "game",
       "type": "art",
       "image": "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
-      "timestamp": "2026-10-11T05:23:42.972946"
+      "timestamp": "2026-10-12T05:35:23.048496"
     },
     {
       "title": "Adventures With Anxiety!",
@@ -455,7 +427,7 @@
       "category": "game",
       "type": "narrative",
       "image": "https://img.itch.zone/aW1nLzI3NjQ4NjUucG5n/315x250%23c/DZfV4W.png",
-      "timestamp": "2026-10-11T05:23:42.973962"
+      "timestamp": "2026-10-12T05:35:23.049206"
     },
     {
       "title": "触乐怪话：说不定我们可以把调查报道做成游戏？",
@@ -466,18 +438,7 @@
       "category": "game",
       "type": "narrative",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-09-24/6ab4ce0e3b863.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-11T05:23:42.974806"
-    },
-    {
-      "title": "Wallpaper Engine：壁纸引擎",
-      "url": "https://store.steampowered.com/app/431960",
-      "summary": "",
-      "pub_time": "",
-      "source": "Steam",
-      "category": "game",
-      "type": "tech",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header_schinese.jpg?t=1779452230",
-      "timestamp": "2026-10-11T05:23:42.976090"
+      "timestamp": "2026-10-12T05:35:23.049905"
     },
     {
       "title": "Craftpix Indie Jam 2",
@@ -488,7 +449,29 @@
       "category": "game",
       "type": "tech",
       "image": "",
-      "timestamp": "2026-10-11T05:23:42.977053"
+      "timestamp": "2026-10-12T05:35:23.050642"
+    },
+    {
+      "title": "Beginner Graphics Programming Study Guide",
+      "url": "https://gamedev.net/tutorials/programming/graphics/beginner-graphics-programming-study-guide-r6168",
+      "summary": "IntroductionAboutThis is a roadmap for learning basic graphics programming on one’s own, from free online resources. While graphics as a field isn’t tied to any specific programming language, tool, pl...",
+      "pub_time": "",
+      "source": "GameDev.net",
+      "category": "game",
+      "type": "tech",
+      "image": "",
+      "timestamp": "2026-10-12T05:35:23.051386"
+    },
+    {
+      "title": "The Curse of Hephaestus-MiniJam221",
+      "url": "https://pratikgamez.itch.io/minijam221",
+      "summary": "",
+      "pub_time": "",
+      "source": "itch.io",
+      "category": "game",
+      "type": "indie",
+      "image": "https://img.itch.zone/aW1nLzMwNzg3MTgxLnBuZw==/315x250%23c/XCx0Wq.png",
+      "timestamp": "2026-10-12T05:35:23.052536"
     },
     {
       "title": "“TapTap玩聚节”是如何办成的？",
@@ -499,41 +482,41 @@
       "category": "game",
       "type": "indie",
       "image": "http://img.chuapp.com/wp-content/Picture/2026-10-01/3976abe6bb8d9554.jpg?imageView2/2/w/700",
-      "timestamp": "2026-10-11T05:23:42.977951"
+      "timestamp": "2026-10-12T05:35:23.053634"
     },
     {
-      "title": "NekoTrak",
-      "url": "https://store.steampowered.com/app/5249210",
+      "title": "末班",
+      "url": "https://store.steampowered.com/app/3820460",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5249210/d3ff6eb306d18e4ec59def351b4370e7d93653b0/header.jpg?t=1791691089",
-      "timestamp": "2026-10-11T05:23:42.978850"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3820460/9c49b04fcace5d83107458a0505bcc25eb713716/header_schinese.jpg?t=1791779172",
+      "timestamp": "2026-10-12T05:35:23.054490"
     },
     {
-      "title": "Ultimate Racing Simulator 1",
-      "url": "https://store.steampowered.com/app/5046820",
+      "title": "ROLY",
+      "url": "https://store.steampowered.com/app/5177750",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046820/a0c89e6c06dada05d84f653e90a6bb094358d7b3/header.jpg?t=1791689394",
-      "timestamp": "2026-10-11T05:23:42.979832"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5177750/25243b37f00677736cb5b1d8d6821fa54be80fbc/header.jpg?t=1791777622",
+      "timestamp": "2026-10-12T05:35:23.055426"
     },
     {
-      "title": "429 - Four Twenty Knight",
-      "url": "https://store.steampowered.com/app/4665910",
+      "title": "饕餮魔宴",
+      "url": "https://store.steampowered.com/app/5071730",
       "summary": "",
       "pub_time": "",
       "source": "Steam",
       "category": "game",
       "type": "general",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665910/d4fdef59fd94a0fb11a309d07c7f71842b6e7816/header.jpg?t=1791681681",
-      "timestamp": "2026-10-11T05:23:42.980751"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071730/51645ca0aa01c0e59e31fec2bd675e167d390692/header.jpg?t=1791774398",
+      "timestamp": "2026-10-12T05:35:23.056371"
     }
   ],
-  "last_cleanup": "2026-10-11T05:23:42.980765"
+  "last_cleanup": "2026-10-12T05:35:23.056387"
 }
